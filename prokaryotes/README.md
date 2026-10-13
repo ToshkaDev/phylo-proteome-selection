@@ -8,6 +8,7 @@ Use Python 3.10+ from this directory:
 
 ```bash
 python -m pip install -r requirements.txt
+tar -xvf inputs/metadata_r232.tsv.gz -C inputs/
 python run_pipeline.py
 ```
 
