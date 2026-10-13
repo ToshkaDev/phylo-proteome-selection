@@ -11,8 +11,7 @@ Modes:
   * independent mode (default): criteria-first selection, no benchmark membership used.
   * reference-anchor mode (--reference-anchor): preserve the historical core as curated
     anchors, then use criteria to fill any remaining slots. This mode is intended to
-    increase overlap with / reproduce the historical set, not to claim an independent
-    reconstruction.
+    increase overlap with / reproduce the historical set.
 
 The 5 target protein families are deliberately NOT used as selection features.
 """

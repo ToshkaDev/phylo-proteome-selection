@@ -7,7 +7,7 @@ PAIRS=BASE/'inputs'/'phylogeny'/'family_pairwise_min_distances_reconstructed.tsv
 REGIONS=BASE/'inputs'/'phylogeny'/'family_region_assignments_reconstructed.tsv'
 OUT=BASE/'outputs'/'model_enriched'; OUT.mkdir(parents=True, exist_ok=True)
 
-# Names and strain preferences transcribed from the user-provided model-organism list.
+# Names and strain preferences of model organisms
 # Aliases help account for genus transfers and older nomenclature; exact strain is preferred when available.
 TARGETS = [
 ('Escherichia coli',['K-12','MG1655']),('Escherichia coli',['BL21']),('Escherichia coli',['O157:H7','EDL933']),

@@ -7,9 +7,6 @@ Definitions:
 - median_nn: median across families of each family's nearest other-family distance.
 - cutoff: 1.75 * median_nn.
 - regions: complete-linkage clusters of families cut at that cutoff.
-
-This is an explicit reproducible reconstruction, not a claim to reproduce an
-unavailable historical implementation exactly.
 """
 from __future__ import annotations
 import argparse
