@@ -1,0 +1,6 @@
+1. Install: python -m pip install pandas openpyxl biopython
+2. Run criteria_selector.py in coverage-calibrated mode using README commands.
+3. Inspect selection_audit.tsv; pay particular attention to quality classes replace_if_possible
+   and remove_replace_review, and to taxa outside the 196-tip tree.
+4. Run export_selected_set.py to add only venom/toxin-only supplement rows.
+5. For a benchmark-blind comparison, rerun without --reference-workbook.
