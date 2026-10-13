@@ -1,0 +1,10 @@
+# Explicitly protected model/reference organisms based on the written criteria and comparable major models.
+EP00067_Danio_rerio
+EP00074_Homo_sapiens
+EP00076_Gallus_gallus
+EP00081_Caenorhabditis_elegans
+EP00099_Drosophila_melanogaster
+EP00144_Saccharomyces_cerevisiae
+EP00198_Chlamydomonas_reinhardtii
+EP00260_Arabidopsis_thaliana
+EP00333_Tetrahymena_thermophila
