@@ -1,0 +1,2580 @@
+domain	order	selected_family	selection_rank	effective_region_reconstructed	raw_families	median_nn_reconstructed	threshold_reconstructed	effective_families_reconstructed	target_k_reconstructed
+Archaea	40CM-2-53-6	CAYOZM01	1	1	10	0.4426836	0.7746963	1	1
+Archaea	Aenigmatarchaeales	JAHLMS01	1	1	8	0.6906777	1.208685975	1	1
+Archaea	Alkanophagales	B39-G2	1	1	2	0.483287	0.84575225	1	1
+Archaea	Altiarchaeales	Altiarchaeaceae	1	1	1			1	1
+Archaea	Anstonellales	JAGGXE01	1	1	11	0.7097365	1.242038875	3	3
+Archaea	Anstonellales	VGKX01	2	2	11	0.7097365	1.242038875	3	3
+Archaea	Anstonellales	SKW190	3	3	11	0.7097365	1.242038875	3	3
+Archaea	Archaeoglobales	Archaeoglobaceae	1	1	2	0.46660829	0.8165645075	1	1
+Archaea	B14-G2	B14-G2	1	1	1			1	1
+Archaea	B1Sed10-29	B47-G15	1	1	6	0.8409141	1.471599675	1	1
+Archaea	B24	JAWCPE01	1	1	4	0.610218605	1.06788255875	1	1
+Archaea	B33-G15	B33-G15	1	1	1			1	1
+Archaea	B47-G6	B47-G6	1	1	1			1	1
+Archaea	B88-G9	B88-G9	1	1	1			1	1
+Archaea	Baldrarchaeales	Baldrarchaeaceae	1	1	2	0.4211033	0.736930775	1	1
+Archaea	Bathyarchaeales	B26-1	1	1	11	0.3649476	0.6386583	2	2
+Archaea	Bathyarchaeales	UBA233	2	2	11	0.3649476	0.6386583	2	2
+Archaea	Burarchaeales	JBFMAP01	1	1	8	0.57905125	1.0133396875	1	1
+Archaea	CABMEP01	CABMEP01	1	1	1			1	1
+Archaea	CAILAH01	CAILAH01	1	1	1			1	1
+Archaea	CALHIW01	CALHIW01	1	1	1			1	1
+Archaea	CAYFZR01	CAYFZR01	1	1	1			1	1
+Archaea	CAYMVK01	CAYYFB01	1	1	1			1	1
+Archaea	CAYNNH01	CAYNNH01	1	1	1			1	1
+Archaea	CAYQAE01	CAYQAE01	1	1	1			1	1
+Archaea	CAYQNF01	CAYQNF01	1	1	1			1	1
+Archaea	CAYVLA01	CAYVLA01	1	1	1			1	1
+Archaea	CAYZOK01	CAYZOK01	1	1	1			1	1
+Archaea	CAZCWL01	CAZCWL01	1	1	2	0.801063	1.40186025	1	1
+Archaea	CAZGMV01	CAZGMV01	1	1	1			1	1
+Archaea	CAZHTU01	JBDRCC01	1	1	1			1	1
+Archaea	CAZPOY01	CAZPOY01	1	1	1			1	1
+Archaea	CAZSUE01	CAZSUE01	1	1	1			1	1
+Archaea	CAZTBM01	SZUA-1508	1	1	1			1	1
+Archaea	CAZUZU01	CAZUZU01	1	1	1			1	1
+Archaea	CAZWFW01	CAZWFW01	1	1	1			1	1
+Archaea	CAZXUR01	CAZXUR01	1	1	1			1	1
+Archaea	CG10238-14	EX4484-224	1	1	7	0.7342171	1.284879925	1	1
+Archaea	CSSed11-243R1	CSSed11-243R1	1	1	1			1	1
+Archaea	Caldarchaeales	Caldarchaeaceae	1	1	4	0.59293071	1.0376287425	1	1
+Archaea	Conexivisphaerales	CALBHZ01	1	1	4	0.66113815365	1.15699176889	1	1
+Archaea	Culexarchaeales	B10-G16	1	1	3	0.2515822	0.44026885	2	2
+Archaea	Culexarchaeales	Culexarchaeaceae	2	2	3	0.2515822	0.44026885	2	2
+Archaea	DAOVMN01	DAOVMN01	1	1	1			1	1
+Archaea	DAOWMC01	DAOWMC01	1	1	1			1	1
+Archaea	DHVEG-1	B18-G2	1	1	2	0.4023459	0.704105325	1	1
+Archaea	DRAE01	DRAE01	1	1	1			1	1
+Archaea	DSM-18856	Methermicoccaceae	1	1	1			1	1
+Archaea	DSM-2088	Methanothermaceae	1	1	1			1	1
+Archaea	DTKX01	DATEUP01	1	1	2	0.6699048	1.1723334	1	1
+Archaea	DYHY01	CAZGQF01	1	1	2	0.961961	1.68343175	1	1
+Archaea	EX4484-135	B24-G1	1	1	2	0.4888663	0.855516025	1	1
+Archaea	EX4484-205	JAAOZP01	1	1	3	1.0148006	1.77590105	1	1
+Archaea	EX4484-217-1	EX4484-217-1	1	1	2	0.4525815	0.792017625	1	1
+Archaea	EX4484-52	B79-G9	1	1	7	0.7989136	1.3980988	2	2
+Archaea	EX4484-52	EX4484-52	2	2	7	0.7989136	1.3980988	2	2
+Archaea	GCA-002838935	GCA-002838935	1	1	1			1	1
+Archaea	GCA-020350865	GCA-020350865	1	1	2	0.4639394	0.81189395	1	1
+Archaea	GW2011-AR5	GW2011-AR5	1	1	6	0.8172122	1.43012135	1	1
+Archaea	Gearchaeales	Gearchaeaceae	1	1	2	0.9026443	1.579627525	1	1
+Archaea	Geothermarchaeales	CAYLIY01	1	1	2	0.754083	1.31964525	1	1
+Archaea	Hadarchaeales	Hadarchaeaceae	1	1	4	0.5456352	0.9548616	1	1
+Archaea	Halarchaeoplasmatales	Halarchaeoplasmataceae	1	1	1			1	1
+Archaea	Halobacteriales	Afararchaeaceae	1	1	15	0.2940104	0.5145182	3	3
+Archaea	Halobacteriales	Haladaptataceae	2	2	15	0.2940104	0.5145182	3	3
+Archaea	Halobacteriales	SKSH01	3	3	15	0.2940104	0.5145182	3	3
+Archaea	Hecatellales	Hecatellaceae	1	1	1			1	1
+Archaea	Heimdallarchaeales	JAJRWK01	1	1	4	0.81143125	1.4200046875	1	1
+Archaea	Helarchaeales	HEL-GB-A	1	1	2	0.7782553	1.361946775	1	1
+Archaea	Hermodarchaeales	Hermodarchaeaceae	1	1	1			1	1
+Archaea	Hodarchaeales	Hodarchaeaceae	1	1	1			1	1
+Archaea	Hydrothermarchaeales	JACRDW01	1	1	10	0.3799244	0.6648677	1	1
+Archaea	IMC4	CAZEGI01	1	1	5	0.5912997	1.034774475	1	1
+Archaea	Iainarchaeales	DTGL01	1	1	27	0.7392615	1.293707625	4	4
+Archaea	Iainarchaeales	JAFCCJ01	2	2	27	0.7392615	1.293707625	4	4
+Archaea	Iainarchaeales	CSSED10-239	3	3	27	0.7392615	1.293707625	4	4
+Archaea	Iainarchaeales	0-14-0-20-30-16	4	4	27	0.7392615	1.293707625	4	4
+Archaea	JAADDC01	CAZMYQ01	1	1	2	1.4791366	2.58848905	1	1
+Archaea	JAAOXT01	JAAOXT01	1	1	1			1	1
+Archaea	JABLTI01	JABLTI01	1	1	1			1	1
+Archaea	JACIWG01	JACIWG01	1	1	1			1	1
+Archaea	JACPAO01	JAHWKR01	1	1	3	0.5846834	1.02319595	1	1
+Archaea	JACPZZ01	JACPZZ01	1	1	1			1	1
+Archaea	JACQPN01	JACQPN01	1	1	5	0.4983261	0.872070675	1	1
+Archaea	JACQPP01	JACQPP01	1	1	1			1	1
+Archaea	JACRDV01	JACRDV01	1	1	1			1	1
+Archaea	JAEHCK01	CBDVCJ01	1	1	2	0.3718068	0.6506619	1	1
+Archaea	JAFCGN01	DAOVEB01	1	1	2	0.8615734	1.50775345	1	1
+Archaea	JAFGOX01	DATDTB01	1	1	1			1	1
+Archaea	JAFGQM01	JAFGQM01	1	1	1			1	1
+Archaea	JAGGVJ01	JAGGVJ01	1	1	1			1	1
+Archaea	JAGHBH01	JAGHBH01	1	1	1			1	1
+Archaea	JAHFTX01	JAHFTX01	1	1	1			1	1
+Archaea	JAJSAE01	JAJSAE01	1	1	1			1	1
+Archaea	JAKEGO01	JAKEGO01	1	1	2	0.453496	0.793618	1	1
+Archaea	JALTZZ01	JALTZZ01	1	1	2	0.5570926	0.97491205	1	1
+Archaea	JANQNL01	JANQNL01	1	1	1			1	1
+Archaea	JAOZGF01	JAOZFZ01	1	1	1			1	1
+Archaea	JAPDIZ01	JAPDIZ01	1	1	1			1	1
+Archaea	JAPDLS01	Haiyanarchaeaceae	1	1	1			1	1
+Archaea	JAQUSD01	JAQUSD01	1	1	1			1	1
+Archaea	JASEFT01	JASEFT01	1	1	2	0.4469334	0.78213345	1	1
+Archaea	JASLWR01	JASLWR01	1	1	1			1	1
+Archaea	JASMDC01	JASMDC01	1	1	1			1	1
+Archaea	JAUWIL01	JAUWIL01	1	1	1			1	1
+Archaea	JAWCLZ01	JAWCLZ01	1	1	1			1	1
+Archaea	JBBABA01	JBBABA01	1	1	1			1	1
+Archaea	JBHIEI01	JBHIEI01	1	1	1			1	1
+Archaea	Jingweiarchaeales	Jingweiarchaeaceae	1	1	1			1	1
+Archaea	Jordiarchaeales	Freyrarchaeaceae	1	1	2	0.54838292	0.95967011	1	1
+Archaea	Korarchaeales	JAOZGB01	1	1	2	1.1114421	1.945023675	1	1
+Archaea	Lutacidiplasmatales	SKW197	1	1	3	0.7539233	1.319365775	1	1
+Archaea	MGIII	CAYLMJ01	1	1	2	0.74023262	1.295407085	1	1
+Archaea	Marsarchaeales	Marsarchaeaceae	1	1	2	1.5191464	2.6585062	1	1
+Archaea	Methanobacteriales	Methanothermobacteraceae	1	1	3	0.2066192	0.3615836	1	1
+Archaea	Methanocellales	Methanocellaceae	1	1	1			1	1
+Archaea	Methanococcales	Methanocaldococcaceae	1	1	2	0.2450654	0.42886445	1	1
+Archaea	Methanofastidiosales	B48-G16	1	1	4	0.68307275	1.1953773125	1	1
+Archaea	Methanoflorentales	Methanoflorentaceae	1	1	1			1	1
+Archaea	Methanoliparales	Methanoliparaceae	1	1	1			1	1
+Archaea	Methanomassiliicoccales	JACIVX01	1	1	7	0.30921076	0.54111883	1	1
+Archaea	Methanomethylicales	JAGHCH01	1	1	2	0.50953205	0.8916810875	1	1
+Archaea	Methanomicrobiales	Methanomicrobiaceae	1	1	6	0.31780975	0.5561670625	1	1
+Archaea	Methanonatronarchaeales	Methanonatronarchaeaceae	1	1	1			1	1
+Archaea	Methanopyrales	Methanopyraceae	1	1	1			1	1
+Archaea	Methanosarcinales	CAZCCY01	1	1	6	0.43344441	0.7585277175	1	1
+Archaea	Methanotrichales	Methanotrichaceae	1	1	1			1	1
+Archaea	Micrarchaeales	CABMGC01	1	1	3	1.0348218	1.81093815	1	1
+Archaea	Mnemosynellales	Mnemosynellaceae	1	1	1			1	1
+Archaea	Nanobdellales	CAZNIQ01	1	1	3	1.063654	1.8613945	1	1
+Archaea	Nanosalinales	Nanoanaerosalinaceae	1	1	4	0.69531245	1.2167967875	1	1
+Archaea	Nezhaarchaeales	B40-G2	1	1	3	0.4671347	0.817485725	1	1
+Archaea	Nitrososphaerales	UBA213	1	1	17	0.5861351	1.025736425	2	2
+Archaea	Nitrososphaerales	JANXEG01	2	2	17	0.5861351	1.025736425	2	2
+Archaea	Njordarchaeales	Njordarchaeaceae	1	1	2	1.0753221	1.881813675	1	1
+Archaea	Norongarragalinales	JACRGE01	1	1	10	0.69029035	1.2080081125	1	1
+Archaea	Odinarchaeales	JBHLKK01	1	1	2	0.6110988	1.0694229	1	1
+Archaea	PEZQ01	PEZQ01	1	1	1			1	1
+Archaea	PSMU01	PSMU01	1	1	1			1	1
+Archaea	PWEA01	JAGHBM01	1	1	3	0.748003	1.30900525	1	1
+Archaea	Pacearchaeales	JAHJTO01	1	1	9	0.8248174	1.44343045	1	1
+Archaea	Parvarchaeales	Parvarchaeaceae	1	1	1			1	1
+Archaea	Penumbrarchaeales	EX4484-36	1	1	2	0.5120414	0.89607245	1	1
+Archaea	Poseidoniales	Thalassarchaeaceae	1	1	3	0.5706081	0.998564175	1	1
+Archaea	QMSL01	B3-G16	1	1	2	0.3687904	0.6453832	1	1
+Archaea	QMZP01	CAZFVX01	1	1	6	0.7676095	1.343316625	1	1
+Archaea	QMZS01	QMZS01	1	1	1			1	1
+Archaea	RBG-16-48-13	JAGTRE01	1	1	6	0.55775515	0.9760715125	1	1
+Archaea	RBG-16-68-12	EA-27	1	1	7	0.4021009	0.703676575	1	1
+Archaea	SCGC-AAA011-G17	VGLX01	1	1	25	0.7622105	1.333868375	1	1
+Archaea	SG8-5	JAGLSY01	1	1	4	0.37881965	0.6629343875	1	1
+Archaea	SW-10-69-26	SW-10-69-26	1	1	1			1	1
+Archaea	Sifarchaeales	Sifarchaeaceae	1	1	1			1	1
+Archaea	Sigyniarchaeales	Promethearchaeaceae	1	1	3	0.8378758	1.46628265	1	1
+Archaea	SpSt-1190	SpSt-1190	1	1	1			1	1
+Archaea	Sulfolobales	WAQK01	1	1	13	0.6181682	1.08179435	2	2
+Archaea	Sulfolobales	CAZFJX01	2	2	13	0.6181682	1.08179435	2	2
+Archaea	Syntropharchaeales	Syntropharchaeaceae	1	1	1			1	1
+Archaea	Sysuiplasmatales	Sysuiplasmataceae	1	1	1			1	1
+Archaea	TCS64	B23	1	1	4	0.39721621	0.6951283675	2	2
+Archaea	TCS64	CBFDTC01	2	2	4	0.39721621	0.6951283675	2	2
+Archaea	Thermococcales	CAYNOZ01	1	1	2	0.9017731	1.578102925	1	1
+Archaea	Thermofilales	B69-G16	1	1	7	0.4839023	0.846829025	1	1
+Archaea	Thermoplasmatales	Aciduliprofundaceae	1	1	7	0.553814	0.9691745	2	2
+Archaea	Thermoplasmatales	B87-G9	2	2	7	0.553814	0.9691745	2	2
+Archaea	Thermoproteales	Thermocladiaceae	1	1	3	0.6080795	1.064139125	1	1
+Archaea	Thorarchaeales	CAZPUN01	1	1	2	0.5437665	0.951591375	1	1
+Archaea	Tiddalikarchaeales	Tiddalikarchaeaceae	1	1	1			1	1
+Archaea	UBA10117	CAYGVN01	1	1	8	0.7679998	1.34399965	1	1
+Archaea	UBA10834	DTMW01	1	1	2	0.4168599	0.729504825	1	1
+Archaea	UBA148	JAUWXC01	1	1	3	0.2982464	0.5219312	1	1
+Archaea	UBA186	UBA186	1	1	1			1	1
+Archaea	UBA202	DSCA01	1	1	2	0.3232418	0.56567315	1	1
+Archaea	UBA287	UBA287	1	1	1			1	1
+Archaea	UBA9212	UBA9212	1	1	1			1	1
+Archaea	Undinarchaeales	JBDRKL01	1	1	5	0.6293059	1.101285325	1	1
+Archaea	VGTL01	VGTL01	1	1	1			1	1
+Archaea	WALJ01	WALJ01	1	1	1			1	1
+Archaea	WALL01	WALL01	1	1	3	0.5433545	0.950870375	1	1
+Archaea	WJKC01	WJKC01	1	1	1			1	1
+Archaea	Woesearchaeales	CAYPCY01	1	1	126	0.62143045	1.0875032875	13	13
+Archaea	Woesearchaeales	JBDRIN01	2	2	126	0.62143045	1.0875032875	13	13
+Archaea	Woesearchaeales	CAYXTQ01	3	3	126	0.62143045	1.0875032875	13	13
+Archaea	Woesearchaeales	PXDW01	4	4	126	0.62143045	1.0875032875	13	13
+Archaea	Woesearchaeales	J091	5	5	126	0.62143045	1.0875032875	13	13
+Archaea	Woesearchaeales	JAGVZT01	6	6	126	0.62143045	1.0875032875	13	13
+Archaea	Woesearchaeales	UBA119	7	7	126	0.62143045	1.0875032875	13	13
+Archaea	Woesearchaeales	WAPY01	8	8	126	0.62143045	1.0875032875	13	13
+Archaea	Woesearchaeales	JABGXB01	9	9	126	0.62143045	1.0875032875	13	13
+Archaea	Woesearchaeales	CAZXZL01	10	10	126	0.62143045	1.0875032875	13	13
+Archaea	Woesearchaeales	JAWBMQ01	11	11	126	0.62143045	1.0875032875	13	13
+Archaea	Woesearchaeales	JAQUVJ01	12	12	126	0.62143045	1.0875032875	13	13
+Archaea	Woesearchaeales	UBA583	13	13	126	0.62143045	1.0875032875	13	13
+Archaea	Wukongarchaeales	Wukongarchaeaceae	1	1	1			1	1
+Bacteria	0-14-0-10-38-17	0-14-0-10-38-17	1	1	1			1	1
+Bacteria	0-14-0-20-40-13	0-14-0-20-40-13	1	1	1			1	1
+Bacteria	0-14-0-80-59-12	0-14-0-80-59-12	1	1	1			1	1
+Bacteria	1-14-0-10-42-19	1-14-0-10-42-19	1	1	1			1	1
+Bacteria	1-14-0-20-64-10	1-14-0-20-64-10	1	1	2	0.33146	0.580055	1	1
+Bacteria	1-14-2-50-48-13	1-14-2-50-48-13	1	1	1			1	1
+Bacteria	16-39-46	JABJFC01	1	1	3	0.25035	0.4381125	1	1
+Bacteria	2-01-FULL-39-13	2-01-FULL-39-13	1	1	3	0.69288	1.21254	1	1
+Bacteria	2-01-FULL-39-33	2-01-FULL-39-33	1	1	2	0.41919	0.7335825	1	1
+Bacteria	2-01-FULL-45-10	JAHFGN01	1	1	3	0.23567	0.4124225	1	1
+Bacteria	2-01-FULL-47-10	JBBIMT01	1	1	4	0.573835	1.00421125	1	1
+Bacteria	2-01-FULL-59-12	2-01-FULL-59-12	1	1	2	0.27725	0.4851875	1	1
+Bacteria	2-01-FULL-66-17	2-01-FULL-66-17	1	1	1			1	1
+Bacteria	2-02-FULL-35-15	2-02-FULL-35-15	1	1	1			1	1
+Bacteria	2-02-FULL-39-11	2-02-FULL-39-11	1	1	1			1	1
+Bacteria	2-02-FULL-39-32	2-02-FULL-39-32	1	1	1			1	1
+Bacteria	2-02-FULL-40-11	2-02-FULL-40-11	1	1	1			1	1
+Bacteria	2-02-FULL-40-12	IGHO2-01-FULL-4-A	1	1	4	0.41447	0.7253225	1	1
+Bacteria	2-02-FULL-44-16	DYJF01	1	1	4	0.2447	0.428225	1	1
+Bacteria	2-02-FULL-49-11	2-02-FULL-49-11	1	1	1			1	1
+Bacteria	2-02-FULL-50-16	2-02-FULL-50-16	1	1	2	0.26393	0.4618775	1	1
+Bacteria	2-02-FULL-51-18	2-02-FULL-51-18	1	1	3	0.17212	0.30121	2	2
+Bacteria	2-02-FULL-51-18	JAGOUK01	2	2	3	0.17212	0.30121	2	2
+Bacteria	2-12-FULL-35-15	2-12-FULL-35-15	1	1	1			1	1
+Bacteria	2-12-FULL-37-12	2-12-FULL-37-12	1	1	1			1	1
+Bacteria	2-12-FULL-41-13	2-12-FULL-41-13	1	1	1			1	1
+Bacteria	2-12-FULL-45-22	2-12-FULL-45-22	1	1	1			1	1
+Bacteria	2-12-FULL-50-11	2-12-FULL-50-11	1	1	2	0.63216	1.10628	1	1
+Bacteria	2-12-FULL-54-10	2-12-FULL-54-10	1	1	1			1	1
+Bacteria	2-12-FULL-57-11	2-12-FULL-57-11	1	1	1			1	1
+Bacteria	2-12-FULL-60-25	2-12-FULL-60-25	1	1	1			1	1
+Bacteria	2-12-FULL-62-27	2-12-FULL-62-27	1	1	1			1	1
+Bacteria	20CM-2-55-15	20CM-2-55-15	1	1	1			1	1
+Bacteria	21-64-14	21-64-14	1	1	1			1	1
+Bacteria	32-111	32-111	1	1	1			1	1
+Bacteria	43-37	43-37	1	1	2	0.27611	0.4831925	1	1
+Bacteria	4484-107	4484-107	1	1	1			1	1
+Bacteria	4484-113	4484-113	1	1	2	0.53598	0.937965	1	1
+Bacteria	4484-211	JAGQKX01	1	1	3	0.59434	1.040095	1	1
+Bacteria	4484-213	4484-213	1	1	1			1	1
+Bacteria	4484-93	4484-93	1	1	1			1	1
+Bacteria	4572-55	4572-55	1	1	1			1	1
+Bacteria	4572-78	JBHHXL01	1	1	4	0.206635	0.36161125	1	1
+Bacteria	9FT-COMBO-42-15	9FT-COMBO-42-15	1	1	1			1	1
+Bacteria	9FT-COMBO-53-11	9FT-COMBO-53-11	1	1	1			1	1
+Bacteria	AC-67	AC-67	1	1	1			1	1
+Bacteria	AC1	EtOH8	1	1	1			1	1
+Bacteria	AKS1	AKS1	1	1	1			1	1
+Bacteria	AKYH767-A	2013-40CM-41-45	1	1	5	0.20294	0.355145	1	1
+Bacteria	ARS1246	ARS1246	1	1	1			1	1
+Bacteria	ARS69	ARS69	1	1	1			1	1
+Bacteria	ATCC43930	Allostellaceae	1	1	2	0.15828	0.27699	1	1
+Bacteria	ATN3	ATN3	1	1	2	0.24871	0.4352425	1	1
+Bacteria	AUK180	AUK180	1	1	1			1	1
+Bacteria	Abditibacteriales	Abditibacteriaceae	1	1	2	0.36805	0.6440875	1	1
+Bacteria	Absconditabacterales	Absconditicoccaceae	1	1	1			1	1
+Bacteria	Acanthopleuribacterales	Acanthopleuribacteraceae	1	1	1			1	1
+Bacteria	Acetivibrionales	CAVYEU01	1	1	24	0.14884	0.26047	7	7
+Bacteria	Acetivibrionales	RGIG10202	2	2	24	0.14884	0.26047	7	7
+Bacteria	Acetivibrionales	UBA4821	3	3	24	0.14884	0.26047	7	7
+Bacteria	Acetivibrionales	DULL01	4	4	24	0.14884	0.26047	7	7
+Bacteria	Acetivibrionales	CAYWGM01	5	5	24	0.14884	0.26047	7	7
+Bacteria	Acetivibrionales	JAKOSZ01	6	6	24	0.14884	0.26047	7	7
+Bacteria	Acetivibrionales	JANLFN01	7	7	24	0.14884	0.26047	7	7
+Bacteria	Acetobacterales	Acetobacteraceae	1	1	1			1	1
+Bacteria	Acholeplasmatales	JAEDCM01	1	1	5	0.29686	0.519505	1	1
+Bacteria	Acidaminococcales	JAJUGR01	1	1	4	0.18051	0.3158925	1	1
+Bacteria	Acidiferrales	DATBWB01	1	1	3	0.22998	0.402465	1	1
+Bacteria	Acidiferrobacterales	CAZCAK01	1	1	8	0.14711	0.2574425	1	1
+Bacteria	Acidimicrobiales	JACCXE01	1	1	76	0.221155	0.38702125	11	11
+Bacteria	Acidimicrobiales	CAXMLU01	2	2	76	0.221155	0.38702125	11	11
+Bacteria	Acidimicrobiales	JBOGIG01	3	3	76	0.221155	0.38702125	11	11
+Bacteria	Acidimicrobiales	JAMDDE01	4	4	76	0.221155	0.38702125	11	11
+Bacteria	Acidimicrobiales	DASWMK01	5	5	76	0.221155	0.38702125	11	11
+Bacteria	Acidimicrobiales	BPGG01	6	6	76	0.221155	0.38702125	11	11
+Bacteria	Acidimicrobiales	JADJXE01	7	7	76	0.221155	0.38702125	11	11
+Bacteria	Acidimicrobiales	CAZWPY01	8	8	76	0.221155	0.38702125	11	11
+Bacteria	Acidimicrobiales	CATQHL01	9	9	76	0.221155	0.38702125	11	11
+Bacteria	Acidimicrobiales	JBEIGA01	10	10	76	0.221155	0.38702125	11	11
+Bacteria	Acidimicrobiales	SZUA-35	11	11	76	0.221155	0.38702125	11	11
+Bacteria	Acidithiobacillales	Acidithiobacillaceae	1	1	2	0.16146	0.282555	1	1
+Bacteria	Acidothermales	Acidothermaceae	1	1	1			1	1
+Bacteria	Acidulodesulfobacterales	Acidulodesulfobacteraceae	1	1	1			1	1
+Bacteria	Actinomarinales	Actinomarinaceae	1	1	1			1	1
+Bacteria	Actinomycetales	Bifidobacteriaceae	1	10	24	0.15082	0.263935	10	9
+Bacteria	Actinomycetales	Microbacteriaceae	2	9	24	0.15082	0.263935	10	9
+Bacteria	Actinomycetales	Demequinaceae	3	8	24	0.15082	0.263935	10	9
+Bacteria	Actinomycetales	JBBAYJ01	4	1	24	0.15082	0.263935	10	9
+Bacteria	Actinomycetales	Dermabacteraceae	5	5	24	0.15082	0.263935	10	9
+Bacteria	Actinomycetales	WQXJ01	6	7	24	0.15082	0.263935	10	9
+Bacteria	Actinomycetales	Angustibacteraceae	7	2	24	0.15082	0.263935	10	9
+Bacteria	Actinomycetales	Brevibacteriaceae	8	4	24	0.15082	0.263935	10	9
+Bacteria	Actinomycetales	JAHECE01	9	6	24	0.15082	0.263935	10	9
+Bacteria	Adiutricales	JAGVGV01	1	1	3	0.21328	0.37324	1	1
+Bacteria	Aeolococcales	Aeolococcaceae	1	1	2	0.38367	0.6714225	1	1
+Bacteria	Aerophobales	B47-G16	1	1	6	0.23183	0.4057025	1	1
+Bacteria	Aggregatilineales	Ch27	1	1	8	0.271175	0.47455625	1	1
+Bacteria	Alicyclobacillales	Alicyclobacillaceae	1	1	2	0.25652	0.44891	1	1
+Bacteria	Aminicenantales	CAZPAX01	1	1	9	0.16714	0.292495	1	1
+Bacteria	Anaeroferrophillales	Anaeroferrophillaceae	1	1	2	0.19778	0.346115	1	1
+Bacteria	Anaerolineales	UBA4823	1	1	18	0.24745	0.4330375	3	3
+Bacteria	Anaerolineales	JBHHUI01	2	2	18	0.24745	0.4330375	3	3
+Bacteria	Anaerolineales	CAYZNA01	3	3	18	0.24745	0.4330375	3	3
+Bacteria	Anaeromusales	Anaeromusaceae	1	1	1			1	1
+Bacteria	Anaerosomatales	JAJZPX01	1	1	22	0.155725	0.27251875	2	2
+Bacteria	Anaerosomatales	JAGXFU01	2	2	22	0.155725	0.27251875	2	2
+Bacteria	Ancaeobacterales	Ancaeobacteraceae	1	1	2	0.30016	0.52528	1	1
+Bacteria	Aneurinibacillales	Aneurinibacillaceae	1	1	2	0.12325	0.2156875	1	1
+Bacteria	Aquicultorales	Aquicultoraceae	1	1	2	0.18522	0.324135	1	1
+Bacteria	Aquificales	Aquificaceae	1	1	3	0.35659	0.6240325	1	1
+Bacteria	Aquitaenariimonadales	Aquitaenariimonadaceae	1	1	1			1	1
+Bacteria	Aquiviventales	Aquiviventaceae	1	1	2	0.39635	0.6936125	1	1
+Bacteria	Arandabacterales	Arandabacteraceae	1	1	2	0.20074	0.351295	1	1
+Bacteria	Ardenticatenales	Ardenticatenaceae	1	1	2	0.31052	0.54341	1	1
+Bacteria	Arenicellales	CBDCFT01	1	1	14	0.202755	0.35482125	2	2
+Bacteria	Arenicellales	JAJDZL01	2	2	14	0.202755	0.35482125	2	2
+Bacteria	Armatimonadales	Armatimonadaceae	1	1	2	0.37633	0.6585775	1	1
+Bacteria	Atribacterales	Thermatribacteraceae	1	1	4	0.211895	0.37081625	1	1
+Bacteria	Auribacterales	Auribacteraceae	1	1	1			1	1
+Bacteria	Azospirillales	Azospirillaceae	1	1	1			1	1
+Bacteria	B-17B0	Aurantibacillaceae	1	1	1			1	1
+Bacteria	B11-G9	B11-G9	1	1	1			1	1
+Bacteria	B119-G9	B119-G9	1	1	1			1	1
+Bacteria	B129-G9	B129-G9	1	1	1			1	1
+Bacteria	B13-G15	B13-G15	1	1	2	0.16229	0.2840075	1	1
+Bacteria	B130-G9	B130-G9	1	1	1			1	1
+Bacteria	B142	JAFGFJ01	1	1	4	0.46819	0.8193325	1	1
+Bacteria	B143-G9	B143-G9	1	1	1			1	1
+Bacteria	B15-G4	JADJEK01	1	1	4	0.528975	0.92570625	1	1
+Bacteria	B15-G9	B15-G9	1	1	3	0.27435	0.4801125	1	1
+Bacteria	B1SED10-174	B1SED10-174	1	1	1			1	1
+Bacteria	B21-G16	B21-G16	1	1	1			1	1
+Bacteria	B21-G9	HyVt-16	1	1	1			1	1
+Bacteria	B22-G15	B22-G15	1	1	1			1	1
+Bacteria	B231	B231	1	1	1			1	1
+Bacteria	B26-G2	B26-G2	1	1	2	0.35399	0.6194825	1	1
+Bacteria	B26-G9	B26-G9	1	1	2	0.31805	0.5565875	1	1
+Bacteria	B28-G17	B28-G17	1	1	1			1	1
+Bacteria	B3-G13	B3-G13	1	1	1			1	1
+Bacteria	B3-LCP	B3-LCP	1	1	1			1	1
+Bacteria	B3-TA06	CAYQJV01	1	1	3	0.42598	0.745465	1	1
+Bacteria	B30-G16	B30-G16	1	1	1			1	1
+Bacteria	B36-G15	B36-G15	1	1	1			1	1
+Bacteria	B4-G1	DUEL01	1	1	3	0.20445	0.3577875	1	1
+Bacteria	B48-G9	DSTR01	1	1	3	0.40064	0.70112	1	1
+Bacteria	B62-G9	B62-G9	1	1	3	0.17241	0.3017175	1	1
+Bacteria	B64-G9	B64-G9	1	1	1			1	1
+Bacteria	B68-G9	B68-G9	1	1	1			1	1
+Bacteria	B70-G9	B70-G9	1	1	1			1	1
+Bacteria	BD1-5	UBA2023	1	1	3	0.47585	0.8327375	1	1
+Bacteria	BM002	BM002	1	1	1			1	1
+Bacteria	BMS3ABIN01	BMS3ABIN01	1	1	1			1	1
+Bacteria	BMS3Abin14	BMS3Abin14	1	1	1			1	1
+Bacteria	BMS3Bbin11	BMS3Bbin11	1	1	1			1	1
+Bacteria	BNTO01	BNTO01	1	1	1			1	1
+Bacteria	BOG-932	Roseiterribacteraceae	1	1	1			1	1
+Bacteria	BP-191	BP-191	1	1	1			1	1
+Bacteria	BQJM01	BQJM01	1	1	1			1	1
+Bacteria	BS150m-G50	BS150m-G50	1	1	1			1	1
+Bacteria	BSN033	UBA1163	1	1	1			1	1
+Bacteria	BTQY01	BTQY01	1	1	1			1	1
+Bacteria	Babelales	UASB340	1	1	21	0.35844	0.62727	2	2
+Bacteria	Babelales	JANWKD01	2	2	21	0.35844	0.62727	2	2
+Bacteria	Bac17	UBA816	1	1	1			1	1
+Bacteria	Bacillales	JACDOC01	1	1	52	0.084125	0.14721875	11	11
+Bacteria	Bacillales	Cytobacillaceae	2	2	52	0.084125	0.14721875	11	11
+Bacteria	Bacillales	Bacillaceae_L	3	3	52	0.084125	0.14721875	11	11
+Bacteria	Bacillales	SA4	4	4	52	0.084125	0.14721875	11	11
+Bacteria	Bacillales	JAVBJX01	5	5	52	0.084125	0.14721875	11	11
+Bacteria	Bacillales	Halobacillaceae	6	6	52	0.084125	0.14721875	11	11
+Bacteria	Bacillales	DSM-28697	7	7	52	0.084125	0.14721875	11	11
+Bacteria	Bacillales	DASSOY01	8	8	52	0.084125	0.14721875	11	11
+Bacteria	Bacillales	KJ1-10-99	9	9	52	0.084125	0.14721875	11	11
+Bacteria	Bacillales	Massilibacteriaceae	10	10	52	0.084125	0.14721875	11	11
+Bacteria	Bacillales	Guptibacillaceae	11	11	52	0.084125	0.14721875	11	11
+Bacteria	Bacillales_A	Planococcaceae	1	1	1			1	1
+Bacteria	Bacteriovoracales	Bacteriovoracaceae	1	1	2	0.48964	0.85687	1	1
+Bacteria	Bacteroidales	Coprobacteraceae	1	1	141	0.20049	0.3508575	16	16
+Bacteria	Bacteroidales	WRGA01	2	2	141	0.20049	0.3508575	16	16
+Bacteria	Bacteroidales	Porphyromonadaceae	3	3	141	0.20049	0.3508575	16	16
+Bacteria	Bacteroidales	CG2-30-32-10	4	4	141	0.20049	0.3508575	16	16
+Bacteria	Bacteroidales	DTU049	5	5	141	0.20049	0.3508575	16	16
+Bacteria	Bacteroidales	JBGRPZ01	6	6	141	0.20049	0.3508575	16	16
+Bacteria	Bacteroidales	SMBSF39	7	7	141	0.20049	0.3508575	16	16
+Bacteria	Bacteroidales	JAOZVK01	8	8	141	0.20049	0.3508575	16	16
+Bacteria	Bacteroidales	DYQJ01	9	9	141	0.20049	0.3508575	16	16
+Bacteria	Bacteroidales	ZOR0009	10	10	141	0.20049	0.3508575	16	16
+Bacteria	Bacteroidales	CAJPTX01	11	11	141	0.20049	0.3508575	16	16
+Bacteria	Bacteroidales	JALTDM01	12	12	141	0.20049	0.3508575	16	16
+Bacteria	Bacteroidales	JAAUTT01	13	13	141	0.20049	0.3508575	16	16
+Bacteria	Bacteroidales	Marinifilaceae	14	14	141	0.20049	0.3508575	16	16
+Bacteria	Bacteroidales	GWF2-38-335	15	15	141	0.20049	0.3508575	16	16
+Bacteria	Bacteroidales	DASQZP01	16	16	141	0.20049	0.3508575	16	16
+Bacteria	Balneolales	DATFMH01	1	1	7	0.17185	0.3007375	1	1
+Bacteria	Bdellovibrionales	JAKFYE01	1	1	13	0.26433	0.4625775	1	1
+Bacteria	Beggiatoales	Beggiatoaceae	1	1	1			1	1
+Bacteria	Berkiellales	Berkiellaceae	1	1	1			1	1
+Bacteria	Bin125	Bin125	1	1	1			1	1
+Bacteria	Bin18	Bin18	1	1	2	0.20345	0.3560375	1	1
+Bacteria	Bin65	Bin65	1	1	1			1	1
+Bacteria	Bin95	Bin95	1	1	1			1	1
+Bacteria	Bin98	Bin98	1	1	1			1	1
+Bacteria	Binatales	Binataceae	1	1	1			1	1
+Bacteria	Bipolaricaulales	Bipolaricaulaceae	1	1	1			1	1
+Bacteria	Blakebacterales	JAWOFN01	1	1	3	0.15381	0.2691675	1	1
+Bacteria	Borreliales	Borreliaceae	1	1	1			1	1
+Bacteria	Brachyspirales	Brachyspiraceae	1	1	2	0.36618	0.640815	1	1
+Bacteria	Bradymonadales	Bradymonadaceae	1	1	2	0.38848	0.67984	1	1
+Bacteria	Brevibacillales	Brevibacillaceae	1	1	1			1	1
+Bacteria	Brevinematales	CAZQBT01	1	1	6	0.28354	0.496195	2	2
+Bacteria	Brevinematales	Brevinemataceae	2	2	6	0.28354	0.496195	2	2
+Bacteria	Brocadiales	Brocadiaceae	1	1	4	0.298195	0.52184125	1	1
+Bacteria	Bryobacterales	JACQDG01	1	1	3	0.20733	0.3628275	1	1
+Bacteria	Bu12	Bu12	1	1	1			1	1
+Bacteria	Bu52	Bu52	1	1	1			1	1
+Bacteria	Buchananbacterales	GWA2-38-13	1	1	5	0.37476	0.65583	1	1
+Bacteria	Burkholderiales	Chitinimonadaceae	1	1	60	0.137645	0.24087875	13	13
+Bacteria	Burkholderiales	Chromobacteriaceae	2	2	60	0.137645	0.24087875	13	13
+Bacteria	Burkholderiales	Q3-R57-64	3	3	60	0.137645	0.24087875	13	13
+Bacteria	Burkholderiales	UBA11063	4	4	60	0.137645	0.24087875	13	13
+Bacteria	Burkholderiales	Burkholderiaceae_D	5	5	60	0.137645	0.24087875	13	13
+Bacteria	Burkholderiales	Burkholderiaceae_A	6	6	60	0.137645	0.24087875	13	13
+Bacteria	Burkholderiales	SG8-39	7	7	60	0.137645	0.24087875	13	13
+Bacteria	Burkholderiales	UBA3065	8	8	60	0.137645	0.24087875	13	13
+Bacteria	Burkholderiales	JBEEJL01	9	9	60	0.137645	0.24087875	13	13
+Bacteria	Burkholderiales	JALYOK01	10	10	60	0.137645	0.24087875	13	13
+Bacteria	Burkholderiales	Sulfuricellaceae	11	11	60	0.137645	0.24087875	13	13
+Bacteria	Burkholderiales	UBA6910	12	12	60	0.137645	0.24087875	13	13
+Bacteria	Burkholderiales	2013Ark19i	13	13	60	0.137645	0.24087875	13	13
+Bacteria	CAAGCB01	CAG-977	1	1	1			1	1
+Bacteria	CAAHEQ01	UBA3637	1	1	1			1	1
+Bacteria	CACIAM-22H2	CACIAM-22H2	1	1	1			1	1
+Bacteria	CACIAM-69d	CACIAM-69d	1	1	1			1	1
+Bacteria	CACZRW01	CACZRW01	1	1	1			1	1
+Bacteria	CADAEX01	CADAEX01	1	1	1			1	1
+Bacteria	CADAWZ01	CADAWZ01	1	1	2	0.21466	0.375655	1	1
+Bacteria	CADDZG01	WHSQ01	1	1	1			1	1
+Bacteria	CADDZV01	CADDZV01	1	1	1			1	1
+Bacteria	CADEGL01	CADEGL01	1	1	1			1	1
+Bacteria	CAIJMQ01	CAIJMQ01	1	1	1			1	1
+Bacteria	CAIKAF01	CAIKAF01	1	1	1			1	1
+Bacteria	CAIKKV01	CAITUY01	1	1	7	0.27038	0.473165	1	1
+Bacteria	CAILAD01	CAZGYV01	1	1	6	0.333755	0.58407125	1	1
+Bacteria	CAILIB01	CAILIB01	1	1	2	0.64367	1.1264225	1	1
+Bacteria	CAILMK01	JBBDIG01	1	1	5	0.26689	0.4670575	1	1
+Bacteria	CAIMUX01	VGJL01	1	1	4	0.330935	0.57913625	1	1
+Bacteria	CAINFC01	CAINFC01	1	1	1			1	1
+Bacteria	CAIPTA01	CAIPTA01	1	1	2	0.28321	0.4956175	1	1
+Bacteria	CAIQCK01	CAIQCK01	1	1	1			1	1
+Bacteria	CAIQCM01	CAIQCM01	1	1	1			1	1
+Bacteria	CAIQIC01	CAZMXS01	1	1	5	0.21607	0.3781225	1	1
+Bacteria	CAIRSR01	CAIRSR01	1	1	1			1	1
+Bacteria	CAIRYL01	CAIRYL01	1	1	2	0.44432	0.77756	1	1
+Bacteria	CAISDR01	CAISDR01	1	1	1			1	1
+Bacteria	CAISOG01	CAISOG01	1	1	1			1	1
+Bacteria	CAISUE01	CAISUE01	1	1	1			1	1
+Bacteria	CAIUAS01	CAIUAS01	1	1	1			1	1
+Bacteria	CAIUCS01	CAIUCS01	1	1	1			1	1
+Bacteria	CAIUEV01	CAIUEV01	1	1	2	0.57776	1.01108	1	1
+Bacteria	CAIUPP01	CAIUPP01	1	1	1			1	1
+Bacteria	CAIVKH01	CAIVKH01	1	1	1			1	1
+Bacteria	CAIWAD01	CAIWAD01	1	1	1			1	1
+Bacteria	CAIWXX01	CAIWXX01	1	1	1			1	1
+Bacteria	CAIXNZ01	CAIXNZ01	1	1	2	0.41821	0.7318675	1	1
+Bacteria	CAIXZC01	CAIXZC01	1	1	1			1	1
+Bacteria	CAIYCZ01	CAIRTM01	1	1	2	0.2072	0.3626	1	1
+Bacteria	CAIYQO01	CAIYQO01	1	1	1			1	1
+Bacteria	CAIYWZ01	CAIYWZ01	1	1	1			1	1
+Bacteria	CAIYYT01	CAIYYT01	1	1	1			1	1
+Bacteria	CAJBMM01	CAJBMM01	1	1	1			1	1
+Bacteria	CAJFEE01	CAJFEE01	1	1	1			1	1
+Bacteria	CAJQNE01	CAJQNE01	1	1	1			1	1
+Bacteria	CAJVYJ01	CAJVYJ01	1	1	2	0.23646	0.413805	1	1
+Bacteria	CAJWTS01	CAJWTS01	1	1	1			1	1
+Bacteria	CAJXCL01	CAJXCL01	1	1	1			1	1
+Bacteria	CAJXQU01	CAJXQU01	1	1	1			1	1
+Bacteria	CAJXXZ01	DAHXLG01	1	1	3	0.87978	1.539615	1	1
+Bacteria	CAKKQC01	CAKKQC01	1	1	1			1	1
+Bacteria	CAKMZR01	CAKMZR01	1	1	1			1	1
+Bacteria	CAKMZV01	CAKMZV01	1	1	1			1	1
+Bacteria	CAKSNL01	HGM11501	1	1	1			1	1
+Bacteria	CAKZLE01	CAKZLE01	1	1	1			1	1
+Bacteria	CAKZMO01	CAKZMO01	1	1	1			1	1
+Bacteria	CALCKW01	CALCKW01	1	1	1			1	1
+Bacteria	CALEFQ01	CALEFQ01	1	1	2	0.45926	0.803705	1	1
+Bacteria	CALFHW01	CALFHW01	1	1	1			1	1
+Bacteria	CALGFH01	CALGFH01	1	1	1			1	1
+Bacteria	CALGPD01	CALGPD01	1	1	1			1	1
+Bacteria	CALINM01	CALINM01	1	1	1			1	1
+Bacteria	CALKHQ01	CALKHQ01	1	1	1			1	1
+Bacteria	CALLYA01	CALLYA01	1	1	1			1	1
+Bacteria	CALMVH01	CALMVH01	1	1	1			1	1
+Bacteria	CALYAR01	CALYAR01	1	1	1			1	1
+Bacteria	CAMBQF01	CAMBQF01	1	1	1			1	1
+Bacteria	CAMYKB01	CAMYKB01	1	1	1			1	1
+Bacteria	CAMYNG01	CAMYNG01	1	1	1			1	1
+Bacteria	CAMZNJ01	CAMZNJ01	1	1	1			1	1
+Bacteria	CASFRQ01	SAAU01	1	1	1			1	1
+Bacteria	CAUJGQ01	CAUJGQ01	1	1	1			1	1
+Bacteria	CAVPCR01	CAVPCR01	1	1	2	0.26236	0.45913	1	1
+Bacteria	CAVQYV01	CAVQYV01	1	1	1			1	1
+Bacteria	CAVSGV01	CAVSGV01	1	1	1			1	1
+Bacteria	CAVTAV01	CAVTAV01	1	1	1			1	1
+Bacteria	CAVWCF01	CAVWCF01	1	1	1			1	1
+Bacteria	CAVYTG01	CAVYTG01	1	1	1			1	1
+Bacteria	CAVZZX01	CAVZZX01	1	1	1			1	1
+Bacteria	CAWBKL01	CAWBKL01	1	1	1			1	1
+Bacteria	CAWCPV01	CAWCPV01	1	1	1			1	1
+Bacteria	CAWDCV01	CAWDCV01	1	1	1			1	1
+Bacteria	CAWHAG01	CAWHAG01	1	1	1			1	1
+Bacteria	CAWJOP01	CAWJOP01	1	1	1			1	1
+Bacteria	CAWJPQ01	CAWJPQ01	1	1	1			1	1
+Bacteria	CAWUKA01	CAWUKA01	1	1	1			1	1
+Bacteria	CAXEIY01	CAXEIY01	1	1	1			1	1
+Bacteria	CAXMRT01	CAXMRT01	1	1	1			1	1
+Bacteria	CAXTBU01	CAXTBU01	1	1	1			1	1
+Bacteria	CAYFLR01	CAYFLR01	1	1	1			1	1
+Bacteria	CAYFNG01	CAYFNG01	1	1	1			1	1
+Bacteria	CAYFQP01	CAYFQP01	1	1	1			1	1
+Bacteria	CAYFQT01	CAYFQT01	1	1	1			1	1
+Bacteria	CAYFSA01	CAYFSA01	1	1	1			1	1
+Bacteria	CAYFWJ01	CAYFWJ01	1	1	1			1	1
+Bacteria	CAYFWW01	CAYFWW01	1	1	1			1	1
+Bacteria	CAYGGE01	CAYGGE01	1	1	1			1	1
+Bacteria	CAYGIM01	CAYGIM01	1	1	1			1	1
+Bacteria	CAYGJW01	CAYGJW01	1	1	1			1	1
+Bacteria	CAYGKN01	CAYGKN01	1	1	1			1	1
+Bacteria	CAYGNG01	CAYGNG01	1	1	1			1	1
+Bacteria	CAYGWK01	CAYGWK01	1	1	1			1	1
+Bacteria	CAYGWX01	CAYGWX01	1	1	1			1	1
+Bacteria	CAYHGV01	CAYHGV01	1	1	2	0.23415	0.4097625	1	1
+Bacteria	CAYHOC01	CAYHOC01	1	1	1			1	1
+Bacteria	CAYHQZ01	CAYHQZ01	1	1	1			1	1
+Bacteria	CAYHRN01	CAYHRN01	1	1	1			1	1
+Bacteria	CAYHVQ01	CAYHVQ01	1	1	1			1	1
+Bacteria	CAYINU01	CAYINU01	1	1	1			1	1
+Bacteria	CAYJES01	CAYJES01	1	1	1			1	1
+Bacteria	CAYJOG01	CAYJOG01	1	1	1			1	1
+Bacteria	CAYJQE01	CAYJQE01	1	1	1			1	1
+Bacteria	CAYJRR01	CAYJRR01	1	1	1			1	1
+Bacteria	CAYLLE01	CAYLLE01	1	1	1			1	1
+Bacteria	CAYMEV01	CAYMEV01	1	1	1			1	1
+Bacteria	CAYMIK01	CAYMIK01	1	1	1			1	1
+Bacteria	CAYMKA01	CAYMKA01	1	1	1			1	1
+Bacteria	CAYMWF01	CAYMWF01	1	1	1			1	1
+Bacteria	CAYNBQ01	CAYNBQ01	1	1	1			1	1
+Bacteria	CAYNIS01	CAYNIS01	1	1	1			1	1
+Bacteria	CAYNKW01	CAYNKW01	1	1	1			1	1
+Bacteria	CAYNNN01	CAYNNN01	1	1	1			1	1
+Bacteria	CAYNSX01	CAYNSX01	1	1	1			1	1
+Bacteria	CAYNWW01	CAYNWW01	1	1	1			1	1
+Bacteria	CAYNYI01	CAYNYI01	1	1	1			1	1
+Bacteria	CAYPLH01	DUMO01	1	1	1			1	1
+Bacteria	CAYPZJ01	CAYPZJ01	1	1	1			1	1
+Bacteria	CAYQDX01	CAYQDX01	1	1	1			1	1
+Bacteria	CAYQLK01	CAYQLK01	1	1	1			1	1
+Bacteria	CAYQVA01	CAYQVA01	1	1	1			1	1
+Bacteria	CAYRKT01	CAYRKT01	1	1	1			1	1
+Bacteria	CAYRSW01	CAYRSW01	1	1	1			1	1
+Bacteria	CAYRYS01	CAYRYS01	1	1	1			1	1
+Bacteria	CAYSGV01	CAYSGV01	1	1	1			1	1
+Bacteria	CAYSOG01	CAYSOG01	1	1	1			1	1
+Bacteria	CAYSPT01	CAYSPT01	1	1	1			1	1
+Bacteria	CAYTQP01	CAYTQP01	1	1	3	0.27868	0.48769	1	1
+Bacteria	CAYTUN01	CAYTUN01	1	1	1			1	1
+Bacteria	CAYUCE01	CAYUCE01	1	1	1			1	1
+Bacteria	CAYUME01	CAYUME01	1	1	1			1	1
+Bacteria	CAYUUC01	CAYUUC01	1	1	1			1	1
+Bacteria	CAYUVA01	CAYUVA01	1	1	1			1	1
+Bacteria	CAYVEO01	CAYVEO01	1	1	1			1	1
+Bacteria	CAYVXU01	CAYVXU01	1	1	1			1	1
+Bacteria	CAYVZU01	CAYVZU01	1	1	1			1	1
+Bacteria	CAYWJS01	CAYWJS01	1	1	1			1	1
+Bacteria	CAYWKU01	CAYWKU01	1	1	1			1	1
+Bacteria	CAYWPX01	CAYWPX01	1	1	1			1	1
+Bacteria	CAYWTE01	CAYWTE01	1	1	1			1	1
+Bacteria	CAYWWW01	CAYWWW01	1	1	1			1	1
+Bacteria	CAYXHB01	CAYXHB01	1	1	2	0.46772	0.81851	1	1
+Bacteria	CAYXQY01	CAYXQY01	1	1	1			1	1
+Bacteria	CAYYAU01	CAYYAU01	1	1	1			1	1
+Bacteria	CAYYBZ01	CAYYBZ01	1	1	1			1	1
+Bacteria	CAYYDP01	CAYYDP01	1	1	1			1	1
+Bacteria	CAYYKQ01	CAYYKQ01	1	1	1			1	1
+Bacteria	CAYYXM01	CAYYXM01	1	1	1			1	1
+Bacteria	CAYZDG01	CAYZDG01	1	1	1			1	1
+Bacteria	CAYZDR01	CAYZDR01	1	1	1			1	1
+Bacteria	CAZAKE01	CAZAKE01	1	1	1			1	1
+Bacteria	CAZAMP01	CAZAMP01	1	1	1			1	1
+Bacteria	CAZBCL01	CAZBCL01	1	1	1			1	1
+Bacteria	CAZBFB01	CAZBFB01	1	1	1			1	1
+Bacteria	CAZBHR01	CAZBHR01	1	1	1			1	1
+Bacteria	CAZBND01	CAZBND01	1	1	1			1	1
+Bacteria	CAZBQI01	CAZBQI01	1	1	1			1	1
+Bacteria	CAZBRS01	CAZBRS01	1	1	1			1	1
+Bacteria	CAZCBM01	CAZCBM01	1	1	1			1	1
+Bacteria	CAZCGY01	CAZCGY01	1	1	1			1	1
+Bacteria	CAZCIQ01	CAZCIQ01	1	1	1			1	1
+Bacteria	CAZCOO01	CAZCOO01	1	1	1			1	1
+Bacteria	CAZCSM01	CAZCSM01	1	1	1			1	1
+Bacteria	CAZCTP01	CAZCTP01	1	1	1			1	1
+Bacteria	CAZCXK01	CAZCXK01	1	1	1			1	1
+Bacteria	CAZDOC01	CAZDOC01	1	1	1			1	1
+Bacteria	CAZDZC01	CAZDZC01	1	1	1			1	1
+Bacteria	CAZEKV01	CAZEKV01	1	1	1			1	1
+Bacteria	CAZEPH01	CAZEPH01	1	1	1			1	1
+Bacteria	CAZETR01	Amesbacteraceae	1	1	2	0.471	0.82425	1	1
+Bacteria	CAZFTP01	CAZFTP01	1	1	1			1	1
+Bacteria	CAZGCA01	CAZGCA01	1	1	1			1	1
+Bacteria	CAZGEP01	CAZGEP01	1	1	1			1	1
+Bacteria	CAZGFX01	CAZGFX01	1	1	1			1	1
+Bacteria	CAZGSV01	CAZGSV01	1	1	1			1	1
+Bacteria	CAZGTC01	CAZGTC01	1	1	1			1	1
+Bacteria	CAZHEV01	CAZHEV01	1	1	1			1	1
+Bacteria	CAZHKL01	CAZHKL01	1	1	1			1	1
+Bacteria	CAZHTB01	CAZHTB01	1	1	1			1	1
+Bacteria	CAZHVB01	CAZHVB01	1	1	1			1	1
+Bacteria	CAZHVX01	CAZHVX01	1	1	1			1	1
+Bacteria	CAZHWT01	CAZHWT01	1	1	1			1	1
+Bacteria	CAZICA01	CAZICA01	1	1	1			1	1
+Bacteria	CAZICC01	CAZICC01	1	1	1			1	1
+Bacteria	CAZIPW01	CAZIPW01	1	1	1			1	1
+Bacteria	CAZIXI01	CAZIXI01	1	1	1			1	1
+Bacteria	CAZJIT01	CAZJIT01	1	1	1			1	1
+Bacteria	CAZKOK01	CAZKOK01	1	1	1			1	1
+Bacteria	CAZKOU01	CAZKOU01	1	1	1			1	1
+Bacteria	CAZKTI01	CAZKTI01	1	1	1			1	1
+Bacteria	CAZMIB01	CAZMIB01	1	1	1			1	1
+Bacteria	CAZMKB01	CAZMKB01	1	1	2	0.30509	0.5339075	1	1
+Bacteria	CAZMTC01	CAZMTC01	1	1	1			1	1
+Bacteria	CAZPBH01	CAZPBH01	1	1	1			1	1
+Bacteria	CAZPDC01	CAZPDC01	1	1	1			1	1
+Bacteria	CAZPZF01	CAZPZF01	1	1	1			1	1
+Bacteria	CAZQCN01	CAZQCN01	1	1	1			1	1
+Bacteria	CAZQFB01	CAZQFB01	1	1	1			1	1
+Bacteria	CAZQQZ01	CAZQQZ01	1	1	1			1	1
+Bacteria	CAZRBL01	CAZRBL01	1	1	1			1	1
+Bacteria	CAZROX01	CAZROX01	1	1	1			1	1
+Bacteria	CAZSIG01	CAZSIG01	1	1	1			1	1
+Bacteria	CAZSQN01	CAZSQN01	1	1	1			1	1
+Bacteria	CAZSTA01	CAZSTA01	1	1	1			1	1
+Bacteria	CAZTEW01	CAZTEW01	1	1	1			1	1
+Bacteria	CAZTHU01	CAZTHU01	1	1	1			1	1
+Bacteria	CAZTSL01	CAZTSL01	1	1	1			1	1
+Bacteria	CAZTWC01	CAZTWC01	1	1	1			1	1
+Bacteria	CAZUMV01	CAZUMV01	1	1	1			1	1
+Bacteria	CAZUQH01	CAZUQH01	1	1	1			1	1
+Bacteria	CAZUUL01	CAZUUL01	1	1	1			1	1
+Bacteria	CAZVIU01	CAZVIU01	1	1	1			1	1
+Bacteria	CAZWAS01	CAZWAS01	1	1	1			1	1
+Bacteria	CAZWFP01	CAZWFP01	1	1	1			1	1
+Bacteria	CAZWXO01	CAZWXO01	1	1	1			1	1
+Bacteria	CAZXEC01	CAZXEC01	1	1	1			1	1
+Bacteria	CAZXKH01	CAZXKH01	1	1	1			1	1
+Bacteria	CAZXTJ01	CAYOHP01	1	1	1			1	1
+Bacteria	CAZYCO01	CAZYCO01	1	1	1			1	1
+Bacteria	CAZYHC01	CAZYHC01	1	1	1			1	1
+Bacteria	CAZYIF01	CAZYIF01	1	1	1			1	1
+Bacteria	CAZYLA01	CAZYLA01	1	1	1			1	1
+Bacteria	CAZYWQ01	CAZYWQ01	1	1	1			1	1
+Bacteria	CAZYYU01	CAZYYU01	1	1	1			1	1
+Bacteria	CAZZBO01	CAZZBO01	1	1	1			1	1
+Bacteria	CAZZFK01	CAZZFK01	1	1	1			1	1
+Bacteria	CAZZKF01	CAZZKF01	1	1	1			1	1
+Bacteria	CBCSKA01	CBCSKA01	1	1	1			1	1
+Bacteria	CBCXTS01	CBCXTS01	1	1	1			1	1
+Bacteria	CBDATW01	CBDATW01	1	1	1			1	1
+Bacteria	CBDBBL01	CBDBBL01	1	1	1			1	1
+Bacteria	CBDBCS01	CBDBCS01	1	1	1			1	1
+Bacteria	CBDBNL01	G965229495	1	1	2	0.5252	0.9191	1	1
+Bacteria	CBDCVA01	CBDCVA01	1	1	1			1	1
+Bacteria	CBDDJK01	CBDDJK01	1	1	1			1	1
+Bacteria	CBDDKY01	CBDDKY01	1	1	1			1	1
+Bacteria	CBDEFO01	CBDEFO01	1	1	1			1	1
+Bacteria	CBDEFV01	CBDEFV01	1	1	1			1	1
+Bacteria	CBDETP01	CBDETP01	1	1	1			1	1
+Bacteria	CBDUXP01	CBDUXP01	1	1	1			1	1
+Bacteria	CBDUYM01	CBDUYM01	1	1	1			1	1
+Bacteria	CBDUZE01	CBDUZE01	1	1	1			1	1
+Bacteria	CBDVAL01	CBDVAL01	1	1	1			1	1
+Bacteria	CBDVBD01	CBDVBD01	1	1	1			1	1
+Bacteria	CBDVDV01	CBDVDV01	1	1	1			1	1
+Bacteria	CBFCYW01	CBFCYW01	1	1	1			1	1
+Bacteria	CBFDCQ01	CBFDCQ01	1	1	1			1	1
+Bacteria	CF-121	CF-121	1	1	1			1	1
+Bacteria	CG03	CG03	1	1	1			1	1
+Bacteria	CG1-02-37-114	JAHJSO01	1	1	3	0.2751	0.481425	1	1
+Bacteria	CG1-02-64-396	CG1-02-64-396	1	1	1			1	1
+Bacteria	CG2-30-33-46	CAYZYZ01	1	1	3	0.21788	0.38129	1	1
+Bacteria	CG2-30-40-12	CG2-30-40-12	1	1	1			1	1
+Bacteria	CG2-30-40-21	CG2-30-40-21	1	1	2	0.28538	0.499415	1	1
+Bacteria	CG2-30-53-67	CG2-30-53-67	1	1	1			1	1
+Bacteria	CG2-30-54-11	CG2-30-54-11	1	1	1			1	1
+Bacteria	CG2-30-59-28	CG2-30-59-28	1	1	1			1	1
+Bacteria	CG2-30-64-16	CG2-30-64-16	1	1	1			1	1
+Bacteria	CG2-30-70-394	CG2-30-70-394	1	1	1			1	1
+Bacteria	CGMCC-115125	CGMCC-115125	1	1	1			1	1
+Bacteria	CLD3	CLD3	1	1	1			1	1
+Bacteria	COTS27	CBDBHE01	1	1	5	0.46226	0.808955	1	1
+Bacteria	CPR2	CPR2	1	1	1			1	1
+Bacteria	CPR3	GCA-002780085	1	1	2	0.41666	0.729155	1	1
+Bacteria	CSSED10-310	CALFER01	1	1	3	0.23809	0.4166575	1	1
+Bacteria	CTSoil-072	CTSoil-072	1	1	1			1	1
+Bacteria	Caedimonadales	Caedimonadaceae	1	1	4	0.251915	0.44085125	1	1
+Bacteria	Caenarcaniphilales	Caenarcanaceae	1	1	1			1	1
+Bacteria	Caldalkalibacillales	Caldalkalibacillaceae	1	1	2	0.10527	0.1842225	1	1
+Bacteria	Calderihabitantales	Calderihabitantaceae	1	1	1			1	1
+Bacteria	Caldicellulosiruptorales	Caldicellulosiruptoraceae	1	1	1			1	1
+Bacteria	Caldicoprobacterales	UBA3941	1	1	4	0.16515	0.2890125	1	1
+Bacteria	Caldilineales	Caldilineaceae	1	1	1			1	1
+Bacteria	Caldisericales	Caldisericaceae	1	1	1			1	1
+Bacteria	Calditerricolales	Calditerricolaceae	1	1	1			1	1
+Bacteria	Calditrichales	JBFXGD01	1	1	4	0.14342	0.250985	1	1
+Bacteria	Calescibacteriales	Calescibacteriaceae	1	1	1			1	1
+Bacteria	Campylobacterales	JAADDG01	1	1	25	0.20282	0.354935	8	8
+Bacteria	Campylobacterales	Hydrogenimonadaceae	2	2	25	0.20282	0.354935	8	8
+Bacteria	Campylobacterales	JAABSR01	3	3	25	0.20282	0.354935	8	8
+Bacteria	Campylobacterales	JAADDX01	4	4	25	0.20282	0.354935	8	8
+Bacteria	Campylobacterales	Sulfurimonadaceae	5	5	25	0.20282	0.354935	8	8
+Bacteria	Campylobacterales	SZUA-545	6	6	25	0.20282	0.354935	8	8
+Bacteria	Campylobacterales	Arcobacteraceae	7	7	25	0.20282	0.354935	8	8
+Bacteria	Campylobacterales	JAJVLF01	8	8	25	0.20282	0.354935	8	8
+Bacteria	Carboxydocellales	JAJZTU01	1	1	3	0.11881	0.2079175	1	1
+Bacteria	Carboxydothermales	Carboxydothermaceae	1	1	1			1	1
+Bacteria	Cardiobacteriales	Wohlfahrtiimonadaceae	1	1	4	0.29638	0.518665	1	1
+Bacteria	Caulobacterales	Aquidulcibacteraceae	1	1	6	0.26398	0.461965	1	1
+Bacteria	Ch115	Ch115	1	1	2	0.15496	0.27118	1	1
+Bacteria	Ch128b	Ch128b	1	1	1			1	1
+Bacteria	Ch29	Ch29	1	1	1			1	1
+Bacteria	Ch66	Ch109	1	1	2	0.15519	0.2715825	1	1
+Bacteria	Chitinivibrionales	CAYFVL01	1	1	8	0.25286	0.442505	2	2
+Bacteria	Chitinivibrionales	Chitinivibrionaceae	2	2	8	0.25286	0.442505	2	2
+Bacteria	Chitinophagales	JABDMM01	1	1	25	0.27818	0.486815	2	2
+Bacteria	Chitinophagales	JANQFB01	2	2	25	0.27818	0.486815	2	2
+Bacteria	Chlamydiales	Simkaniaceae	1	1	45	0.31411	0.5496925	7	7
+Bacteria	Chlamydiales	RGXB01	2	2	45	0.31411	0.5496925	7	7
+Bacteria	Chlamydiales	Parachlamydiaceae	3	3	45	0.31411	0.5496925	7	7
+Bacteria	Chlamydiales	JAAZZY01	4	4	45	0.31411	0.5496925	7	7
+Bacteria	Chlamydiales	VFKH01	5	5	45	0.31411	0.5496925	7	7
+Bacteria	Chlamydiales	JAYUZV01	6	6	45	0.31411	0.5496925	7	7
+Bacteria	Chlamydiales	Parilichlamydiaceae	7	7	45	0.31411	0.5496925	7	7
+Bacteria	Chloracidobacteriales	Chloracidobacteriaceae	1	1	2	0.21938	0.383915	1	1
+Bacteria	Chlorobiales	Chloroherpetonaceae	1	1	4	0.1824	0.3192	1	1
+Bacteria	Chloroflexales	Chloroflexaceae	1	1	4	0.244485	0.42784875	1	1
+Bacteria	Chloroheliales	Chloroheliaceae	1	1	1			1	1
+Bacteria	Christensenellales	JBMNLC01	1	1	41	0.30683	0.5369525	4	4
+Bacteria	Christensenellales	CALVMC01	2	2	41	0.30683	0.5369525	4	4
+Bacteria	Christensenellales	HGM11417	3	3	41	0.30683	0.5369525	4	4
+Bacteria	Christensenellales	UBA1242	4	4	41	0.30683	0.5369525	4	4
+Bacteria	Chromatiales	Chromatiaceae	1	1	1			1	1
+Bacteria	Chrysiogenales	Chrysiogenaceae	1	1	1			1	1
+Bacteria	Chthoniobacterales	JAATET01	1	1	16	0.19409	0.3396575	2	2
+Bacteria	Chthoniobacterales	Chthoniobacteraceae	2	2	16	0.19409	0.3396575	2	2
+Bacteria	Chthonomonadales	CAJBBX01	1	1	3	0.2783	0.487025	1	1
+Bacteria	Cloacimonadales	DAONDQ01	1	1	12	0.248155	0.43427125	2	2
+Bacteria	Cloacimonadales	JAOZMQ01	2	2	12	0.248155	0.43427125	2	2
+Bacteria	Clostridiales	Caloramatoraceae	1	1	3	0.2085	0.364875	1	1
+Bacteria	Comchoanobacterales	Comchoanobacteraceae	1	1	1			1	1
+Bacteria	Competibacterales	Competibacteraceae	1	1	2	0.15177	0.2655975	1	1
+Bacteria	Coprothermobacterales	Coprothermobacteraceae	1	1	2	0.56219	0.9838325	1	1
+Bacteria	Coriobacteriales	RUG844	1	1	13	0.22817	0.3992975	2	2
+Bacteria	Coriobacteriales	JAEZZM01	2	2	13	0.22817	0.3992975	2	2
+Bacteria	Coxiellales	Coxiellaceae	1	1	1			1	1
+Bacteria	Cryosericales	Cryosericaceae	1	1	1			1	1
+Bacteria	Culicoidibacterales	ZOR0006	1	1	3	0.24626	0.430955	1	1
+Bacteria	Curtissbacterales	CAZCAY01	1	1	3	0.34668	0.60669	1	1
+Bacteria	Cyanobacteriales	JBFRWF01	1	1	36	0.10357	0.1812475	7	7
+Bacteria	Cyanobacteriales	Cyanobacteriaceae	2	2	36	0.10357	0.1812475	7	7
+Bacteria	Cyanobacteriales	Coleofasciculaceae	3	3	36	0.10357	0.1812475	7	7
+Bacteria	Cyanobacteriales	JAHHGU01	4	4	36	0.10357	0.1812475	7	7
+Bacteria	Cyanobacteriales	Rubidibacteraceae	5	5	36	0.10357	0.1812475	7	7
+Bacteria	Cyanobacteriales	PCC-9228	6	6	36	0.10357	0.1812475	7	7
+Bacteria	Cyanobacteriales	Chamaesiphonaceae	7	7	36	0.10357	0.1812475	7	7
+Bacteria	Cytophagales	JASGCU01	1	1	22	0.237425	0.41549375	3	3
+Bacteria	Cytophagales	ES-bin-26	2	2	22	0.237425	0.41549375	3	3
+Bacteria	Cytophagales	JAPOQI01	3	3	22	0.237425	0.41549375	3	3
+Bacteria	D2-FULL-39-29	JBDRBU01	1	1	3	0.23946	0.419055	1	1
+Bacteria	DAHUYW01	DAHUYW01	1	1	1			1	1
+Bacteria	DAIDHW01	DAIDHW01	1	1	1			1	1
+Bacteria	DAONJL01	DAONJL01	1	1	1			1	1
+Bacteria	DAOPZR01	DAOPZR01	1	1	1			1	1
+Bacteria	DAOTYC01	DAOTYC01	1	1	1			1	1
+Bacteria	DAOUBH01	DAOUBH01	1	1	1			1	1
+Bacteria	DAOUPZ01	DAOUPZ01	1	1	1			1	1
+Bacteria	DAOVCL01	DAOVCL01	1	1	1			1	1
+Bacteria	DAOVJB01	DAOVJB01	1	1	1			1	1
+Bacteria	DAOVJZ01	DAOVJZ01	1	1	1			1	1
+Bacteria	DAOVKU01	DAOVKU01	1	1	1			1	1
+Bacteria	DAOVTB01	DAOVTB01	1	1	1			1	1
+Bacteria	DAOWDM01	DAOWDM01	1	1	1			1	1
+Bacteria	DAOWNY01	DAOWNY01	1	1	1			1	1
+Bacteria	DASRDY01	DASRDY01	1	1	1			1	1
+Bacteria	DASRZA01	DASRZA01	1	1	1			1	1
+Bacteria	DASVDK01	DASVDK01	1	1	1			1	1
+Bacteria	DASWHO01	DASWHO01	1	1	1			1	1
+Bacteria	DASWJH01	DASWJH01	1	1	1			1	1
+Bacteria	DASYRF01	DASYRF01	1	1	1			1	1
+Bacteria	DASZBR01	DASZBR01	1	1	1			1	1
+Bacteria	DASZGP01	DASZGP01	1	1	1			1	1
+Bacteria	DATBWZ01	DATBWZ01	1	1	1			1	1
+Bacteria	DATCLE01	DATCLE01	1	1	1			1	1
+Bacteria	DATCTW01	DATCTW01	1	1	1			1	1
+Bacteria	DATDPM01	DATDPM01	1	1	1			1	1
+Bacteria	DATDVM01	DATDVM01	1	1	1			1	1
+Bacteria	DATEAH01	CAYPSR01	1	1	2	0.53612	0.93821	1	1
+Bacteria	DATECO01	DATECO01	1	1	1			1	1
+Bacteria	DATFLG01	DATFLG01	1	1	1			1	1
+Bacteria	DATFLL01	DATFLL01	1	1	1			1	1
+Bacteria	DATGDX01	DATGDX01	1	1	1			1	1
+Bacteria	DATJPE01	DATJPE01	1	1	1			1	1
+Bacteria	DATKUA01	DATKUA01	1	1	1			1	1
+Bacteria	DATKVD01	CAZVTD01	1	1	2	0.32224	0.56392	1	1
+Bacteria	DATKYB01	DATKYB01	1	1	1			1	1
+Bacteria	DATLTG01	DATLTG01	1	1	1			1	1
+Bacteria	DATLTS01	DATLTS01	1	1	1			1	1
+Bacteria	DG-23	DG-23	1	1	1			1	1
+Bacteria	DG-27	DG-27	1	1	1			1	1
+Bacteria	DP-6	DP-6	1	1	1			1	1
+Bacteria	DRI-13	DRI-13	1	1	9	0.12055	0.2109625	2	2
+Bacteria	DRI-13	UBA5745	2	2	9	0.12055	0.2109625	2	2
+Bacteria	DRJJ01	DRJJ01	1	1	1			1	1
+Bacteria	DRLM01	DRLM01	1	1	1			1	1
+Bacteria	DRVO01	DRVO01	1	1	1			1	1
+Bacteria	DRWM01	DRWM01	1	1	2	0.46104	0.80682	1	1
+Bacteria	DRYD01	DRYD01	1	1	1			1	1
+Bacteria	DSGV01	DSGV01	1	1	1			1	1
+Bacteria	DSLN01	DSLN01	1	1	1			1	1
+Bacteria	DSM-100275	DSM-100275	1	1	1			1	1
+Bacteria	DSM-13327	DSM-13327	1	1	1			1	1
+Bacteria	DSM-16000	Inquilinaceae	1	1	1			1	1
+Bacteria	DSM-16054	Sediminispirochaetaceae	1	1	1			1	1
+Bacteria	DSM-16500	DSM-16500	1	1	1			1	1
+Bacteria	DSM-1736	Dendrosporobacteraceae	1	1	1			1	1
+Bacteria	DSM-17781	DSM-17781	1	1	1			1	1
+Bacteria	DSM-19610	DSM-19610	1	1	1			1	1
+Bacteria	DSM-22679	DSM-22679	1	1	1			1	1
+Bacteria	DSM-2461	DSM-2461	1	1	1			1	1
+Bacteria	DSM-26407	DSM-26407	1	1	1			1	1
+Bacteria	DSM-27196	PWMO01	1	1	11	0.25469	0.4457075	1	1
+Bacteria	DSM-5130	Acidihalobacteraceae	1	1	1			1	1
+Bacteria	DSM-8532	CAYYEC01	1	1	3	0.17097	0.2991975	1	1
+Bacteria	DSPP01	DSPP01	1	1	2	0.30673	0.5367775	1	1
+Bacteria	DSSB01	DSSB01	1	1	2	0.24537	0.4293975	1	1
+Bacteria	DSTF01	CAZFGZ01	1	1	5	0.23735	0.4153625	1	1
+Bacteria	DSUL01	DSUL01	1	1	1			1	1
+Bacteria	DSUN01	DSUN01	1	1	1			1	1
+Bacteria	DSWW01	DSWW01	1	1	1			1	1
+Bacteria	DT-38	DT-38	1	1	1			1	1
+Bacteria	DTEH01	DTEH01	1	1	1			1	1
+Bacteria	DTGP01	JBMFPP01	1	1	4	0.26593	0.4653775	1	1
+Bacteria	DTGQ01	JAFGSM01	1	1	3	0.242	0.4235	1	1
+Bacteria	DTHP01	DTHP01	1	1	1			1	1
+Bacteria	DTJE01	DTJE01	1	1	2	0.4062	0.71085	1	1
+Bacteria	DTJY01	DTJY01	1	1	1			1	1
+Bacteria	DTKN01	DTKN01	1	1	1			1	1
+Bacteria	DTKZ01	DTKZ01	1	1	1			1	1
+Bacteria	DTLA01	DTLA01	1	1	1			1	1
+Bacteria	DTOL01	DAOUCN01	1	1	2	0.2468	0.4319	1	1
+Bacteria	DTOW01	DTOW01	1	1	1			1	1
+Bacteria	DTPJ01	WJIO01	1	1	1			1	1
+Bacteria	DTPP01	DTPP01	1	1	1			1	1
+Bacteria	DTRM01	DTRM01	1	1	1			1	1
+Bacteria	DTU014	DTU014	1	1	1			1	1
+Bacteria	DTU022	JAAZDR01	1	1	5	0.21967	0.3844225	1	1
+Bacteria	DTU025	JANLFS01	1	1	4	0.18557	0.3247475	2	2
+Bacteria	DTU025	MWDF01	2	2	4	0.18557	0.3247475	2	2
+Bacteria	DTU030	DTU030	1	1	2	0.1166	0.20405	1	1
+Bacteria	DTU065	DTU065	1	1	1			1	1
+Bacteria	DTU080	RSA5	1	1	3	0.2435	0.426125	1	1
+Bacteria	DTU084	DTU084	1	1	1			1	1
+Bacteria	DTU086	DTU086	1	1	1			1	1
+Bacteria	DTU087	DTU087	1	1	2	0.20954	0.366695	1	1
+Bacteria	DTXE01	DTXE01	1	1	1			1	1
+Bacteria	DUEN01	DUEN01	1	1	1			1	1
+Bacteria	DULZ01	DULZ01	1	1	1			1	1
+Bacteria	DUMD01	DUMD01	1	1	1			1	1
+Bacteria	DUMF01	DUMF01	1	1	1			1	1
+Bacteria	DUMJ01	DUMJ01	1	1	1			1	1
+Bacteria	DUMP01	DUMP01	1	1	1			1	1
+Bacteria	DUMW01	DUMW01	1	1	1			1	1
+Bacteria	DUOD01	DUOD01	1	1	1			1	1
+Bacteria	DUOV01	Zhaonellaceae	1	1	1			1	1
+Bacteria	DUPQ01	DUPQ01	1	1	1			1	1
+Bacteria	DUSP01	DYEP01	1	1	3	0.21904	0.38332	1	1
+Bacteria	DVGY01	DVGY01	1	1	1			1	1
+Bacteria	DY22613	DY22613	1	1	1			1	1
+Bacteria	DYFA01	DYFA01	1	1	1			1	1
+Bacteria	DYFQ01	DYFQ01	1	1	1			1	1
+Bacteria	DYGC01	DYGC01	1	1	1			1	1
+Bacteria	DYHP01	DYHP01	1	1	1			1	1
+Bacteria	DYIH01	JBBITQ01	1	1	3	0.13956	0.24423	1	1
+Bacteria	DYIV01	DYIV01	1	1	1			1	1
+Bacteria	DYJS01	CAYMEI01	1	1	2	0.73541	1.2869675	1	1
+Bacteria	DYJV01	DYJV01	1	1	2	0.20939	0.3664325	1	1
+Bacteria	DYKD01	DYKD01	1	1	1			1	1
+Bacteria	DYNZ01	DYNZ01	1	1	1			1	1
+Bacteria	Darwinibacteriales	JAAYFS01	1	1	5	0.17798	0.311465	1	1
+Bacteria	Daviesbacterales	UBA10151	1	1	1			1	1
+Bacteria	Deferribacterales	JAISNW01	1	1	8	0.229605	0.40180875	2	2
+Bacteria	Deferribacterales	Deferribacteraceae	2	2	8	0.229605	0.40180875	2	2
+Bacteria	Deferrimicrobiales	Deferrimicrobiaceae	1	1	1			1	1
+Bacteria	Deferrisomatales	Deferrisomataceae	1	1	3	0.17584	0.30772	1	1
+Bacteria	Dehalobacteriales	Dehalobacteriaceae	1	1	1			1	1
+Bacteria	Dehalococcoidales	UBA4087	1	13	39	0.1456	0.2548	13	11
+Bacteria	Dehalococcoidales	SURF-40	2	7	39	0.1456	0.2548	13	11
+Bacteria	Dehalococcoidales	Dehalococcoidaceae	3	12	39	0.1456	0.2548	13	11
+Bacteria	Dehalococcoidales	JACPPQ01	4	2	39	0.1456	0.2548	13	11
+Bacteria	Dehalococcoidales	CSSed11-197	5	10	39	0.1456	0.2548	13	11
+Bacteria	Dehalococcoidales	JAUXAE01	6	9	39	0.1456	0.2548	13	11
+Bacteria	Dehalococcoidales	UBA1222	7	11	39	0.1456	0.2548	13	11
+Bacteria	Dehalococcoidales	W111	8	6	39	0.1456	0.2548	13	11
+Bacteria	Dehalococcoidales	Fen-1064	9	5	39	0.1456	0.2548	13	11
+Bacteria	Dehalococcoidales	JAQTRN01	10	4	39	0.1456	0.2548	13	11
+Bacteria	Dehalococcoidales	JACQON01	11	3	39	0.1456	0.2548	13	11
+Bacteria	Deinococcales	Marinithermaceae	1	1	5	0.27341	0.4784675	1	1
+Bacteria	Desulfarculales	Desulfarculaceae	1	1	2	0.3103	0.543025	1	1
+Bacteria	Desulfatiglandales	HGW-15	1	1	6	0.25253	0.4419275	1	1
+Bacteria	Desulfitibacterales	Desulfitibacteraceae	1	1	2	0.15998	0.279965	1	1
+Bacteria	Desulfitisporales	Desulfitisporaceae	1	1	2	0.12944	0.22652	1	1
+Bacteria	Desulfitobacteriales	Desulfitobacteriaceae	1	1	3	0.15884	0.27797	1	1
+Bacteria	Desulfobaccales	0-14-0-80-60-11	1	1	2	0.20003	0.3500525	1	1
+Bacteria	Desulfobacterales	DTYH01	1	1	75	0.16794	0.293895	10	10
+Bacteria	Desulfobacterales	Desulfatibacillaceae	2	2	75	0.16794	0.293895	10	10
+Bacteria	Desulfobacterales	JANQIE01	3	3	75	0.16794	0.293895	10	10
+Bacteria	Desulfobacterales	JAUVVS01	4	4	75	0.16794	0.293895	10	10
+Bacteria	Desulfobacterales	DYRK01	5	5	75	0.16794	0.293895	10	10
+Bacteria	Desulfobacterales	ASO4-4	6	6	75	0.16794	0.293895	10	10
+Bacteria	Desulfobacterales	Desulfolunaceae	7	7	75	0.16794	0.293895	10	10
+Bacteria	Desulfobacterales	JAFDMD01	8	8	75	0.16794	0.293895	10	10
+Bacteria	Desulfobacterales	JAFDHS01	9	9	75	0.16794	0.293895	10	10
+Bacteria	Desulfobacterales	G963662235	10	10	75	0.16794	0.293895	10	10
+Bacteria	Desulfobulbales	JAHJIY01	1	1	15	0.17053	0.2984275	2	2
+Bacteria	Desulfobulbales	JBFMBH01	2	2	15	0.17053	0.2984275	2	2
+Bacteria	Desulfocorpusculum	Desulfocorpusculum	1	1	1			1	1
+Bacteria	Desulfofervidales	DG-60	1	1	2	0.17805	0.3115875	1	1
+Bacteria	Desulfomonilales	Desulfomonilaceae	1	1	1			1	1
+Bacteria	Desulfotomaculales	JACDOK01	1	1	19	0.15442	0.270235	3	3
+Bacteria	Desulfotomaculales	Desulfovirgulaceae	2	2	19	0.15442	0.270235	3	3
+Bacteria	Desulfotomaculales	CAZKPV01	3	3	19	0.15442	0.270235	3	3
+Bacteria	Desulfovibrionales	Desulfonatronovibrionaceae	1	1	8	0.19351	0.3386425	1	1
+Bacteria	Desulfurellales	Hippeaceae	1	1	3	0.25525	0.4466875	1	1
+Bacteria	Desulfuribacillales	Desulfuribacillaceae	1	1	1			1	1
+Bacteria	Desulfurobacteriales	DQVG01	1	1	2	0.35235	0.6166125	1	1
+Bacteria	Desulfuromonadales	NIT-T3	1	1	25	0.11011	0.1926925	4	4
+Bacteria	Desulfuromonadales	DASPGW01	2	2	25	0.11011	0.1926925	4	4
+Bacteria	Desulfuromonadales	UBA2197	3	3	25	0.11011	0.1926925	4	4
+Bacteria	Desulfuromonadales	JAAYDE01	4	4	25	0.11011	0.1926925	4	4
+Bacteria	Dethiobacterales	Dethiobacteraceae	1	1	1			1	1
+Bacteria	Dictyoglomales	Dictyoglomaceae	1	1	1			1	1
+Bacteria	Diplorickettsiales	Diplorickettsiaceae	1	1	1			1	1
+Bacteria	Dissulfuribacterales	S140-46	1	1	11	0.18493	0.3236275	2	2
+Bacteria	Dissulfuribacterales	DYOW01	2	2	11	0.18493	0.3236275	2	2
+Bacteria	Dongiales	Dongiaceae	1	1	1			1	1
+Bacteria	Dormibacterales	Dormibacteraceae	1	1	1			1	1
+Bacteria	Duberdicusellales	Duberdicusellaceae	1	1	3	0.39473	0.6907775	1	1
+Bacteria	E26-bin7	E26-bin7	1	1	1			1	1
+Bacteria	E44-bin15	DAOWNJ01	1	1	2	0.18316	0.32053	1	1
+Bacteria	E44-bin18	E44-bin18	1	1	2	0.32155	0.5627125	1	1
+Bacteria	E44-bin39	E44-bin39	1	1	1			1	1
+Bacteria	E44-bin80	E44-bin80	1	1	1			1	1
+Bacteria	Ectothiorhodospirales	Ectothiorhodospiraceae	1	1	1			1	1
+Bacteria	Elainellales	Elainellaceae	1	1	1			1	1
+Bacteria	Electryoneales	Electryoneaceae	1	1	1			1	1
+Bacteria	Elsterales	Elsteraceae	1	1	1			1	1
+Bacteria	Elusimicrobiales	CAZFMJ01	1	1	3	0.32756	0.57323	1	1
+Bacteria	Endomicrobiales	XYA2-FULL-47-53	1	1	9	0.20614	0.360745	2	2
+Bacteria	Endomicrobiales	Endomicrobiaceae	2	2	9	0.20614	0.360745	2	2
+Bacteria	Enterobacterales	Enterobacteriaceae_A	1	1	31	0.1387	0.242725	10	10
+Bacteria	Enterobacterales	G022558485	2	2	31	0.1387	0.242725	10	10
+Bacteria	Enterobacterales	JAWXTV01	3	3	31	0.1387	0.242725	10	10
+Bacteria	Enterobacterales	Psittacicellaceae	4	4	31	0.1387	0.242725	10	10
+Bacteria	Enterobacterales	GCA-2746155	5	5	31	0.1387	0.242725	10	10
+Bacteria	Enterobacterales	Permianibacteraceae	6	6	31	0.1387	0.242725	10	10
+Bacteria	Enterobacterales	Enterobacteriaceae	7	7	31	0.1387	0.242725	10	10
+Bacteria	Enterobacterales	CBDFNC01	8	8	31	0.1387	0.242725	10	10
+Bacteria	Enterobacterales	Pelagibaculaceae	9	9	31	0.1387	0.242725	10	10
+Bacteria	Enterobacterales	Succinivibrionaceae	10	10	31	0.1387	0.242725	10	10
+Bacteria	Entotheonellales	Entotheonellaceae	1	1	1			1	1
+Bacteria	Epilineales	JBBITV01	1	1	5	0.2639	0.461825	2	2
+Bacteria	Epilineales	Epilineaceae	2	2	5	0.2639	0.461825	2	2
+Bacteria	Eremiobacterales	Eremiobacteraceae	1	1	1			1	1
+Bacteria	Erginobacterales	Erginobacteraceae	1	1	4	0.321925	0.56336875	1	1
+Bacteria	Erysipelotrichales	CAZWEF01	1	1	3	0.28465	0.4981375	1	1
+Bacteria	Eubacteriales	Alkalibacteraceae	1	1	5	0.26004	0.45507	1	1
+Bacteria	Eutrophobiales	Eutrophobiaceae	1	1	1			1	1
+Bacteria	Euzebyales	Egibacteraceae	1	1	3	0.20771	0.3634925	1	1
+Bacteria	Exiguobacteriales	Exiguobacteriaceae	1	1	1			1	1
+Bacteria	F11	F11	1	1	1			1	1
+Bacteria	FACHB-261	FACHB-261	1	1	1			1	1
+Bacteria	FACHB-46	FACHB-46	1	1	1			1	1
+Bacteria	FEN-1173	FEN-1173	1	1	2	0.23302	0.407785	1	1
+Bacteria	FEN-1346	FEN-1346	1	1	2	0.38368	0.67144	1	1
+Bacteria	FLKF01	FLKF01	1	1	1			1	1
+Bacteria	FW602-bin22	JACPRP01	1	1	8	0.290915	0.50910125	1	1
+Bacteria	Fen-1058	Fen-1058	1	1	1			1	1
+Bacteria	Fen-1088	Fen-1088	1	1	1			1	1
+Bacteria	Fen-336	CBDFGD01	1	1	3	0.19248	0.33684	1	1
+Bacteria	Fen-727	JACVIW01	1	1	4	0.19135	0.3348625	1	1
+Bacteria	Fermentibacterales	JCC-6	1	1	3	0.29817	0.5217975	1	1
+Bacteria	Fermentithermobacillales	DUSS01	1	1	2	0.19284	0.33747	1	1
+Bacteria	Ferrovibrionales	Ferrovibrionaceae	1	1	1			1	1
+Bacteria	Fervidibacterales	Fervidibacteraceae	1	1	2	0.38133	0.6673275	1	1
+Bacteria	Fibrobacterales	CAWVXU01	1	1	4	0.31281	0.5474175	1	1
+Bacteria	Fidelibacterales	DSDE01	1	1	2	0.27798	0.486465	1	1
+Bacteria	Fimbriimonadales	JBAXQP01	1	1	5	0.40212	0.70371	1	1
+Bacteria	Flavobacteriales	JADGDT01	1	1	16	0.22798	0.398965	3	3
+Bacteria	Flavobacteriales	JBLHRE01	2	2	16	0.22798	0.398965	3	3
+Bacteria	Flavobacteriales	TMED113	3	3	16	0.22798	0.398965	3	3
+Bacteria	Flavobacteriales_C	CBFIFL01	1	1	2	0.23787	0.4162725	1	1
+Bacteria	Flavobacteriales_D	CALLUQ01	1	1	15	0.21316	0.37303	1	1
+Bacteria	Flavobacteriales_E	Vicingaceae	1	1	1			1	1
+Bacteria	Flavobacteriales_F	PHOS-HE28	1	1	1			1	1
+Bacteria	Flavobacteriales_G	NORP312	1	1	3	0.21527	0.3767225	1	1
+Bacteria	Flavobacteriales_H	GCA-2746335	1	1	3	0.19486	0.341005	1	1
+Bacteria	Francisellales	CACEW01	1	1	2	0.26024	0.45542	1	1
+Bacteria	Frankiales	Frankiaceae	1	1	1			1	1
+Bacteria	Fusobacteriales	Haliovirgaceae	1	1	5	0.24006	0.420105	1	1
+Bacteria	Futianiales	Futianiaceae	1	1	1			1	1
+Bacteria	G020345765	G020345765	1	1	1			1	1
+Bacteria	G020348925	G020348925	1	1	1			1	1
+Bacteria	G020349025	G020349025	1	1	1			1	1
+Bacteria	G020349885	G020349885	1	1	1			1	1
+Bacteria	G022571365	G022571365	1	1	1			1	1
+Bacteria	G022818785	G022818785	1	1	1			1	1
+Bacteria	G02398745	G023898745	1	1	1			1	1
+Bacteria	G963455285	G963455285	1	1	1			1	1
+Bacteria	G963662305	G963662305	1	1	1			1	1
+Bacteria	G963663305	G963663305	1	1	1			1	1
+Bacteria	G963667145	G963667145	1	1	1			1	1
+Bacteria	G963692905	G963692905	1	1	1			1	1
+Bacteria	G963923945	G963923945	1	1	1			1	1
+Bacteria	G965209235	G965209235	1	1	1			1	1
+Bacteria	G965218375	G965218375	1	1	1			1	1
+Bacteria	G965222575	G965222575	1	1	1			1	1
+Bacteria	G965277405	G965277405	1	1	1			1	1
+Bacteria	GBS-1	GBS-1	1	1	1			1	1
+Bacteria	GCA-001730085	GCA-001730085	1	1	1			1	1
+Bacteria	GCA-001735895	GCA-001735895	1	1	1			1	1
+Bacteria	GCA-001788215	2-01-FULL-40-14	1	1	1			1	1
+Bacteria	GCA-002687715	CAIWVZ01	1	1	4	0.40253	0.7044275	1	1
+Bacteria	GCA-002705445	GCA-002716945	1	1	1			1	1
+Bacteria	GCA-002772825	GCA-002772825	1	1	1			1	1
+Bacteria	GCA-002772895	GCA-002772895	1	1	1			1	1
+Bacteria	GCA-002779875	GCA-002779875	1	1	1			1	1
+Bacteria	GCA-00278855	GCA-00278855	1	1	1			1	1
+Bacteria	GCA-002793355	GCA-002793355	1	1	1			1	1
+Bacteria	GCA-002796325	JACPFF01	1	1	4	0.295385	0.51692375	1	1
+Bacteria	GCA-013348725	GCA-013348725	1	1	1			1	1
+Bacteria	GCA-013414725	GCA-013414725	1	1	1			1	1
+Bacteria	GCA-016699305	GCA-016699305	1	1	1			1	1
+Bacteria	GCA-016699595	GCA-016699595	1	1	2	0.52306	0.915355	1	1
+Bacteria	GCA-020354555	CP070648	1	1	1			1	1
+Bacteria	GCA-2400775	GCA-2400775	1	1	1			1	1
+Bacteria	GCA-2401425	GCA-2401425	1	1	2	0.4173	0.730275	1	1
+Bacteria	GCA-2686955	GCA-2686955	1	1	1			1	1
+Bacteria	GCA-2687025	GCA-2687025	1	1	1			1	1
+Bacteria	GCA-2716485	CALLLO01	1	1	4	0.31956	0.55923	1	1
+Bacteria	GCA-2721365	GCA-2721365	1	1	1			1	1
+Bacteria	GCA-2731375	GCA-2731375	1	1	1			1	1
+Bacteria	GCA-2746255	GCA-2746255	1	1	1			1	1
+Bacteria	GCA-2746535	GCA-2746535	1	1	1			1	1
+Bacteria	GCA-2747355	JADLHG01	1	1	3	0.21777	0.3810975	1	1
+Bacteria	GCA-2792135	GCA-2792135	1	1	1			1	1
+Bacteria	GCA-2863065	GCA-2863065	1	1	1			1	1
+Bacteria	GCF-001939115	GCF-001939115	1	1	1			1	1
+Bacteria	GCF-002020875	GCF-002020875	1	1	1			1	1
+Bacteria	GCF-013343005	GCF-013343005	1	1	1			1	1
+Bacteria	GIF9	DYGU01	1	1	5	0.20447	0.3578225	2	2
+Bacteria	GIF9	AB-539-J10	2	2	5	0.20447	0.3578225	2	2
+Bacteria	GM7ARS4	GM7ARS4	1	1	3	0.42332	0.74081	1	1
+Bacteria	GN15	PGXB01	1	1	4	0.283755	0.49657125	1	1
+Bacteria	GRL18	GRL18	1	1	1			1	1
+Bacteria	GWA2-35-9	JBASTP01	1	1	5	0.55807	0.9766225	1	1
+Bacteria	GWA2-38-11	GWA2-38-11	1	1	2	0.22683	0.3969525	1	1
+Bacteria	GWA2-38-13b	GWA2-38-13b	1	1	1			1	1
+Bacteria	GWA2-44-7	GWA2-44-7	1	1	1			1	1
+Bacteria	GWA2-46-9	GWA2-46-9	1	1	1			1	1
+Bacteria	GWA2-47-26	GWA2-47-26	1	1	1			1	1
+Bacteria	GWA2-58-10	GWA2-58-10	1	1	1			1	1
+Bacteria	GWB1-36-13	GWB1-36-13	1	1	2	0.29501	0.5162675	1	1
+Bacteria	GWC2-36-17	WO2-46-25	1	1	5	0.45147	0.7900725	1	1
+Bacteria	GWC2-55-46	S146-73	1	1	8	0.17632	0.30856	1	1
+Bacteria	GWE2-31-10	MWDO01	1	1	4	0.300475	0.52583125	1	1
+Bacteria	GWF2-35-9	GWF2-35-9	1	1	3	0.27683	0.4844525	1	1
+Bacteria	GWF2-39-127	GWF2-39-127	1	1	1			1	1
+Bacteria	Ga0077536	Ga0077536	1	1	1			1	1
+Bacteria	Ga0077554	Ga007554	1	1	1			1	1
+Bacteria	Gaiellales	JAICJC01	1	1	5	0.34985	0.6122375	1	1
+Bacteria	Gastranaerophilales	UBA9579	1	1	8	0.162455	0.28429625	2	2
+Bacteria	Gastranaerophilales	CAJFVJ01	2	2	8	0.162455	0.28429625	2	2
+Bacteria	Geminicoccales	Geminicoccaceae	1	1	1			1	1
+Bacteria	Gemmatales	Gemmataceae	1	1	2	0.28123	0.4921525	1	1
+Bacteria	Gemmatimonadales	JACORV01	1	1	3	0.26689	0.4670575	1	1
+Bacteria	Geobacterales	JAJYBI01	1	1	5	0.09677	0.1693475	1	1
+Bacteria	Geothermincolales	Geothermincolaceae	1	1	3	0.20641	0.3612175	1	1
+Bacteria	Geothermocultorales	Geothermocultoraceae	1	1	1			1	1
+Bacteria	Ghiorseimicrobiales	Ghiorseimicrobiaceae	1	1	1			1	1
+Bacteria	Gloeobacterales	PMM-0068	1	1	3	0.20597	0.3604475	1	1
+Bacteria	Gloeomargaritales	Gloeomargaritaceae	1	1	1			1	1
+Bacteria	Gorgyraeales	Gorgyraeaceae	1	1	2	0.22407	0.3921225	1	1
+Bacteria	Gp22-AA2	AA152	1	1	2	0.2445	0.427875	1	1
+Bacteria	Gp7-AA8	Gp7-AA8	1	1	2	0.14745	0.2580375	1	1
+Bacteria	Granulosicoccales	Granulosicoccaceae	1	1	1			1	1
+Bacteria	Guanabaribacteriales	CAZYAF01	1	1	3	0.23252	0.40691	1	1
+Bacteria	Gygaellales	JAMWDD01	1	1	9	0.28745	0.5030375	1	1
+Bacteria	H5-PLA8	CALKMO01	1	1	2	0.41127	0.7197225	1	1
+Bacteria	H5-UNCL2	H5-UNCL2	1	1	1			1	1
+Bacteria	HDB-SIOI813	HDB-SIOI813	1	1	1			1	1
+Bacteria	HGM11327	HGM11327	1	1	1			1	1
+Bacteria	HGM11514	HGM11514	1	1	1			1	1
+Bacteria	HGW-17	SLPX01	1	1	4	0.34526	0.604205	1	1
+Bacteria	HIGHO2-12-38-15	HIGHO2-12-38-15	1	1	1			1	1
+Bacteria	HIMB59	GCA-002718135	1	1	2	0.46482	0.813435	1	1
+Bacteria	HK-STAS-PATE-3	HK-STAS-PATE-3	1	1	1			1	1
+Bacteria	HK1	HK1	1	1	1			1	1
+Bacteria	HKB111	HKB111	1	1	1			1	1
+Bacteria	HO2-45-28	HO2-45-28	1	1	1			1	1
+Bacteria	HO2-48-17	HO2-48-17	1	1	1			1	1
+Bacteria	HR10	HR10	1	1	2	0.17947	0.3140725	1	1
+Bacteria	HRBIN11	HRBIN11	1	1	1			1	1
+Bacteria	HRBIN16	HRBIN16	1	1	1			1	1
+Bacteria	HRBIN30	JACQVA1	1	1	4	0.18247	0.3193225	1	1
+Bacteria	HTCC5015	HTCC5015	1	1	1			1	1
+Bacteria	Hakubellales	Hakubellaceae	1	1	1			1	1
+Bacteria	Halanaerobiales	DTU029	1	1	8	0.159645	0.27937875	1	1
+Bacteria	Haliangiales	J016	1	1	4	0.255965	0.44793875	1	1
+Bacteria	Halobacteroidales	Acetohalobiaceae	1	1	2	0.16549	0.2896075	1	1
+Bacteria	Haloplasmatales	Haloplasmataceae	1	1	1			1	1
+Bacteria	Halothiobacillales	Halothiobacillaceae	1	1	1			1	1
+Bacteria	Hatepunaeales	Hatepunaeaceae	1	1	1			1	1
+Bacteria	Hebobacterales	Hebobacteraceae	1	1	2	0.36417	0.6372975	1	1
+Bacteria	Heliobacteriales	Heliobacteriaceae	1	1	1			1	1
+Bacteria	Hinthialibacterales	Hinthialibacteraceae	1	1	3	0.34553	0.6046775	1	1
+Bacteria	Holophagales	Holophagaceae	1	1	1			1	1
+Bacteria	Holosporales	CAZGKG01	1	1	5	0.36799	0.6439825	2	2
+Bacteria	Holosporales	GW7	2	2	5	0.36799	0.6439825	2	2
+Bacteria	Humimicrobiales	Humimicrobiaceae	1	1	1			1	1
+Bacteria	HyVt-429	HyVt-429	1	1	1			1	1
+Bacteria	Hydrogenedentales	SLHB01	1	1	13	0.18023	0.3154025	3	3
+Bacteria	Hydrogenedentales	G963678445	2	2	13	0.18023	0.3154025	3	3
+Bacteria	Hydrogenedentales	Hydrogenedentaceae	3	3	13	0.18023	0.3154025	3	3
+Bacteria	Hydrothermales	Hydrothermaceae	1	1	2	0.34517	0.6040475	1	1
+Bacteria	ICN-92133	ICN-92133	1	1	1			1	1
+Bacteria	IMCC26256	BP-133	1	1	22	0.18741	0.3279675	4	4
+Bacteria	IMCC26256	JBBRZM01	2	2	22	0.18741	0.3279675	4	4
+Bacteria	IMCC26256	Chersky-534	3	3	22	0.18741	0.3279675	4	4
+Bacteria	IMCC26256	JAGPDB01	4	4	22	0.18741	0.3279675	4	4
+Bacteria	Ignavibacteriales	SURF-24	1	1	4	0.19554	0.342195	1	1
+Bacteria	Immundisolibacterales	Immundisolibacteraceae	1	1	2	0.24377	0.4265975	1	1
+Bacteria	Isosphaerales	Isosphaeraceae	1	1	1			1	1
+Bacteria	Izemoplasmatales	UBA1188	1	1	3	0.27981	0.4896675	1	1
+Bacteria	J002	J002	1	1	1			1	1
+Bacteria	J036	Brachytrichaceae	1	1	1			1	1
+Bacteria	J040	J040	1	1	1			1	1
+Bacteria	J044	J044	1	1	1			1	1
+Bacteria	J045	J045	1	1	1			1	1
+Bacteria	J057	JAJTIE01	1	1	10	0.27949	0.4891075	1	1
+Bacteria	J058	JARGOJ01	1	1	3	0.46301	0.8102675	1	1
+Bacteria	J063	CAVPRW01	1	1	1			1	1
+Bacteria	J088	J088	1	1	1			1	1
+Bacteria	J102	J102	1	1	1			1	1
+Bacteria	J137	J137	1	1	2	0.56908	0.99589	1	1
+Bacteria	JAABTG01	JAABTG01	1	1	1			1	1
+Bacteria	JAABVY01	JAABVY01	1	1	2	0.269	0.47075	1	1
+Bacteria	JAACEG01	JAACEG01	1	1	2	0.393	0.68775	1	1
+Bacteria	JAACET01	JAACET01	1	1	1			1	1
+Bacteria	JAADDB01	JAADDB01	1	1	1			1	1
+Bacteria	JAADEI01	JAADEI01	1	1	2	0.52686	0.922005	1	1
+Bacteria	JAADFJ01	JAADFJ01	1	1	1			1	1
+Bacteria	JAADFL01	JAADFL01	1	1	1			1	1
+Bacteria	JAADFP01	CAZSGC01	1	1	2	0.25863	0.4526025	1	1
+Bacteria	JAADGH01	CAYPFP01	1	1	1			1	1
+Bacteria	JAADGQ01	JAADGQ01	1	1	1			1	1
+Bacteria	JAADGY01	JAADGY01	1	1	1			1	1
+Bacteria	JAADHQ01	JAADHQ01	1	1	1			1	1
+Bacteria	JAADHS01	JAADHS01	1	1	1			1	1
+Bacteria	JAADJB01	JAADJB01	1	1	1			1	1
+Bacteria	JAAEKA01	JAAEKA01	1	1	1			1	1
+Bacteria	JAAEMD01	JAAEMD01	1	1	1			1	1
+Bacteria	JAAEOK01	JAAEOK01	1	1	1			1	1
+Bacteria	JAAEPA01	JAAEPA01	1	1	1			1	1
+Bacteria	JAANXI01	JAANXI01	1	1	1			1	1
+Bacteria	JAAXGF01	JAAXGF01	1	1	1			1	1
+Bacteria	JAAXHH01	JABIQT01	1	1	3	0.19249	0.3368575	1	1
+Bacteria	JAAXVQ01	JAAXVQ01	1	1	2	0.18887	0.3305225	1	1
+Bacteria	JAAYCJ01	JAAYCJ01	1	1	1			1	1
+Bacteria	JAAYEA01	JAAYEA01	1	1	1			1	1
+Bacteria	JAAYHZ01	JAAYHZ01	1	1	1			1	1
+Bacteria	JAAYKD01	CAYOCI01	1	1	3	0.27584	0.48272	1	1
+Bacteria	JAAYKL01	JAAYKL01	1	1	1			1	1
+Bacteria	JAAYSF01	JAAYSF01	1	1	1			1	1
+Bacteria	JAAYUB01	JAAYUB01	1	1	2	0.31514	0.551495	1	1
+Bacteria	JAAYUI01	JAAYUI01	1	1	1			1	1
+Bacteria	JAAYUW01	JAAYUW01	1	1	2	0.43533	0.7618275	1	1
+Bacteria	JAAYXC01	JAAYXC01	1	1	1			1	1
+Bacteria	JAAYZQ01	JAAYZQ01	1	1	1			1	1
+Bacteria	JAAZAB01	JAAZAB01	1	1	1			1	1
+Bacteria	JAAZEB01	JAAZEB01	1	1	1			1	1
+Bacteria	JAAZLZ01	JAAZLZ01	1	1	1			1	1
+Bacteria	JAAZVP01	JAAZVP01	1	1	1			1	1
+Bacteria	JAAZVR01	JAAZVR01	1	1	1			1	1
+Bacteria	JABAAW01	JABAAW01	1	1	2	0.42217	0.7387975	1	1
+Bacteria	JABABF01	JABABF01	1	1	2	0.43796	0.76643	1	1
+Bacteria	JABCZS01	JABCZS01	1	1	1			1	1
+Bacteria	JABDBA01	JABDBA01	1	1	1			1	1
+Bacteria	JABDDW01	JABDDW01	1	1	1			1	1
+Bacteria	JABDET01	JABDET01	1	1	1			1	1
+Bacteria	JABDFU01	JABDFU01	1	1	1			1	1
+Bacteria	JABDGN01	JABDGN01	1	1	1			1	1
+Bacteria	JABDJR01	JABDJR01	1	1	2	0.28502	0.498785	1	1
+Bacteria	JABEUT01	JABEUT01	1	1	1			1	1
+Bacteria	JABEVK01	JABEVK01	1	1	1			1	1
+Bacteria	JABGRK01	JABGRK01	1	1	1			1	1
+Bacteria	JABGVJ01	JABGVJ01	1	1	1			1	1
+Bacteria	JABHGC01	JABHGC01	1	1	1			1	1
+Bacteria	JABIPA01	JABIPA01	1	1	1			1	1
+Bacteria	JABLXB01	JABLXB01	1	1	1			1	1
+Bacteria	JABMPQ01	CAVVCK01	1	1	8	0.42805	0.7490875	1	1
+Bacteria	JABMQH01	JABMQH01	1	1	1			1	1
+Bacteria	JABMQR01	JABMQR01	1	1	1			1	1
+Bacteria	JABMQX01	JABMQX01	1	1	1			1	1
+Bacteria	JABMRG01	JABMRG01	1	1	2	0.28081	0.4914175	1	1
+Bacteria	JABMRJ01	JABMRJ01	1	1	1			1	1
+Bacteria	JABMRN01	JABMRN01	1	1	2	0.2905	0.508375	1	1
+Bacteria	JABMSA01	JABMSA01	1	1	2	0.32683	0.5719525	1	1
+Bacteria	JABMSB01	JABMSB01	1	1	1			1	1
+Bacteria	JABSOH01	JABSOH01	1	1	1			1	1
+Bacteria	JABSQK01	JAWLHB01	1	1	5	0.30993	0.5423775	1	1
+Bacteria	JABWAM01	JABWAM01	1	1	2	0.30314	0.530495	1	1
+Bacteria	JABWAT01	JABWAT01	1	1	1			1	1
+Bacteria	JABWBI01	JABWBI01	1	1	1			1	1
+Bacteria	JABWCM01	BTVJ01	1	1	2	0.24763	0.4333525	1	1
+Bacteria	JABXHR01	JABXHR01	1	1	1			1	1
+Bacteria	JACAEB01	JACAEB01	1	1	1			1	1
+Bacteria	JACCUZ01	JACCUZ01	1	1	1			1	1
+Bacteria	JACCXJ01	JACCXJ01	1	1	1			1	1
+Bacteria	JACCXN01	JACCXN01	1	1	1			1	1
+Bacteria	JACCXV01	JACCXV01	1	1	2	0.32233	0.5640775	1	1
+Bacteria	JACCYU01	JACCYU01	1	1	1			1	1
+Bacteria	JACDOE01	JACDOE01	1	1	1			1	1
+Bacteria	JACIWP01	JACIWP01	1	1	1			1	1
+Bacteria	JACIWR01	JACIWR01	1	1	1			1	1
+Bacteria	JACIXR01	JACIXR01	1	1	1			1	1
+Bacteria	JACIYH01	JACIYH01	1	1	1			1	1
+Bacteria	JACJYZ01	JACJYZ01	1	1	1			1	1
+Bacteria	JACKCT01	CAYSHR01	1	1	2	0.3252	0.5691	1	1
+Bacteria	JACKNK01	CAYPEH01	1	1	2	0.1511	0.264425	1	1
+Bacteria	JACMRA01	JACMRA01	1	1	2	0.61939	1.0839325	1	1
+Bacteria	JACNKJ01	JACNKJ01	1	1	1			1	1
+Bacteria	JACOSC01	JACOSC01	1	1	1			1	1
+Bacteria	JACOTG01	JAUIME01	1	1	3	0.40239	0.7041825	1	1
+Bacteria	JACOVV01	JACOVV01	1	1	1			1	1
+Bacteria	JACOXK01	JACOXK01	1	1	1			1	1
+Bacteria	JACOXO01	JACOXO01	1	1	1			1	1
+Bacteria	JACPAL01	GCA-016699445	1	1	4	0.20729	0.3627575	1	1
+Bacteria	JACPCQ01	JACPCQ01	1	1	1			1	1
+Bacteria	JACPCR01	JACPCR01	1	1	1			1	1
+Bacteria	JACPDS01	JBDRKI01	1	1	1			1	1
+Bacteria	JACPDT01	JACPDT01	1	1	1			1	1
+Bacteria	JACPEP01	JACPEP01	1	1	1			1	1
+Bacteria	JACPFL01	JACPFL01	1	1	1			1	1
+Bacteria	JACPGU01	JACPGU01	1	1	1			1	1
+Bacteria	JACPHC01	JACPHC01	1	1	1			1	1
+Bacteria	JACPHN01	JACPHN01	1	1	1			1	1
+Bacteria	JACPHY01	JACPHY01	1	1	1			1	1
+Bacteria	JACPKC01	JACPKC01	1	1	1			1	1
+Bacteria	JACPKW01	UBA11713	1	1	1			1	1
+Bacteria	JACPL01	CAZOCX01	1	1	2	0.37267	0.6521725	1	1
+Bacteria	JACPPY01	JACPPY01	1	1	1			1	1
+Bacteria	JACPQK01	JACPQK01	1	1	1			1	1
+Bacteria	JACPQR01	JACPQR01	1	1	1			1	1
+Bacteria	JACPQY01	JACPQY01	1	1	1			1	1
+Bacteria	JACPQZ01	JACPQZ01	1	1	1			1	1
+Bacteria	JACPRG01	G963555815	1	1	1			1	1
+Bacteria	JACPRK01	JACPRK01	1	1	1			1	1
+Bacteria	JACPRU01	JACPRU01	1	1	1			1	1
+Bacteria	JACPRZ01	JACPRZ01	1	1	1			1	1
+Bacteria	JACPSX01	JACPSX01	1	1	1			1	1
+Bacteria	JACPTQ01	JACPTQ01	1	1	1			1	1
+Bacteria	JACPTZ01	JACPTZ01	1	1	1			1	1
+Bacteria	JACPUC01	JACPUC01	1	1	1			1	1
+Bacteria	JACPWU01	JACPWU01	1	1	1			1	1
+Bacteria	JACPXH01	JACPXH01	1	1	1			1	1
+Bacteria	JACPZF01	JACPZF01	1	1	1			1	1
+Bacteria	JACPZX01	DASXTC01	1	1	2	0.21694	0.379645	1	1
+Bacteria	JACQBW01	JACQBW01	1	1	1			1	1
+Bacteria	JACQBZ01	JACQBZ01	1	1	1			1	1
+Bacteria	JACQCE01	JACQCE01	1	1	1			1	1
+Bacteria	JACQJN01	JACQJN01	1	1	1			1	1
+Bacteria	JACQJP01	JACQJP01	1	1	1			1	1
+Bacteria	JACQLA01	JACQLA01	1	1	1			1	1
+Bacteria	JACQLN01	CAZPCT01	1	1	2	0.38227	0.6689725	1	1
+Bacteria	JACQLU01	JACQLU01	1	1	1			1	1
+Bacteria	JACQOE01	JACQOE01	1	1	1			1	1
+Bacteria	JACQOV01	JACQOV01	1	1	1			1	1
+Bacteria	JACQPE01	JACQPE01	1	1	1			1	1
+Bacteria	JACQPQ01	JACQPQ01	1	1	1			1	1
+Bacteria	JACQQV01	JACQQV01	1	1	1			1	1
+Bacteria	JACQRL01	SBBU01	1	1	1			1	1
+Bacteria	JACQRZ01	JACQRZ01	1	1	1			1	1
+Bacteria	JACQSD01	JACQSD01	1	1	1			1	1
+Bacteria	JACQSX01	JACQSX01	1	1	2	0.18537	0.3243975	1	1
+Bacteria	JACQTF01	JACQTF01	1	1	1			1	1
+Bacteria	JACQTR01	JACQTR01	1	1	1			1	1
+Bacteria	JACQUA01	JACQUA01	1	1	1			1	1
+Bacteria	JACQUO01	JACQUO01	1	1	1			1	1
+Bacteria	JACQVU01	JANLHZ01	1	1	1			1	1
+Bacteria	JACQVV01	CAZANL01	1	1	2	0.48563	0.8498525	1	1
+Bacteria	JACQVX01	JACQVX01	1	1	1			1	1
+Bacteria	JACQXL01	CAKKQI01	1	1	4	0.314955	0.55117125	1	1
+Bacteria	JACQXS01	JAGMCI01	1	1	4	0.30007	0.5251225	1	1
+Bacteria	JACQXZ01	CAYGBL01	1	1	2	0.19918	0.348565	1	1
+Bacteria	JACQYL01	CAWGVV01	1	1	2	0.24754	0.433195	1	1
+Bacteria	JACRCW01	JACRCW01	1	1	1			1	1
+Bacteria	JACRDY01	JACRDY01	1	1	1			1	1
+Bacteria	JACRDZ01	JACRDZ01	1	1	1			1	1
+Bacteria	JACRGO01	JACRGO01	1	1	1			1	1
+Bacteria	JACRGQ01	JACRGQ01	1	1	1			1	1
+Bacteria	JACRGW01	JACRGW01	1	1	2	0.1875	0.328125	1	1
+Bacteria	JACRHA01	JACRHA01	1	1	1			1	1
+Bacteria	JACRHJ01	JACRHJ01	1	1	1			1	1
+Bacteria	JACRHL01	JACRHL01	1	1	1			1	1
+Bacteria	JACRJV01	JACRJV01	1	1	1			1	1
+Bacteria	JACRMK01	JACRMK01	1	1	1			1	1
+Bacteria	JACROR01	JACROR01	1	1	1			1	1
+Bacteria	JACVQG01	JACVQG01	1	1	3	0.26272	0.45976	1	1
+Bacteria	JACZXZ01	JACZXZ01	1	1	1			1	1
+Bacteria	JADFCW01	JADFCW01	1	1	1			1	1
+Bacteria	JADFOP01	JADFOP01	1	1	1			1	1
+Bacteria	JADFSZ01	JADFSZ01	1	1	1			1	1
+Bacteria	JADFVX01	JADFVX01	1	1	1			1	1
+Bacteria	JADFYH01	JADFYH01	1	1	1			1	1
+Bacteria	JADGBV01	JADGBV01	1	1	1			1	1
+Bacteria	JADGOU01	JADGOU01	1	1	1			1	1
+Bacteria	JADGOV01	JADGOV01	1	1	1			1	1
+Bacteria	JADJOY01	JADJOY01	1	1	1			1	1
+Bacteria	JADLBR01	JADLBR01	1	1	2	0.25321	0.4431175	1	1
+Bacteria	JADLHZ01	JADLHZ01	1	1	1			1	1
+Bacteria	JADQBR01	JADQBR01	1	1	1			1	1
+Bacteria	JADYZS01	JADYZS01	1	1	1			1	1
+Bacteria	JADZBD01	JADZBD01	1	1	1			1	1
+Bacteria	JADZEE01	JADZEE01	1	1	1			1	1
+Bacteria	JAEEML01	JAEEML01	1	1	1			1	1
+Bacteria	JAENJB01	JAENJB01	1	1	1			1	1
+Bacteria	JAENJC01	JAENJC01	1	1	1			1	1
+Bacteria	JAEUKQ01	JAEUKQ01	1	1	2	0.21663	0.3791025	1	1
+Bacteria	JAEULC01	JAEULC01	1	1	1			1	1
+Bacteria	JAFAQI01	DASSKL01	1	1	2	0.14323	0.2506525	1	1
+Bacteria	JAFDIG01	JAFDIG01	1	1	1			1	1
+Bacteria	JAFEDO01	JAFEDO01	1	1	1			1	1
+Bacteria	JAFGBW01	JAFGBW01	1	1	2	0.4642	0.81235	1	1
+Bacteria	JAFGDJ01	JAFGDJ01	1	1	1			1	1
+Bacteria	JAFGEP01	JAFGEP01	1	1	1			1	1
+Bacteria	JAFGEW01	JAFGEW01	1	1	1			1	1
+Bacteria	JAFGEY01	JAFGEY01	1	1	1			1	1
+Bacteria	JAFGGJ01	JAFGGJ01	1	1	1			1	1
+Bacteria	JAFGGP01	JAFGGP01	1	1	1			1	1
+Bacteria	JAFGHF01	JAFGHF01	1	1	1			1	1
+Bacteria	JAFGIU01	JAFGIU01	1	1	1			1	1
+Bacteria	JAFGJS01	JAFGJS01	1	1	1			1	1
+Bacteria	JAFGJU01	JAFGJU01	1	1	1			1	1
+Bacteria	JAFGKV01	JAFGKV01	1	1	1			1	1
+Bacteria	JAFGLO01	JAFGLO01	1	1	1			1	1
+Bacteria	JAFGND01	JAFGND01	1	1	1			1	1
+Bacteria	JAFGOL01	JAFGOL01	1	1	1			1	1
+Bacteria	JAFGQG01	JAFGQG01	1	1	1			1	1
+Bacteria	JAFGQW01	JAFGQW01	1	1	1			1	1
+Bacteria	JAFGSX01	JAFGSX01	1	1	1			1	1
+Bacteria	JAFGXH01	JAFGXH01	1	1	1			1	1
+Bacteria	JAFGXN01	JAFGXN01	1	1	1			1	1
+Bacteria	JAFLBG01	JAFLBG01	1	1	1			1	1
+Bacteria	JAGGSF01	JAGGSF01	1	1	1			1	1
+Bacteria	JAGGVC01	JAGGVC01	1	1	1			1	1
+Bacteria	JAGGVT01	JAGGVT01	1	1	1			1	1
+Bacteria	JAGGWG01	CAZAJM01	1	1	2	0.66311	1.1604425	1	1
+Bacteria	JAGHAJ01	JAGHAJ01	1	1	1			1	1
+Bacteria	JAGLHV01	JAGLHV01	1	1	1			1	1
+Bacteria	JAGLLT01	CAZKQD01	1	1	2	0.22912	0.40096	1	1
+Bacteria	JAGLSM01	JAGLSM01	1	1	2	0.31746	0.555555	1	1
+Bacteria	JAGLYR01	JAGLYR01	1	1	1			1	1
+Bacteria	JAGLYY01	JAGLYY01	1	1	1			1	1
+Bacteria	JAGOAT01	CAYZIP01	1	1	2	0.58097	1.0166975	1	1
+Bacteria	JAGOBX01	JAGOBX01	1	1	1			1	1
+Bacteria	JAGOEH01	CAYLKS01	1	1	2	0.23447	0.4103225	1	1
+Bacteria	JAGOGO01	JAGOGO01	1	1	1			1	1
+Bacteria	JAGOMX01	JAGOMX01	1	1	1			1	1
+Bacteria	JAGOUN01	JAGOUN01	1	1	1			1	1
+Bacteria	JAGOUU01	JAGOUU01	1	1	1			1	1
+Bacteria	JAGPBS01	JAGPBS01	1	1	1			1	1
+Bacteria	JAGPKW01	JAGPKW01	1	1	1			1	1
+Bacteria	JAGPMH01	JAGPMH01	1	1	1			1	1
+Bacteria	JAGQJP01	JAGQJP01	1	1	1			1	1
+Bacteria	JAGRBM01	JAGRBM01	1	1	2	0.36086	0.631505	1	1
+Bacteria	JAGRCI01	JAGRCI01	1	1	1			1	1
+Bacteria	JAGRGH01	JAGRGH01	1	1	1			1	1
+Bacteria	JAGVFQ01	JAGVFQ01	1	1	1			1	1
+Bacteria	JAGVHQ01	JAGVHQ01	1	1	1			1	1
+Bacteria	JAGVPR01	JAGVPR01	1	1	1			1	1
+Bacteria	JAHCLG01	JAHCLG01	1	1	1			1	1
+Bacteria	JAHCSD01	CAYJUQ01	1	1	2	0.33644	0.58877	1	1
+Bacteria	JAHEKZ01	JAHEKZ01	1	1	1			1	1
+Bacteria	JAHELT01	JAHELT01	1	1	1			1	1
+Bacteria	JAHEXW01	JAGVPG01	1	1	3	0.18745	0.3280375	1	1
+Bacteria	JAHEXY01	JAHEXY01	1	1	1			1	1
+Bacteria	JAHFAK01	JAHFAK01	1	1	2	0.39052	0.68341	1	1
+Bacteria	JAHFDA01	JAHFDA01	1	1	1			1	1
+Bacteria	JAHFDS01	DATFWX01	1	1	1			1	1
+Bacteria	JAHIHE01	DAOVOJ01	1	1	4	0.33676	0.58933	1	1
+Bacteria	JAHIPI01	JAHIPI01	1	1	1			1	1
+Bacteria	JAHISW01	CAZVBU01	1	1	2	0.35512	0.62146	1	1
+Bacteria	JAHISY01	JAHISY01	1	1	1			1	1
+Bacteria	JAHITG01	JAFGFC01	1	1	3	0.27659	0.4840325	1	1
+Bacteria	JAHIVN01	JAHIVN01	1	1	1			1	1
+Bacteria	JAHIZJ01	JAHIZJ01	1	1	1			1	1
+Bacteria	JAHIZV01	JAHIZV01	1	1	1			1	1
+Bacteria	JAHJAL01	JAHJAL01	1	1	1			1	1
+Bacteria	JAHJDO01	JAHJDO01	1	1	1			1	1
+Bacteria	JAHJFT01	JAHJFT01	1	1	1			1	1
+Bacteria	JAHJGZ01	JAHJGZ01	1	1	1			1	1
+Bacteria	JAHJIN01	JAHJIN01	1	1	1			1	1
+Bacteria	JAHJIW01	JAHJIW01	1	1	1			1	1
+Bacteria	JAHJRV01	JAHJRV01	1	1	1			1	1
+Bacteria	JAHJRX01	JAHJRX01	1	1	1			1	1
+Bacteria	JAHJRZ01	JAHJRZ01	1	1	1			1	1
+Bacteria	JAHJTE01	JAHJTE01	1	1	1			1	1
+Bacteria	JAHWKV01	JBOGWP01	1	1	3	0.19417	0.3397975	1	1
+Bacteria	JAIBAJ01	JAIBAJ01	1	1	1			1	1
+Bacteria	JAICYB01	JAICYB01	1	1	1			1	1
+Bacteria	JAIEPX01	JAIEPX01	1	1	1			1	1
+Bacteria	JAIMAT01	JAIMAT01	1	1	1			1	1
+Bacteria	JAIMBG01	JAIMBG01	1	1	1			1	1
+Bacteria	JAIPGG01	JAIPGG01	1	1	1			1	1
+Bacteria	JAIQFV01	JAIQFV01	1	1	1			1	1
+Bacteria	JAIXQD01	JAIXQD01	1	1	1			1	1
+Bacteria	JAJCYG01	JAJCYG01	1	1	1			1	1
+Bacteria	JAJCYS01	JAJCYS01	1	1	1			1	1
+Bacteria	JAJDCN01	JAJDCN01	1	1	1			1	1
+Bacteria	JAJDGJ01	JAJDGJ01	1	1	1			1	1
+Bacteria	JAJDOJ01	JAJDOJ01	1	1	1			1	1
+Bacteria	JAJDYQ01	JAJDYQ01	1	1	1			1	1
+Bacteria	JAJFFI01	JAJFFI01	1	1	1			1	1
+Bacteria	JAJFIK01	JAJFIK01	1	1	1			1	1
+Bacteria	JAJFJF01	JAJFJF01	1	1	1			1	1
+Bacteria	JAJFKG01	JAJFKG01	1	1	1			1	1
+Bacteria	JAJFKO01	JAJFKO01	1	1	1			1	1
+Bacteria	JAJPGV01	JAJPGV01	1	1	1			1	1
+Bacteria	JAJPHL01	JAJPHL01	1	1	2	0.22575	0.3950625	1	1
+Bacteria	JAJPIJ01	JAJPIJ01	1	1	1			1	1
+Bacteria	JAJRRL01	JAJRRL01	1	1	1			1	1
+Bacteria	JAJRTE01	JAJRTE01	1	1	2	0.23006	0.402605	1	1
+Bacteria	JAJRTK01	JAJRTK01	1	1	1			1	1
+Bacteria	JAJRTO01	JAJRTO01	1	1	1			1	1
+Bacteria	JAJRVZ01	JAJRVZ01	1	1	1			1	1
+Bacteria	JAJRWM01	JAJRWM01	1	1	1			1	1
+Bacteria	JAJRXK01	JAJRXK01	1	1	1			1	1
+Bacteria	JAJRXV01	JAJRXV01	1	1	1			1	1
+Bacteria	JAJRZV01	JAJRZV01	1	1	1			1	1
+Bacteria	JAJSAM01	JAKLKS01	1	1	3	0.46982	0.822185	1	1
+Bacteria	JAJTBE01	CAYNGH01	1	1	3	0.23455	0.4104625	1	1
+Bacteria	JAJTHO01	CANGXP01	1	1	4	0.266205	0.46585875	1	1
+Bacteria	JAJUGE01	JAJUGE01	1	1	1			1	1
+Bacteria	JAJVIF01	JAJVIF01	1	1	1			1	1
+Bacteria	JAJVIH01	CAZXXB01	1	1	2	0.39393	0.6893775	1	1
+Bacteria	JAJVII01	JAJVII01	1	1	1			1	1
+Bacteria	JAJYGY01	DAIDJD01	1	1	2	0.29821	0.5218675	1	1
+Bacteria	JAJYSQ01	JAJYSQ01	1	1	1			1	1
+Bacteria	JAJYWN01	JAJYWN01	1	1	2	0.27977	0.4895975	1	1
+Bacteria	JAJZIM01	JAJZBP01	1	1	2	0.26558	0.464765	1	1
+Bacteria	JAJZTN01	JAJZTN01	1	1	1			1	1
+Bacteria	JAJZYS01	JAJYTV01	1	1	4	0.389245	0.68117875	1	1
+Bacteria	JAKAPS01	JAJZLI01	1	1	2	0.62978	1.102115	1	1
+Bacteria	JAKAQQ01	JAKAQQ01	1	1	1			1	1
+Bacteria	JAKBBU01	JAKBBU01	1	1	1			1	1
+Bacteria	JAKDMP01	JAKDMP01	1	1	1			1	1
+Bacteria	JAKEEW01	JAKEEW01	1	1	1			1	1
+Bacteria	JAKEFK01	JAKEFK01	1	1	1			1	1
+Bacteria	JAKEHO01	JAKEHO01	1	1	1			1	1
+Bacteria	JAKEIC01	DYIT01	1	1	2	0.51697	0.9046975	1	1
+Bacteria	JAKFFM01	JAKFFM01	1	1	1			1	1
+Bacteria	JAKLDR01	JAKLDR01	1	1	1			1	1
+Bacteria	JAKLHX01	JAKLHX01	1	1	2	0.23023	0.4029025	1	1
+Bacteria	JAKQHR01	JAKQHR01	1	1	1			1	1
+Bacteria	JAKQQT01	JAKQQT01	1	1	1			1	1
+Bacteria	JALCBB01	JALCBB01	1	1	1			1	1
+Bacteria	JALEGL01	JALEGL01	1	1	3	0.32675	0.5718125	1	1
+Bacteria	JALHDB01	JALHDB01	1	1	1			1	1
+Bacteria	JALRGP01	JALRGP01	1	1	1			1	1
+Bacteria	JALSIF01	JALSIF01	1	1	1			1	1
+Bacteria	JALSQH01	JALSQH01	1	1	1			1	1
+Bacteria	JALTLT01	JALTLT01	1	1	1			1	1
+Bacteria	JALVIU01	JALVIU01	1	1	1			1	1
+Bacteria	JALWYX01	JALWYX01	1	1	1			1	1
+Bacteria	JALXBF01	JALXBF01	1	1	2	0.29056	0.50848	1	1
+Bacteria	JALYJY01	JALYJY01	1	1	1			1	1
+Bacteria	JALYMT01	JALYMT01	1	1	1			1	1
+Bacteria	JALYMU01	JALYMU01	1	1	1			1	1
+Bacteria	JALYNC01	JALYNC01	1	1	1			1	1
+Bacteria	JALYQM01	JALYQM01	1	1	1			1	1
+Bacteria	JALYXH01	JALYXH01	1	1	1			1	1
+Bacteria	JAMCPX01	JAMCPX01	1	1	1			1	1
+Bacteria	JAMCQP01	JAMCQP01	1	1	1			1	1
+Bacteria	JAMCWA01	JAMCWA01	1	1	1			1	1
+Bacteria	JAMCWD01	JAMCWD01	1	1	1			1	1
+Bacteria	JAMCXX01	JAMCXX01	1	1	2	0.53551	0.9371425	1	1
+Bacteria	JAMCYU01	JAMCYU01	1	1	1			1	1
+Bacteria	JAMCZE01	JAMCZE01	1	1	1			1	1
+Bacteria	JAMDAP01	JAMDAP01	1	1	1			1	1
+Bacteria	JAMDBS01	DAOVQR01	1	1	3	0.41245	0.7217875	1	1
+Bacteria	JAMOAD01	JAMOAD01	1	1	1			1	1
+Bacteria	JAMORN01	JAMORN01	1	1	1			1	1
+Bacteria	JAMOSO01	JAMOSO01	1	1	1			1	1
+Bacteria	JAMOTN01	JAMOTN01	1	1	1			1	1
+Bacteria	JANLFK01	Oleimicrobiaceae	1	1	1			1	1
+Bacteria	JANLFM01	JANLFM01	1	1	1			1	1
+Bacteria	JANQFH01	JANQFH01	1	1	1			1	1
+Bacteria	JANQFL01	JANQFL01	1	1	1			1	1
+Bacteria	JANQJC01	JANQJC01	1	1	1			1	1
+Bacteria	JANQMV01	JANQMV01	1	1	1			1	1
+Bacteria	JANQMY01	JANQMY01	1	1	1			1	1
+Bacteria	JANQSM01	JANQSM01	1	1	1			1	1
+Bacteria	JANSWW01	JANSWW01	1	1	1			1	1
+Bacteria	JANWHV01	JANWHV01	1	1	1			1	1
+Bacteria	JANWJV01	JANWJV01	1	1	1			1	1
+Bacteria	JANWVE01	JANWVE01	1	1	1			1	1
+Bacteria	JANWWW01	JANWWW01	1	1	1			1	1
+Bacteria	JANXDC01	JANXDC01	1	1	1			1	1
+Bacteria	JAOADG01	JAOADG01	1	1	1			1	1
+Bacteria	JAOAEQ01	JAOAEQ01	1	1	1			1	1
+Bacteria	JAOAGR01	JAOAGR01	1	1	2	0.75103	1.3143025	1	1
+Bacteria	JAOXRX01	JAOXRX01	1	1	1			1	1
+Bacteria	JAPDKE01	JAPDKE01	1	1	1			1	1
+Bacteria	JAPKNN01	JAPKNN01	1	1	1			1	1
+Bacteria	JAPKYR01	CAZSPL01	1	1	2	0.45284	0.79247	1	1
+Bacteria	JAPLJL01	JAPLJL01	1	1	1			1	1
+Bacteria	JAPLKR01	JAPLKR01	1	1	1			1	1
+Bacteria	JAPLLA01	JAPLLA01	1	1	1			1	1
+Bacteria	JAPLSS01	JAPLSS01	1	1	1			1	1
+Bacteria	JAPLVJ01	JAPLVJ01	1	1	1			1	1
+Bacteria	JAPLVM01	JAPLVM01	1	1	1			1	1
+Bacteria	JAPLWK01	JAPLWK01	1	1	1			1	1
+Bacteria	JAPOUT01	JBAJNM01	1	1	3	0.27719	0.4850825	1	1
+Bacteria	JAPPPA01	JAPPPA01	1	1	1			1	1
+Bacteria	JAPUIV01	JAPUIV01	1	1	1			1	1
+Bacteria	JAPUKU01	JAPUKU01	1	1	1			1	1
+Bacteria	JAPULJ01	JAPULJ01	1	1	1			1	1
+Bacteria	JAPYRI01	JAPYRI01	1	1	1			1	1
+Bacteria	JAQAZP01	JAQAZP01	1	1	1			1	1
+Bacteria	JAQICX01	JAQICX01	1	1	1			1	1
+Bacteria	JAQSXL01	JAQSXL01	1	1	1			1	1
+Bacteria	JAQTZZ01	JAQTZZ01	1	1	1			1	1
+Bacteria	JAQUKH01	JAQUKH01	1	1	1			1	1
+Bacteria	JAQUNI01	JAQUNI01	1	1	1			1	1
+Bacteria	JAQUNY01	JAQUNY01	1	1	1			1	1
+Bacteria	JAQUQO01	JAQUQO01	1	1	1			1	1
+Bacteria	JAQVDB01	JAQVDB01	1	1	1			1	1
+Bacteria	JAQVHJ01	JAQVHJ01	1	1	1			1	1
+Bacteria	JAQWUY01	JAQWUY01	1	1	1			1	1
+Bacteria	JARBTR01	JARBTR01	1	1	1			1	1
+Bacteria	JARBTT01	JARBTT01	1	1	1			1	1
+Bacteria	JARCMD01	JARCMD01	1	1	1			1	1
+Bacteria	JAREAF01	JAREAF01	1	1	1			1	1
+Bacteria	JARFUL01	JARFUL01	1	1	1			1	1
+Bacteria	JASBUN01	JASBUN01	1	1	1			1	1
+Bacteria	JASBVW01	JASBVW01	1	1	1			1	1
+Bacteria	JASEGR01	JASEGR01	1	1	1			1	1
+Bacteria	JASEGY01	JASEGY01	1	1	1			1	1
+Bacteria	JASEIO01	JASEIO01	1	1	1			1	1
+Bacteria	JASGCL01	JASGCL01	1	1	1			1	1
+Bacteria	JASGCS01	JASGCS01	1	1	1			1	1
+Bacteria	JASUSC01	JASUSC01	1	1	1			1	1
+Bacteria	JAUHZC01	JAUHZC01	1	1	1			1	1
+Bacteria	JAUHZG01	JAUHZG01	1	1	1			1	1
+Bacteria	JAUHZY01	JAUHZY01	1	1	1			1	1
+Bacteria	JAUIAT01	JAUIAT01	1	1	1			1	1
+Bacteria	JAUQQI01	JAUQQI01	1	1	1			1	1
+Bacteria	JAURND01	JAURND01	1	1	1			1	1
+Bacteria	JAUSIH01	JAUSIH01	1	1	1			1	1
+Bacteria	JAUVJM01	JAUVJM01	1	1	1			1	1
+Bacteria	JAUVQV01	DATDCY01	1	1	2	0.23082	0.403935	1	1
+Bacteria	JAUVRN01	JAUVRN01	1	1	1			1	1
+Bacteria	JAUVVT01	JAUVVT01	1	1	1			1	1
+Bacteria	JAUVWM01	JAUVWM01	1	1	1			1	1
+Bacteria	JAUVYG01	JAUVYG01	1	1	1			1	1
+Bacteria	JAUWXU01	JAUWXU01	1	1	1			1	1
+Bacteria	JAUXAN01	JAUXAN01	1	1	1			1	1
+Bacteria	JAUXAW01	JAUXAW01	1	1	3	0.52445	0.9177875	1	1
+Bacteria	JAUXFM01	JAUXFM01	1	1	1			1	1
+Bacteria	JAUXIB01	JAUXIB01	1	1	1			1	1
+Bacteria	JAUXIQ01	JAUXIQ01	1	1	1			1	1
+Bacteria	JAUXUR01	JAUXUR01	1	1	1			1	1
+Bacteria	JAUYCX01	JBMONJ01	1	1	1			1	1
+Bacteria	JAUYDP01	JAUYDP01	1	1	1			1	1
+Bacteria	JAUYEF01	JAUYEF01	1	1	1			1	1
+Bacteria	JAUYEG01	JAUYEG01	1	1	1			1	1
+Bacteria	JAUYGZ01	DAOVYC01	1	1	2	0.36155	0.6327125	1	1
+Bacteria	JAUYIX01	JAUYIX01	1	1	2	0.48622	0.850885	1	1
+Bacteria	JAUYLV01	JAUYLV01	1	1	1			1	1
+Bacteria	JAUYMQ01	JAUYMQ01	1	1	1			1	1
+Bacteria	JAUYPR01	JAUYPR01	1	1	1			1	1
+Bacteria	JAUZRS01	JAUZRS01	1	1	1			1	1
+Bacteria	JAVCCG01	Alcyoniellaceae	1	1	1			1	1
+Bacteria	JAVEEB01	JAVEEB01	1	1	1			1	1
+Bacteria	JAVEVO01	CAYZFJ01	1	1	2	0.38968	0.68194	1	1
+Bacteria	JAVJRE01	JAVJRE01	1	1	1			1	1
+Bacteria	JAVJVX01	JAVJVX01	1	1	1			1	1
+Bacteria	JAWKYA01	JAWKYA01	1	1	1			1	1
+Bacteria	JAWLBW01	JAWLBW01	1	1	1			1	1
+Bacteria	JAWWOL01	JAWWOL01	1	1	1			1	1
+Bacteria	JAWWOW01	JAWWOW01	1	1	1			1	1
+Bacteria	JAWXBN01	JAWXBN01	1	1	2	0.23008	0.40264	1	1
+Bacteria	JAXHNJ01	JAXHNJ01	1	1	1			1	1
+Bacteria	JAXMDU01	JAXMDU01	1	1	1			1	1
+Bacteria	JAYEMH01	JAYEMH01	1	1	1			1	1
+Bacteria	JAYEMR01	JAYEMR01	1	1	1			1	1
+Bacteria	JAZDEU01	JAZDEU01	1	1	1			1	1
+Bacteria	JAZDFF01	JAZDFF01	1	1	1			1	1
+Bacteria	JAZDGP01	JAZDGP01	1	1	1			1	1
+Bacteria	JAZDJP01	JAZDJP01	1	1	1			1	1
+Bacteria	JAZDKG01	JAZDKG01	1	1	1			1	1
+Bacteria	JAZDLJ01	JAZDLJ01	1	1	1			1	1
+Bacteria	JAZDOA01	JAZDOA01	1	1	1			1	1
+Bacteria	JAZDOK01	JAZDOK01	1	1	1			1	1
+Bacteria	JAZFTZ01	JAZFTZ01	1	1	1			1	1
+Bacteria	JAZPYJ01	JAZPYJ01	1	1	1			1	1
+Bacteria	JBAMLU01	JBAMLU01	1	1	1			1	1
+Bacteria	JBAXGH01	JBAXGH01	1	1	1			1	1
+Bacteria	JBAXOJ01	JBAXOJ01	1	1	1			1	1
+Bacteria	JBAXTZ01	JBAXTZ01	1	1	1			1	1
+Bacteria	JBAXVQ01	JBAXVQ01	1	1	1			1	1
+Bacteria	JBAYJO01	JBAYJO01	1	1	1			1	1
+Bacteria	JBAYJV01	JBAYJV01	1	1	1			1	1
+Bacteria	JBAYZB01	JBAYZB01	1	1	1			1	1
+Bacteria	JBAZBY01	JBAZBY01	1	1	1			1	1
+Bacteria	JBBAAG01	JBBAAG01	1	1	1			1	1
+Bacteria	JBBAAN01	JBBAAN01	1	1	1			1	1
+Bacteria	JBBDQX01	JBBDQX01	1	1	1			1	1
+Bacteria	JBBIMK01	JBBIMK01	1	1	1			1	1
+Bacteria	JBBINA01	JBBINA01	1	1	1			1	1
+Bacteria	JBBINU01	JBBINU01	1	1	1			1	1
+Bacteria	JBBIRW01	JBBIRW01	1	1	1			1	1
+Bacteria	JBBIUM01	JBBIUM01	1	1	1			1	1
+Bacteria	JBBIVP01	JBBIVP01	1	1	1			1	1
+Bacteria	JBBQDK01	JBBQDK01	1	1	1			1	1
+Bacteria	JBBQFP01	JBBQFP01	1	1	1			1	1
+Bacteria	JBBRAU01	JBBRAU01	1	1	1			1	1
+Bacteria	JBBSVG01	JBBSVG01	1	1	1			1	1
+Bacteria	JBBTDB01	JBBTDB01	1	1	1			1	1
+Bacteria	JBBTED01	JBBTED01	1	1	1			1	1
+Bacteria	JBBTFH01	JBBTFH01	1	1	1			1	1
+Bacteria	JBBTXB01	JBBTXB01	1	1	1			1	1
+Bacteria	JBBTZN01	JBBTZN01	1	1	1			1	1
+Bacteria	JBCCFW01	JBCCFW01	1	1	1			1	1
+Bacteria	JBCCGL01	JBCCGL01	1	1	1			1	1
+Bacteria	JBCCHK01	JBCCHK01	1	1	1			1	1
+Bacteria	JBCCNR01	JBCCNR01	1	1	1			1	1
+Bacteria	JBDHUY01	JBDHUY01	1	1	1			1	1
+Bacteria	JBDIAW01	JBDIAW01	1	1	1			1	1
+Bacteria	JBDRAO01	JBDRAO01	1	1	1			1	1
+Bacteria	JBDREB01	JBDREB01	1	1	1			1	1
+Bacteria	JBDRED01	JBDRED01	1	1	1			1	1
+Bacteria	JBDRGX01	JBDRGX01	1	1	1			1	1
+Bacteria	JBDRGY01	JBDRGY01	1	1	1			1	1
+Bacteria	JBDRHN01	JBDRHN01	1	1	1			1	1
+Bacteria	JBDRLY01	JBDRLY01	1	1	1			1	1
+Bacteria	JBDRLZ01	JBDRLZ01	1	1	1			1	1
+Bacteria	JBDRMW01	JBDRMW01	1	1	2	0.31423	0.5499025	1	1
+Bacteria	JBDRON01	JBDRON01	1	1	1			1	1
+Bacteria	JBDRYB01	JBDRYB01	1	1	1			1	1
+Bacteria	JBDZUN01	JBDZUN01	1	1	1			1	1
+Bacteria	JBFIID01	JBFIID01	1	1	1			1	1
+Bacteria	JBFLWA01	JBFLWA01	1	1	2	0.24277	0.4248475	1	1
+Bacteria	JBFLXN01	JBFLXN01	1	1	1			1	1
+Bacteria	JBFLYD01	JBBIMS01	1	1	2	0.24289	0.4250575	1	1
+Bacteria	JBFMBV01	JBFMBV01	1	1	1			1	1
+Bacteria	JBFMGF01	JBFMGF01	1	1	1			1	1
+Bacteria	JBFMGH01	JBFMGH01	1	1	1			1	1
+Bacteria	JBFMHD01	JBFMHD01	1	1	1			1	1
+Bacteria	JBFWNO01	JBFWNO01	1	1	1			1	1
+Bacteria	JBFWNS01	JBFWNS01	1	1	1			1	1
+Bacteria	JBFXJJ01	JBFXJJ01	1	1	1			1	1
+Bacteria	JBGSIU01	JBGSIU01	1	1	1			1	1
+Bacteria	JBGSLN01	JBGSLN01	1	1	1			1	1
+Bacteria	JBHHUU01	JBHHUU01	1	1	1			1	1
+Bacteria	JBHHXV01	JBHHXV01	1	1	1			1	1
+Bacteria	JBHIAT01	JBHIAT01	1	1	1			1	1
+Bacteria	JBHICW01	JBHICW01	1	1	1			1	1
+Bacteria	JBHICX01	JBHICX01	1	1	1			1	1
+Bacteria	JBHIDP01	JBHIDP01	1	1	1			1	1
+Bacteria	JBHOQS01	JBHOQS01	1	1	1			1	1
+Bacteria	JBHPGJ01	JBHPGJ01	1	1	1			1	1
+Bacteria	JBILKX01	JBILKX01	1	1	1			1	1
+Bacteria	JBIOEC01	JBIOEC01	1	1	1			1	1
+Bacteria	JBJDXG01	JBJDXG01	1	1	1			1	1
+Bacteria	JBJXGV01	JBJXGV01	1	1	1			1	1
+Bacteria	JBKEAR01	JBKEAR01	1	1	1			1	1
+Bacteria	JBKEDG01	JBKEDG01	1	1	1			1	1
+Bacteria	JBKHBT01	JBKHBT01	1	1	1			1	1
+Bacteria	JBLNCG01	JBLNCG01	1	1	1			1	1
+Bacteria	JBMOFM01	JBMOFM01	1	1	1			1	1
+Bacteria	JBMOMH01	JBMOMH01	1	1	1			1	1
+Bacteria	JBOFGC01	JBOFGC01	1	1	1			1	1
+Bacteria	JBOGEN01	JBOGEN01	1	1	1			1	1
+Bacteria	JBOHHR01	JBOHHR01	1	1	1			1	1
+Bacteria	JBPCXB01	JBPCXB01	1	1	1			1	1
+Bacteria	JBPCXK01	JBPCXK01	1	1	1			1	1
+Bacteria	JC444	Marispirochaetaceae	1	1	1			1	1
+Bacteria	JGIOTU-2	JBNGDW01	1	1	3	0.23099	0.4042325	1	1
+Bacteria	JdFR-54	JdFR-54	1	1	1			1	1
+Bacteria	JdFR-76	JdFR-76	1	1	3	0.14037	0.2456475	1	1
+Bacteria	JdFR-78	JdFR-78	1	1	1			1	1
+Bacteria	Jiangellales	Jiangellaceae	1	1	1			1	1
+Bacteria	Johnevansiales	Johnevansiaceae	1	1	1			1	1
+Bacteria	Joyebacterales	Joyebacteraceae	1	1	1			1	1
+Bacteria	Kaelpiales	Kaelpiaceae	1	1	1			1	1
+Bacteria	Kapaibacteriales	UB7675	1	1	11	0.25304	0.44282	1	1
+Bacteria	Kazan-3B-28	Kazan-3B-28	1	1	2	0.38397	0.6719475	1	1
+Bacteria	Kiloniellales	J153	1	1	10	0.14161	0.2478175	1	1
+Bacteria	Kiritimatiellales	Tichowtungiaceae	1	1	3	0.24933	0.4363275	1	1
+Bacteria	Koleobacterales	JARRCM01	1	1	3	0.1134	0.19845	1	1
+Bacteria	Kolteriales	Kolteriaceae	1	1	1			1	1
+Bacteria	Krumholzibacteriales	Krumholzibacteriaceae	1	1	3	0.19108	0.33439	1	1
+Bacteria	Kryptoniales	JAKASW01	1	1	2	0.265	0.46375	1	1
+Bacteria	Ktedonobacterales	DATBGS01	1	1	4	0.264405	0.46270875	1	1
+Bacteria	Kuafuiibacteriales	Kuafuiibacteriaceae	1	1	1			1	1
+Bacteria	Kyrpidiales	Kyrpidiaceae	1	1	1			1	1
+Bacteria	LBFQ01	DSFT01	1	1	2	0.53109	0.9294075	1	1
+Bacteria	LMEP-6097	CAYGPN01	1	1	2	0.25719	0.4500825	1	1
+Bacteria	LZORAL124-64-63	LZORAL124-64-63	1	1	1			1	1
+Bacteria	Lachnospirales	JAKSVV01	1	1	33	0.20043	0.3507525	10	10
+Bacteria	Lachnospirales	Bianqueaceae	2	2	33	0.20043	0.3507525	10	10
+Bacteria	Lachnospirales	JAOARL01	3	3	33	0.20043	0.3507525	10	10
+Bacteria	Lachnospirales	CAMVHY01	4	4	33	0.20043	0.3507525	10	10
+Bacteria	Lachnospirales	CAMZNU01	5	5	33	0.20043	0.3507525	10	10
+Bacteria	Lachnospirales	CAYYRV01	6	6	33	0.20043	0.3507525	10	10
+Bacteria	Lachnospirales	WRAA01	7	7	33	0.20043	0.3507525	10	10
+Bacteria	Lachnospirales	DSM-24629	8	8	33	0.20043	0.3507525	10	10
+Bacteria	Lachnospirales	Defluviitaleaceae	9	9	33	0.20043	0.3507525	10	10
+Bacteria	Lachnospirales	JAVBJQ01	10	10	33	0.20043	0.3507525	10	10
+Bacteria	Lactobacillales	Enterococcaceae	1	1	9	0.15504	0.27132	3	3
+Bacteria	Lactobacillales	Carnobacteriaceae	2	2	9	0.15504	0.27132	3	3
+Bacteria	Lactobacillales	Listeriaceae	3	3	9	0.15504	0.27132	3	3
+Bacteria	Latescibacterales	Latescibacteraceae	1	1	1			1	1
+Bacteria	Legionellales	Legionellaceae	1	1	1			1	1
+Bacteria	Lentisphaerales	Lentisphaeraceae	1	1	1			1	1
+Bacteria	Leptolyngbyales	Leptolyngbyaceae	1	1	1			1	1
+Bacteria	Leptospirales	Leptonemataceae	1	1	2	0.45594	0.797895	1	1
+Bacteria	Leptospirillales	Leptospirillaceae	1	1	1			1	1
+Bacteria	Lernaellales	Lernaellaceae	1	1	1			1	1
+Bacteria	Levybacterales	UBA12049	1	1	3	0.35319	0.6180825	1	1
+Bacteria	Limisphaerales	UBA1412	1	11	76	0.1468	0.2569	20	16
+Bacteria	Limisphaerales	CAIMTB01	2	13	76	0.1468	0.2569	20	16
+Bacteria	Limisphaerales	UBA1096	3	6	76	0.1468	0.2569	20	16
+Bacteria	Limisphaerales	JAOAIM01	4	15	76	0.1468	0.2569	20	16
+Bacteria	Limisphaerales	CAZZJO01	5	7	76	0.1468	0.2569	20	16
+Bacteria	Limisphaerales	JAJOIW01	6	2	76	0.1468	0.2569	20	16
+Bacteria	Limisphaerales	DUCD01	7	9	76	0.1468	0.2569	20	16
+Bacteria	Limisphaerales	UBA1100	8	4	76	0.1468	0.2569	20	16
+Bacteria	Limisphaerales	CAZKNW01	9	5	76	0.1468	0.2569	20	16
+Bacteria	Limisphaerales	CAZBKV01	10	8	76	0.1468	0.2569	20	16
+Bacteria	Limisphaerales	CAZFVY01	11	19	76	0.1468	0.2569	20	16
+Bacteria	Limisphaerales	JAYPXF01	12	3	76	0.1468	0.2569	20	16
+Bacteria	Limisphaerales	AAA164-E04	13	1	76	0.1468	0.2569	20	16
+Bacteria	Limisphaerales	JAIPKD01	14	10	76	0.1468	0.2569	20	16
+Bacteria	Limisphaerales	CANJSG01	15	14	76	0.1468	0.2569	20	16
+Bacteria	Limisphaerales	JBFMBT01	16	12	76	0.1468	0.2569	20	16
+Bacteria	Limnochordales	Limnochordaceae	1	1	4	0.315785	0.55262375	1	1
+Bacteria	Limnocylindrales	CSP1-4	1	1	2	0.3611	0.631925	1	1
+Bacteria	Longimicrobiales	RSA9	1	1	3	0.25897	0.4531975	1	1
+Bacteria	Lucifugimonadales	UBA826	1	1	54	0.256735	0.44928625	12	12
+Bacteria	Lucifugimonadales	DAOUAM01	2	2	54	0.256735	0.44928625	12	12
+Bacteria	Lucifugimonadales	GCA-2719675	3	3	54	0.256735	0.44928625	12	12
+Bacteria	Lucifugimonadales	GCA-2722455	4	4	54	0.256735	0.44928625	12	12
+Bacteria	Lucifugimonadales	Lucifugimonadaceae	5	5	54	0.256735	0.44928625	12	12
+Bacteria	Lucifugimonadales	GCA-002694895	6	6	54	0.256735	0.44928625	12	12
+Bacteria	Lucifugimonadales	CBDFII01	7	7	54	0.256735	0.44928625	12	12
+Bacteria	Lucifugimonadales	CAZDRU01	8	8	54	0.256735	0.44928625	12	12
+Bacteria	Lucifugimonadales	QGNO01	9	9	54	0.256735	0.44928625	12	12
+Bacteria	Lucifugimonadales	HRBIN23	10	10	54	0.256735	0.44928625	12	12
+Bacteria	Lucifugimonadales	JACPQL01	11	11	54	0.256735	0.44928625	12	12
+Bacteria	Lucifugimonadales	CAYTFF01	12	12	54	0.256735	0.44928625	12	12
+Bacteria	Lutisporales	Lutisporaceae	1	1	1			1	1
+Bacteria	M2410	M2410	1	1	1			1	1
+Bacteria	M30B25	M30B25	1	1	1			1	1
+Bacteria	M30B66	M30B66	1	1	1			1	1
+Bacteria	M55B111	M55B111	1	1	1			1	1
+Bacteria	M55B152	CAYOMG01	1	1	2	0.33884	0.59297	1	1
+Bacteria	MAG-NZ	MAG-NZ	1	1	1			1	1
+Bacteria	MC1	MC1	1	1	1			1	1
+Bacteria	MED-G09	MED-G09	1	1	1			1	1
+Bacteria	MEIF01	AqS3	1	1	1			1	1
+Bacteria	MFGW01	MFGW01	1	1	1			1	1
+Bacteria	MHYJ01	JACPRB01	1	1	1			1	1
+Bacteria	ML615J-28	CAG-313	1	1	2	0.31978	0.559615	1	1
+Bacteria	MOL361	Turicibacteraceae	1	1	1			1	1
+Bacteria	MPNO01	MPNO01	1	1	5	0.1648	0.2884	1	1
+Bacteria	MSB-5A5	RBG-16-43-9	1	1	3	0.20829	0.3645075	1	1
+Bacteria	MVCY01	DTYK01	1	1	2	0.17746	0.310555	1	1
+Bacteria	MVZB01	JAJFLK01	1	1	2	0.31246	0.546805	1	1
+Bacteria	MWAK01	MWAK01	1	1	1			1	1
+Bacteria	MWCT01	JAUWMI01	1	1	3	0.30145	0.5275375	1	1
+Bacteria	MWCZ01	CAZVGZ01	1	1	2	0.33007	0.5776225	1	1
+Bacteria	MWEM01	MWEM01	1	1	1			1	1
+Bacteria	Macinerneyibacteriales	DSCS01	1	1	3	0.2692	0.4711	1	1
+Bacteria	Magasanikbacterales	UBA10003	1	1	10	0.41678	0.729365	1	1
+Bacteria	Magnetococcales	CAYFNE01	1	1	11	0.19304	0.33782	1	1
+Bacteria	Magnimaribacterales	Magnimaribacteraceae	1	1	4	0.385195	0.67409125	1	1
+Bacteria	Mahellales	Mahellaceae	1	1	1			1	1
+Bacteria	Marinacidobacterales	DATDRI01	1	1	3	0.17528	0.30674	2	2
+Bacteria	Marinacidobacterales	Marinacidobacteraceae	2	2	3	0.17528	0.30674	2	2
+Bacteria	Marinisomatales	SCKK01	1	1	16	0.1979	0.346325	3	3
+Bacteria	Marinisomatales	JAADGP01	2	2	16	0.1979	0.346325	3	3
+Bacteria	Marinisomatales	Marinisomataceae	3	3	16	0.1979	0.346325	3	3
+Bacteria	Mariprofundales	Mariprofundaceae	1	1	3	0.20939	0.3664325	1	1
+Bacteria	Mesoaciditogales	Mesoaciditogaceae	1	1	1			1	1
+Bacteria	Methylacidiphilales	JAAUTS01	1	1	11	0.26299	0.4602325	2	2
+Bacteria	Methylacidiphilales	GAS474	2	2	11	0.26299	0.4602325	2	2
+Bacteria	Methylaequorales	Methylaequoraceae	1	1	1			1	1
+Bacteria	Methylococcales	UBA2778	1	1	10	0.151765	0.26558875	1	1
+Bacteria	Methylohalomonadales	Methylohalomonadaceae	1	1	1			1	1
+Bacteria	Methylomirabilales	JACRGL01	1	1	7	0.21516	0.37653	1	1
+Bacteria	Micavibrionales	UBA1664	1	1	8	0.269565	0.47173875	1	1
+Bacteria	Micropepsales	Micropepsaceae	1	1	1			1	1
+Bacteria	Miltoncostaeales	Miltoncostaeaceae	1	1	1			1	1
+Bacteria	Minisyncoccales	CAYUUM01	1	1	78	0.34805	0.6090875	16	16
+Bacteria	Minisyncoccales	UBA1441	2	2	78	0.34805	0.6090875	16	16
+Bacteria	Minisyncoccales	DAOWIS01	3	3	78	0.34805	0.6090875	16	16
+Bacteria	Minisyncoccales	CAYPLZ01	4	4	78	0.34805	0.6090875	16	16
+Bacteria	Minisyncoccales	CSSED10-335	5	5	78	0.34805	0.6090875	16	16
+Bacteria	Minisyncoccales	CAZWEN01	6	6	78	0.34805	0.6090875	16	16
+Bacteria	Minisyncoccales	CAZJJV01	7	7	78	0.34805	0.6090875	16	16
+Bacteria	Minisyncoccales	JAZDGI01	8	8	78	0.34805	0.6090875	16	16
+Bacteria	Minisyncoccales	MHMH01	9	9	78	0.34805	0.6090875	16	16
+Bacteria	Minisyncoccales	JAGOPM01	10	10	78	0.34805	0.6090875	16	16
+Bacteria	Minisyncoccales	Minisyncoccaceae	11	11	78	0.34805	0.6090875	16	16
+Bacteria	Minisyncoccales	HRBIN34	12	12	78	0.34805	0.6090875	16	16
+Bacteria	Minisyncoccales	JAGLUP01	13	13	78	0.34805	0.6090875	16	16
+Bacteria	Minisyncoccales	CG1-02-41-26	14	14	78	0.34805	0.6090875	16	16
+Bacteria	Minisyncoccales	CAZLLZ01	15	15	78	0.34805	0.6090875	16	16
+Bacteria	Minisyncoccales	UBA10102	16	16	78	0.34805	0.6090875	16	16
+Bacteria	Minwuiales	Minwuiaceae	1	1	1			1	1
+Bacteria	Moduliflexales	JAUQPW01	1	1	2	0.2607	0.456225	1	1
+Bacteria	Monoglobales	Firm-18	1	1	6	0.298945	0.52315375	2	2
+Bacteria	Monoglobales	JAIRYP01	2	2	6	0.298945	0.52315375	2	2
+Bacteria	Moranbacterales	JAPLXC01	1	1	12	0.298905	0.52308375	2	2
+Bacteria	Moranbacterales	DUUL01	2	2	12	0.298905	0.52308375	2	2
+Bacteria	Motilibacterales	Motilibacteraceae	1	1	1			1	1
+Bacteria	Muellerivitales	DAHXKG01	1	1	2	0.24383	0.4267025	1	1
+Bacteria	Muiribacteriales	Muiribacteriaceae	1	1	1			1	1
+Bacteria	Multivoradales	JBJKRB01	1	1	12	0.219545	0.38420375	2	2
+Bacteria	Multivoradales	DATKCC01	2	2	12	0.219545	0.38420375	2	2
+Bacteria	Mycobacteriales	SCTD01	1	1	19	0.16747	0.2930725	5	5
+Bacteria	Mycobacteriales	DASULA01	2	2	19	0.16747	0.2930725	5	5
+Bacteria	Mycobacteriales	Antricoccaceae	3	3	19	0.16747	0.2930725	5	5
+Bacteria	Mycobacteriales	Pseudonocardiaceae	4	4	19	0.16747	0.2930725	5	5
+Bacteria	Mycobacteriales	Cryptosporangiaceae	5	5	19	0.16747	0.2930725	5	5
+Bacteria	Mycoplasmatales	CGIF01	1	1	15	0.72082	1.261435	2	2
+Bacteria	Mycoplasmatales	Nriv7	2	2	15	0.72082	1.261435	2	2
+Bacteria	Myxococcales	Myxococcaceae	1	1	9	0.26273	0.4597775	1	1
+Bacteria	NMUJ01	CBEVQO01	1	1	2	0.47688	0.83454	1	1
+Bacteria	NORP154	NORP154	1	1	1			1	1
+Bacteria	NPL-UPA2	JAGMAN01	1	1	3	0.18018	0.315315	1	1
+Bacteria	NS11-12g	UBA9320	1	1	2	0.30314	0.530495	1	1
+Bacteria	Nannocystales	Nannocystaceae	1	1	1			1	1
+Bacteria	Nanopelagicales	Nanopelagicaceae	1	1	1			1	1
+Bacteria	Natranaerobiales	Natranaerobiaceae	1	1	2	0.21679	0.3793825	1	1
+Bacteria	Natronospirales	CAVUBB01	1	1	9	0.14635	0.2561125	1	1
+Bacteria	Nemesobacterales	UBA2774	1	1	8	0.195075	0.34138125	2	2
+Bacteria	Nemesobacterales	Mycalebacteriaceae	2	2	8	0.195075	0.34138125	2	2
+Bacteria	Neomoorellales	Neomoorellaceae	1	1	3	0.22314	0.390495	1	1
+Bacteria	Neosynechococcales	Neosynechococcaceae	1	1	1			1	1
+Bacteria	Nevskiales	DATLYR01	1	1	8	0.193845	0.33922875	1	1
+Bacteria	Nitriliruptorales	JAHWKO01	1	1	2	0.20766	0.363405	1	1
+Bacteria	Nitrococcales	AK92	1	1	5	0.13194	0.230895	1	1
+Bacteria	Nitrosococcales	Methylophagaceae	1	1	2	0.1872	0.3276	1	1
+Bacteria	Nitrospinales	VA-1	1	1	4	0.184905	0.32358375	1	1
+Bacteria	Nitrospirales	Nitrospiraceae	1	1	4	0.206365	0.36113875	2	2
+Bacteria	Nitrospirales	UBA2166	2	2	4	0.206365	0.36113875	2	2
+Bacteria	O2-12-FULL-43-9	O2-12-FULL-43-9	1	1	1			1	1
+Bacteria	O2-12-FULL-45-9	O2-12-FULL-45-9	1	1	2	0.27776	0.48608	1	1
+Bacteria	O2-12-FULL-59-9	O2-12-FULL-59-9	1	1	1			1	1
+Bacteria	OFTM77	OFTM77	1	1	1			1	1
+Bacteria	OLB16	OLB16	1	1	1			1	1
+Bacteria	OLB7	OLB7	1	1	1			1	1
+Bacteria	OXYB2-FULL-49-7	JAEUSG01	1	1	2	0.24965	0.4368875	1	1
+Bacteria	Obscuribacterales	JAKAZS01	1	1	2	0.28309	0.4954075	1	1
+Bacteria	Oceanibaculales	Oceanibaculaceae	1	1	1			1	1
+Bacteria	Oceanimicrobiales	CAZMEG01	1	1	3	0.12896	0.22568	1	1
+Bacteria	Oederibacteriales	Oederibacteriaceae	1	1	1			1	1
+Bacteria	Oleimicrobiales	Geothermoviventaceae	1	1	1			1	1
+Bacteria	Oligoflexales	CAZZCU01	1	1	14	0.309785	0.54212375	2	2
+Bacteria	Oligoflexales	Bin106	2	2	14	0.309785	0.54212375	2	2
+Bacteria	Oligosphaerales	JBFJXC01	1	1	12	0.22251	0.3893925	3	3
+Bacteria	Oligosphaerales	JABHEG01	2	2	12	0.22251	0.3893925	3	3
+Bacteria	Oligosphaerales	Oligosphaeraceae	3	3	12	0.22251	0.3893925	3	3
+Bacteria	Omnitrophales	Danuiimicrobiaceae	1	1	10	0.31597	0.5529475	1	1
+Bacteria	Opitutales	LL51	1	1	39	0.27033	0.4730775	5	5
+Bacteria	Opitutales	JAIRLM01	2	2	39	0.27033	0.4730775	5	5
+Bacteria	Opitutales	UBA12508	3	3	39	0.27033	0.4730775	5	5
+Bacteria	Opitutales	UBA953	4	4	39	0.27033	0.4730775	5	5
+Bacteria	Opitutales	CAZQIE01	5	5	39	0.27033	0.4730775	5	5
+Bacteria	Orphanbacterales	Orphanbacteraceae	1	1	1			1	1
+Bacteria	Oscillospirales	SIG627	1	1	29	0.31196	0.54593	4	4
+Bacteria	Oscillospirales	JAGBHD01	2	2	29	0.31196	0.54593	4	4
+Bacteria	Oscillospirales	JAVBQB01	3	3	29	0.31196	0.54593	4	4
+Bacteria	Oscillospirales	SIG519	4	4	29	0.31196	0.54593	4	4
+Bacteria	Ozemobacterales	Ozemobacteraceae	1	1	1			1	1
+Bacteria	P2-11E	CF-107	1	1	2	0.29796	0.52143	1	1
+Bacteria	PCC-6307	Cyanobiaceae	1	1	1			1	1
+Bacteria	PCC-7407	PCC-7407	1	1	1			1	1
+Bacteria	PCC-9006	JAAUQQ01	1	1	1			1	1
+Bacteria	PEXW01	CAZGDO01	1	1	2	0.40525	0.7091875	1	1
+Bacteria	PEYW01	PEYW01	1	1	1			1	1
+Bacteria	PFEM01	JAHIFH01	1	1	10	0.340125	0.59521875	2	2
+Bacteria	PFEM01	PFEM01	2	2	10	0.340125	0.59521875	2	2
+Bacteria	PGYV01	CAYNMZ01	1	1	10	0.23641	0.4137175	1	1
+Bacteria	PH28-bin88	PH28-bin88	1	1	1			1	1
+Bacteria	PHAN01	PHAN01	1	1	1			1	1
+Bacteria	PHBI01	JAWLBL01	1	1	6	0.18843	0.3297525	1	1
+Bacteria	PIVX01	PIVX01	1	1	1			1	1
+Bacteria	PIWD01	PIWD01	1	1	1			1	1
+Bacteria	PLA2	JAEUHO01	1	1	2	0.57711	1.0099425	1	1
+Bacteria	PS1	Pseudothioglobaceae	1	1	1			1	1
+Bacteria	PUPC01	PUPC01	1	1	1			1	1
+Bacteria	PWKH01	PWKH01	1	1	1			1	1
+Bacteria	PWKZ01	CAYRCM01	1	1	2	0.33266	0.582155	1	1
+Bacteria	PWPR01	PWPR01	1	1	1			1	1
+Bacteria	PWTM01	PWTM01	1	1	1			1	1
+Bacteria	PWVN01	PWVN01	1	1	1			1	1
+Bacteria	Paenibacillales	KCTC-33676	1	1	20	0.10952	0.19166	3	3
+Bacteria	Paenibacillales	CANHCR01	2	2	20	0.10952	0.19166	3	3
+Bacteria	Paenibacillales	JAWLCZ01	3	3	20	0.10952	0.19166	3	3
+Bacteria	Palauibacterales	KS3-K002	1	1	2	0.31158	0.545265	1	1
+Bacteria	Palsa-1104	Palsa-1104	1	1	3	0.21436	0.37513	1	1
+Bacteria	Palsa-1295	Palsa-1295	1	1	1			1	1
+Bacteria	Palsa-1439	CAZOTB01	1	1	3	0.28385	0.4967375	1	1
+Bacteria	Palsa-948	Palsa-948	1	1	1			1	1
+Bacteria	Palsa-965	Palsa-965	1	1	1			1	1
+Bacteria	Paracaedibacterales	Paracaedibacteraceae	1	1	8	0.195735	0.34253625	2	2
+Bacteria	Paracaedibacterales	CANFPP01	2	2	8	0.195735	0.34253625	2	2
+Bacteria	Parvibaculales	Parvibaculaceae	1	1	1			1	1
+Bacteria	Patescibacteriales	JALTFF01	1	1	26	0.278685	0.48769875	3	3
+Bacteria	Patescibacteriales	VMTK01	2	2	26	0.278685	0.48769875	3	3
+Bacteria	Patescibacteriales	JAHJJO01	3	3	26	0.278685	0.48769875	3	3
+Bacteria	Pelagibacterales	AG-422-B15	1	1	2	0.39948	0.69909	1	1
+Bacteria	Peptococcales	BICA1-8	1	1	4	0.21358	0.373765	1	1
+Bacteria	Peptostreptococcales	Filifactoraceae	1	1	12	0.20571	0.3599925	4	4
+Bacteria	Peptostreptococcales	Natronincolaceae	2	2	12	0.20571	0.3599925	4	4
+Bacteria	Peptostreptococcales	Anaerovoracaceae	3	3	12	0.20571	0.3599925	4	4
+Bacteria	Peptostreptococcales	Caminicellaceae	4	4	12	0.20571	0.3599925	4	4
+Bacteria	Peribacterales	Peribacteraceae	1	1	1			1	1
+Bacteria	Petrotogales	Kosmotogaceae	1	1	2	0.39342	0.688485	1	1
+Bacteria	Phoenicimicrobiales	Phoenicimicrobiaceae	1	1	2	0.27057	0.4734975	1	1
+Bacteria	Phormidesmidales	Phormidesmidaceae	1	1	1			1	1
+Bacteria	Phycisphaerales	UBA5793	1	1	6	0.31903	0.5583025	1	1
+Bacteria	Phycocordibacterales	JARIHA01	1	1	114	0.360395	0.63069125	8	8
+Bacteria	Phycocordibacterales	DATGWK01	2	2	114	0.360395	0.63069125	8	8
+Bacteria	Phycocordibacterales	NVSU01	3	3	114	0.360395	0.63069125	8	8
+Bacteria	Phycocordibacterales	JANLHH01	4	4	114	0.360395	0.63069125	8	8
+Bacteria	Phycocordibacterales	UBA3531	5	5	114	0.360395	0.63069125	8	8
+Bacteria	Phycocordibacterales	JADFSL01	6	6	114	0.360395	0.63069125	8	8
+Bacteria	Phycocordibacterales	GCA-2747955	7	7	114	0.360395	0.63069125	8	8
+Bacteria	Phycocordibacterales	JABAAK01	8	8	114	0.360395	0.63069125	8	8
+Bacteria	Pirellulales	JBBDJB01	1	1	28	0.18805	0.3290875	5	5
+Bacteria	Pirellulales	DATAWG01	2	2	28	0.18805	0.3290875	5	5
+Bacteria	Pirellulales	JAIMBC01	3	3	28	0.18805	0.3290875	5	5
+Bacteria	Pirellulales	Pb10988	4	4	28	0.18805	0.3290875	5	5
+Bacteria	Pirellulales	UBA1268	5	5	28	0.18805	0.3290875	5	5
+Bacteria	Piscirickettsiales	Piscirickettsiaceae	1	1	1			1	1
+Bacteria	Planctomycetales	Planctomycetaceae	1	1	1			1	1
+Bacteria	Pluralincolimonadales	CAZUZR01	1	1	2	0.15788	0.27629	1	1
+Bacteria	Plut-88900	Plut-88900	1	1	1			1	1
+Bacteria	Polarisedimenticolales	CAVOVZ01	1	1	6	0.1807	0.316225	1	1
+Bacteria	Polyangiales	JADJMO01	1	1	18	0.26377	0.4615975	2	2
+Bacteria	Polyangiales	JBDIVX01	2	2	18	0.26377	0.4615975	2	2
+Bacteria	Porifericomitales	Porifericomitaceae	1	1	1			1	1
+Bacteria	Poriferisulfidales	JAYYZZ01	1	1	4	0.304195	0.53234125	1	1
+Bacteria	Portnoybacterales	GCA-002795985	1	1	6	0.38359	0.6712825	1	1
+Bacteria	Prado026	Prado026	1	1	1			1	1
+Bacteria	Prochlorotrichales	Prochlorotrichaceae	1	1	1			1	1
+Bacteria	Promineifilales	Promineifilaceae	1	1	2	0.36385	0.6367375	1	1
+Bacteria	Propionibacteriales	Nocardioidaceae	1	1	5	0.21483	0.3759525	1	1
+Bacteria	Propionisporales	Propionisporaceae	1	1	1			1	1
+Bacteria	Proteinivoracales	Proteinivoracaceae	1	1	1			1	1
+Bacteria	Pseudanabaenales	Pseudanabaenaceae	1	1	1			1	1
+Bacteria	Pseudomonadales	Spongiibacteraceae	1	1	57	0.16808	0.29414	7	7
+Bacteria	Pseudomonadales	JAILXX01	2	2	57	0.16808	0.29414	7	7
+Bacteria	Pseudomonadales	Azotimanducaceae	3	3	57	0.16808	0.29414	7	7
+Bacteria	Pseudomonadales	Zooshikellaceae	4	4	57	0.16808	0.29414	7	7
+Bacteria	Pseudomonadales	DC-out160	5	5	57	0.16808	0.29414	7	7
+Bacteria	Pseudomonadales	JADFDG01	6	6	57	0.16808	0.29414	7	7
+Bacteria	Pseudomonadales	JAYPBG01	7	7	57	0.16808	0.29414	7	7
+Bacteria	Puniceispirillales	Puniceispirillaceae	1	1	4	0.221245	0.38717875	1	1
+Bacteria	Pyrinomonadales	Pyrinomonadaceae	1	1	1			1	1
+Bacteria	QHBO01	QHBO01	1	1	1			1	1
+Bacteria	QHBQ01	JAICKM01	1	1	3	0.29832	0.52206	1	1
+Bacteria	QNBC01	QNBC01	1	1	1			1	1
+Bacteria	QNDG01	DSAB01	1	1	7	0.20801	0.3640175	1	1
+Bacteria	QNFE01	CAZPSE01	1	1	2	0.26458	0.463015	1	1
+Bacteria	QNFN01	QNFN01	1	1	1			1	1
+Bacteria	QOAV01	QOAV01	1	1	1			1	1
+Bacteria	QQUJ01	QQUJ01	1	1	1			1	1
+Bacteria	QS-5-54-17	QS-5-54-17	1	1	1			1	1
+Bacteria	QYQD01	JAZDGK01	1	1	2	0.12903	0.2258025	1	1
+Bacteria	QZLD01	QZLD01	1	1	1			1	1
+Bacteria	RBC074	RBC074	1	1	1			1	1
+Bacteria	RBG-13-40-8-A	JAUWHN01	1	1	2	0.34676	0.60683	1	1
+Bacteria	RBG-13-43-22	RBG-13-43-22	1	1	1			1	1
+Bacteria	RBG-13-44-9	J042	1	1	3	0.15773	0.2760275	1	1
+Bacteria	RBG-13-61-14	RBG-13-61-14	1	1	4	0.24452	0.42791	1	1
+Bacteria	RBG-13-66-14	RBG-13-66-14	1	1	1			1	1
+Bacteria	RBG-16-42-10	RBG-16-42-10	1	1	1			1	1
+Bacteria	RBG-16-55-9	DRJF01	1	1	5	0.37938	0.663915	1	1
+Bacteria	RBG-16-57-12	RBG-16-57-12	1	1	1			1	1
+Bacteria	RBG-16-64-13	RBG-16-64-13	1	1	1			1	1
+Bacteria	RBG-16-64-22	RBG-16-64-22	1	1	1			1	1
+Bacteria	RBG-16-71-46	DASYSL01	1	1	3	0.3011	0.526925	1	1
+Bacteria	RBS10-35	Bu92	1	1	5	0.25474	0.445795	2	2
+Bacteria	RBS10-35	JAJYVM01	2	2	5	0.25474	0.445795	2	2
+Bacteria	RECH01	RECH01	1	1	1			1	1
+Bacteria	REDH01	REDH01	1	1	1			1	1
+Bacteria	RF32	CAG-239	1	1	1			1	1
+Bacteria	RF39	JBKDZI01	1	1	2	0.45247	0.7918225	1	1
+Bacteria	RFN20	CAG-449	1	1	8	0.34961	0.6118175	2	2
+Bacteria	RFN20	DUOZ01	2	2	8	0.34961	0.6118175	2	2
+Bacteria	RFP12	JAZUKQ01	1	1	10	0.23288	0.40754	2	2
+Bacteria	RFP12	CAYQJG01	2	2	10	0.23288	0.40754	2	2
+Bacteria	RGIG6154	RGIG6154	1	1	1			1	1
+Bacteria	RGIG7378	RGIG7378	1	1	1			1	1
+Bacteria	RGIG8785	RGIG8785	1	1	1			1	1
+Bacteria	RGIG982	RGIG982	1	1	1			1	1
+Bacteria	RGZZ01	RGZZ01	1	1	1			1	1
+Bacteria	RPQK01	JBOGJG01	1	1	16	0.173075	0.30288125	3	3
+Bacteria	RPQK01	JBHHYX01	2	2	16	0.173075	0.30288125	3	3
+Bacteria	RPQK01	DATIPO01	3	3	16	0.173075	0.30288125	3	3
+Bacteria	RPQS01	DYHQ01	1	1	2	0.29535	0.5168625	1	1
+Bacteria	RS24	CBDDDD01	1	1	2	0.22759	0.3982825	1	1
+Bacteria	RUG11792	RUG11792	1	1	1			1	1
+Bacteria	RUG12999	RUG12999	1	1	1			1	1
+Bacteria	RUG730	JAAEPJ01	1	1	2	0.26041	0.4557175	1	1
+Bacteria	RYN-182	RYN-182	1	1	1			1	1
+Bacteria	RZYC01	CAZAYP01	1	1	2	0.25748	0.45059	1	1
+Bacteria	Radicibacterales	Radicibacteraceae	1	1	1			1	1
+Bacteria	Residuimicrobiales	Krinioviventaceae	1	1	4	0.18532	0.32431	1	1
+Bacteria	Reyranellales	JAQSWP01	1	1	2	0.16412	0.28721	1	1
+Bacteria	Rhizobiales	Methylopilaceae	1	1	59	0.16812	0.29421	6	6
+Bacteria	Rhizobiales	WTKA01	2	2	59	0.16812	0.29421	6	6
+Bacteria	Rhizobiales	Rhodobiaceae	3	3	59	0.16812	0.29421	6	6
+Bacteria	Rhizobiales	JAJFHC01	4	4	59	0.16812	0.29421	6	6
+Bacteria	Rhizobiales	CBDCYM01	5	5	59	0.16812	0.29421	6	6
+Bacteria	Rhizobiales	OSC116	6	6	59	0.16812	0.29421	6	6
+Bacteria	Rhodobacterales	CAZPXZ01	1	1	2	0.36757	0.6432475	1	1
+Bacteria	Rhodospirillales	JACKKN01	1	1	31	0.15468	0.27069	3	3
+Bacteria	Rhodospirillales	Magnetospirillaceae	2	2	31	0.15468	0.27069	3	3
+Bacteria	Rhodospirillales	JAPHTL01	3	3	31	0.15468	0.27069	3	3
+Bacteria	Rhodothermales	MEBIC09517	1	1	25	0.15338	0.268415	3	3
+Bacteria	Rhodothermales	JANQRZ01	2	2	25	0.15338	0.268415	3	3
+Bacteria	Rhodothermales	UBA2364	3	3	25	0.15338	0.268415	3	3
+Bacteria	Rickettsiales	Anaplasmataceae	1	1	39	0.24126	0.422205	11	11
+Bacteria	Rickettsiales	BLZN01	2	2	39	0.24126	0.422205	11	11
+Bacteria	Rickettsiales	Rickettsiaceae	3	3	39	0.24126	0.422205	11	11
+Bacteria	Rickettsiales	JAFLCR01	4	4	39	0.24126	0.422205	11	11
+Bacteria	Rickettsiales	Arcanibacteraceae	5	5	39	0.24126	0.422205	11	11
+Bacteria	Rickettsiales	JABIRX01	6	6	39	0.24126	0.422205	11	11
+Bacteria	Rickettsiales	UBA1997	7	7	39	0.24126	0.422205	11	11
+Bacteria	Rickettsiales	CAWVOK01	8	8	39	0.24126	0.422205	11	11
+Bacteria	Rickettsiales	CAIPFW01	9	9	39	0.24126	0.422205	11	11
+Bacteria	Rickettsiales	G965195355	10	10	39	0.24126	0.422205	11	11
+Bacteria	Rickettsiales	Deianiraeaceae	11	11	39	0.24126	0.422205	11	11
+Bacteria	Rokubacteriales	JACPHL01	1	1	4	0.16764	0.29337	1	1
+Bacteria	Rs-D84	SZUA-605	1	1	6	0.42098	0.736715	2	2
+Bacteria	Rs-D84	JAERRO01	2	2	6	0.42098	0.736715	2	2
+Bacteria	Rubeoparvulales	Rubeoparvulaceae	1	1	1			1	1
+Bacteria	Rubrobacterales	Rubrobacteraceae	1	1	1			1	1
+Bacteria	Ryanbacterales	HO2-45-13	1	1	4	0.46088	0.80654	1	1
+Bacteria	S012-40	S012-40	1	1	1			1	1
+Bacteria	S016-19	S016-19	1	1	1			1	1
+Bacteria	S016-38	S016-38	1	1	1			1	1
+Bacteria	S139-126	S139-126	1	1	2	0.35535	0.6218625	1	1
+Bacteria	S140-20	S140-20	1	1	1			1	1
+Bacteria	S141-80	S141-80	1	1	1			1	1
+Bacteria	S143-82	S143-82	1	1	1			1	1
+Bacteria	S144-34	S144-34	1	1	1			1	1
+Bacteria	S145-22	S145-22	1	1	1			1	1
+Bacteria	S146-70	JAUXIU01	1	1	2	0.16581	0.2901675	1	1
+Bacteria	S146-80	JALXFI01	1	1	2	0.15828	0.27699	1	1
+Bacteria	S15B-MN24	UBA4093	1	1	4	0.25772	0.45101	1	1
+Bacteria	S36-B12	JAWKJK01	1	1	10	0.16099	0.2817325	2	2
+Bacteria	S36-B12	UBA5976	2	2	10	0.16099	0.2817325	2	2
+Bacteria	SAR324	JACQKK01	1	1	2	0.41103	0.7193025	1	1
+Bacteria	SB21	JBBIRG01	1	1	2	0.16873	0.2952775	1	1
+Bacteria	SBBB01	SBBB01	1	1	1			1	1
+Bacteria	SBBC01	SBBC01	1	1	3	0.38527	0.6742225	1	1
+Bacteria	SBBH01	JACQRN01	1	1	2	0.50344	0.88102	1	1
+Bacteria	SBBL01	Manganitrophaceae	1	1	7	0.20018	0.350315	2	2
+Bacteria	SBBL01	CAZSHZ01	2	2	7	0.20018	0.350315	2	2
+Bacteria	SC72	WJKH01	1	1	4	0.52869	0.9252075	1	1
+Bacteria	SCGC-AAA003-L08	JACNLC01	1	1	5	0.23536	0.41188	1	1
+Bacteria	SCPX01	SCPX01	1	1	1			1	1
+Bacteria	SDB-A	SDB-A	1	1	1			1	1
+Bacteria	SG130	SG130	1	1	1			1	1
+Bacteria	SG8-11	SG8-11	1	1	1			1	1
+Bacteria	SG8-24	DYFX01	1	1	2	0.41547	0.7270725	1	1
+Bacteria	SHNJ01	SHNJ01	1	1	1			1	1
+Bacteria	SHVP01	SHVP01	1	1	1			1	1
+Bacteria	SHVV01	SHVV01	1	1	1			1	1
+Bacteria	SHVW01	SHVW01	1	1	1			1	1
+Bacteria	SHVZ01	SHVZ01	1	1	1			1	1
+Bacteria	SHXV01	SHXV01	1	1	1			1	1
+Bacteria	SHYB01	SHYB01	1	1	1			1	1
+Bacteria	SHYD01	SHYD01	1	1	1			1	1
+Bacteria	SICC01	CAYSOT01	1	1	2	0.24752	0.43316	1	1
+Bacteria	SK-Y3	SK-Y3	1	1	1			1	1
+Bacteria	SKNC01	SKNC01	1	1	1			1	1
+Bacteria	SKW154	DAOVDS01	1	1	2	0.44803	0.7840525	1	1
+Bacteria	SKW223	CALKMS01	1	1	2	0.3819	0.668325	1	1
+Bacteria	SKW292	SKW292	1	1	1			1	1
+Bacteria	SKWO01	SKWO01	1	1	1			1	1
+Bacteria	SKYG9	SKYG9	1	1	1			1	1
+Bacteria	SKZP01	CAYZQB01	1	1	1			1	1
+Bacteria	SLAD01	SLAD01	1	1	1			1	1
+Bacteria	SLGR01	JAFGSA01	1	1	6	0.2832	0.4956	1	1
+Bacteria	SLMS01	SLMS01	1	1	4	0.31693	0.5546275	1	1
+Bacteria	SLMV01	SLMV01	1	1	1			1	1
+Bacteria	SLNR01	JBMNPB01	1	1	2	0.19403	0.3395525	1	1
+Bacteria	SLOV01	SLOV01	1	1	1			1	1
+Bacteria	SLPQ01	SLPQ01	1	1	1			1	1
+Bacteria	SLRQ01	SLRQ01	1	1	1			1	1
+Bacteria	SM1-40	SM1-40	1	1	1			1	1
+Bacteria	SM23-28-2	JACOUE01	1	1	6	0.20857	0.3649975	1	1
+Bacteria	SM23-31	SM23-31	1	1	1			1	1
+Bacteria	SM23-32	JAKLEA01	1	1	2	0.52008	0.91014	1	1
+Bacteria	SM23-33	FEN-1343	1	1	2	0.27953	0.4891775	1	1
+Bacteria	SM23-42	JAOAFX01	1	1	3	0.20911	0.3659425	2	2
+Bacteria	SM23-42	CAYGYG01	2	2	3	0.20911	0.3659425	2	2
+Bacteria	SM23-61	SM23-61	1	1	1			1	1
+Bacteria	SM23-81	SM23-81	1	1	1			1	1
+Bacteria	SMXP01	SMXP01	1	1	1			1	1
+Bacteria	SMXQ01	SMXQ01	1	1	1			1	1
+Bacteria	SMXS01	SMXS01	1	1	1			1	1
+Bacteria	SMYD01	SMYD01	1	1	1			1	1
+Bacteria	SOKK01	SOKK01	1	1	1			1	1
+Bacteria	SORT01	SORT01	1	1	1			1	1
+Bacteria	SP-2023	CAYRNA01	1	1	2	0.50695	0.8871625	1	1
+Bacteria	SP197	SP197	1	1	1			1	1
+Bacteria	SPBP01	SPBP01	1	1	1			1	1
+Bacteria	SPDA01	CAZSGZ01	1	1	5	0.19701	0.3447675	1	1
+Bacteria	SPJN01	SPJN01	1	1	1			1	1
+Bacteria	SPLOWO2-01-44-7	SPLOWO2-01-44-7	1	1	1			1	1
+Bacteria	SS1-B-03-39	PXDE01	1	1	2	0.3467	0.606725	1	1
+Bacteria	SSC4	Amarolineaceae	1	1	1			1	1
+Bacteria	SURF-13	SURF-13	1	1	1			1	1
+Bacteria	SURF-38	SURF-38	1	1	1			1	1
+Bacteria	SURF-47	SURF-47	1	1	1			1	1
+Bacteria	SURF-5	SURF-5	1	1	1			1	1
+Bacteria	SURF-8	G963663525	1	1	4	0.32688	0.57204	1	1
+Bacteria	SW-4-49-11	SW-4-49-11	1	1	1			1	1
+Bacteria	SXHM01	SXHM01	1	1	1			1	1
+Bacteria	SXXA01	JAHFDB01	1	1	3	0.30901	0.5407675	1	1
+Bacteria	SYMT01	JACQGL01	1	1	2	0.26072	0.45626	1	1
+Bacteria	SZUA-140	SZUA-140	1	1	1			1	1
+Bacteria	SZUA-149	JADZAE01	1	1	12	0.256195	0.44834125	2	2
+Bacteria	SZUA-149	CAYMWO01	2	2	12	0.256195	0.44834125	2	2
+Bacteria	SZUA-152	SZUA-152	1	1	1			1	1
+Bacteria	SZUA-161	JAUWZY01	1	1	4	0.268	0.469	1	1
+Bacteria	SZUA-182	SZUA-182	1	1	1			1	1
+Bacteria	SZUA-191	JAJRXT01	1	1	2	0.24641	0.4312175	1	1
+Bacteria	SZUA-21	SZUA-21	1	1	1			1	1
+Bacteria	SZUA-224	SZUA-224	1	1	1			1	1
+Bacteria	SZUA-229	SZUA-229	1	1	1			1	1
+Bacteria	SZUA-242	CAYYSS01	1	1	2	0.24937	0.4363975	1	1
+Bacteria	SZUA-252	SZUA-252	1	1	1			1	1
+Bacteria	SZUA-336	SZUA-336	1	1	1			1	1
+Bacteria	SZUA-365	GCA-2699105	1	1	4	0.18427	0.3224725	1	1
+Bacteria	SZUA-567	JAFGNG01	1	1	2	0.40137	0.7023975	1	1
+Bacteria	SZUA-6	SZUA-6	1	1	8	0.28455	0.4979625	2	2
+Bacteria	SZUA-6	Bin103	2	2	8	0.28455	0.4979625	2	2
+Bacteria	Saccharimonadales	CAIOMD01	1	1	69	0.22854	0.399945	13	13
+Bacteria	Saccharimonadales	VXPC01	2	2	69	0.22854	0.399945	13	13
+Bacteria	Saccharimonadales	CAZDBS01	3	3	69	0.22854	0.399945	13	13
+Bacteria	Saccharimonadales	CAZWFS01	4	4	69	0.22854	0.399945	13	13
+Bacteria	Saccharimonadales	CAYGIR01	5	5	69	0.22854	0.399945	13	13
+Bacteria	Saccharimonadales	JAQGHD01	6	6	69	0.22854	0.399945	13	13
+Bacteria	Saccharimonadales	DATKHC01	7	7	69	0.22854	0.399945	13	13
+Bacteria	Saccharimonadales	EFPC-124	8	8	69	0.22854	0.399945	13	13
+Bacteria	Saccharimonadales	HK-STAS-PATE-42	9	9	69	0.22854	0.399945	13	13
+Bacteria	Saccharimonadales	DTSZ01	10	10	69	0.22854	0.399945	13	13
+Bacteria	Saccharimonadales	CALFBO01	11	11	69	0.22854	0.399945	13	13
+Bacteria	Saccharimonadales	QWHN01	12	12	69	0.22854	0.399945	13	13
+Bacteria	Saccharimonadales	DASWIF01	13	13	69	0.22854	0.399945	13	13
+Bacteria	Saccharofermentanales	UBA5734	1	1	4	0.291705	0.51048375	1	1
+Bacteria	Sedimentisphaerales	CAMDDF01	1	1	8	0.2527	0.442225	1	1
+Bacteria	Selenomonadales	Selenomonadaceae	1	1	1			1	1
+Bacteria	Silvanigrellales	Silvanigrellaceae	1	1	1			1	1
+Bacteria	Sneathiellales	Sneathiellaceae	1	1	1			1	1
+Bacteria	SolTP2	SolTP2	1	1	1			1	1
+Bacteria	Solirubrobacterales	JBBDJG01	1	1	6	0.25053	0.4384275	1	1
+Bacteria	SpSt-1050	JACRCP01	1	1	2	0.3193	0.558775	1	1
+Bacteria	SpSt-1174	SpSt-1174	1	1	1			1	1
+Bacteria	SpSt-205	SpSt-205	1	1	1			1	1
+Bacteria	SpSt-223	SpSt-223	1	1	1			1	1
+Bacteria	SpSt-313	SpSt-313	1	1	1			1	1
+Bacteria	SpSt-600	SpSt-600	1	1	1			1	1
+Bacteria	SpSt-956	JAKJGF01	1	1	1			1	1
+Bacteria	Spechtbacterales	JACPHP01	1	1	3	0.4391	0.768425	1	1
+Bacteria	Sphaerochaetales	Sphaerochaetaceae	1	1	1			1	1
+Bacteria	Sphingobacteriales	Sphingobacteriaceae	1	1	1			1	1
+Bacteria	Sphingomonadales	Govanellaceae	1	1	10	0.18637	0.3261475	1	1
+Bacteria	Spongiisociales	UBA4744	1	1	12	0.244265	0.42746375	1	1
+Bacteria	Sporichthyales	Sporichthyaceae	1	1	1			1	1
+Bacteria	Sporomusales	Thermosinaceae	1	1	7	0.0863	0.151025	1	1
+Bacteria	Staphylococcales	Staphylococcaceae	1	1	4	0.1541	0.269675	2	2
+Bacteria	Staphylococcales	Gemellaceae	2	2	4	0.1541	0.269675	2	2
+Bacteria	Steroidobacterales	JBFFHS01	1	1	22	0.16491	0.2885925	4	4
+Bacteria	Steroidobacterales	JABDLF01	2	2	22	0.16491	0.2885925	4	4
+Bacteria	Steroidobacterales	Foliamicaceae	3	3	22	0.16491	0.2885925	4	4
+Bacteria	Steroidobacterales	UBA11654	4	4	22	0.16491	0.2885925	4	4
+Bacteria	Streptomycetales	Carbonactinosporaceae	1	1	3	0.15309	0.2679075	1	1
+Bacteria	Streptosporangiales	WHSR01	1	1	4	0.17197	0.3009475	1	1
+Bacteria	Subteraquimicrobiales	Subteraquimicrobiaceae	1	1	4	0.18496	0.32368	1	1
+Bacteria	Sulfobacillales	R501	1	1	3	0.20975	0.3670625	1	1
+Bacteria	Sumerlaeales	Sumerlaeaceae	1	1	1			1	1
+Bacteria	Sungbacterales	SURF-37	1	1	5	0.41315	0.7230125	1	1
+Bacteria	Symbiobacteriales	Symbiobacteriaceae	1	1	2	0.22792	0.39886	1	1
+Bacteria	Synechococcales	Synechococcaceae	1	1	1			1	1
+Bacteria	Synergistales	Thermosynergistaceae	1	1	10	0.27403	0.4795525	1	1
+Bacteria	Syntrophales	UBA6807	1	1	24	0.142795	0.24989125	3	3
+Bacteria	Syntrophales	JAQULV01	2	2	24	0.142795	0.24989125	3	3
+Bacteria	Syntrophales	JAIPED01	3	3	24	0.142795	0.24989125	3	3
+Bacteria	Syntrophobacterales	DSM-9756	1	1	3	0.17003	0.2975525	1	1
+Bacteria	Syntrophomonadales	Syntrophothermaceae	1	1	4	0.205815	0.36017625	1	1
+Bacteria	Syntrophorhabdales	Syntrophorhabdaceae	1	1	4	0.174215	0.30487625	1	1
+Bacteria	Sysuimicrobiales	Thermofontiviventaceae	1	1	6	0.26947	0.4715725	1	1
+Bacteria	T1SED10-198M	T1SED10-198M	1	1	1			1	1
+Bacteria	T1Sed10-126	CAZEBV01	1	1	3	0.32456	0.56798	1	1
+Bacteria	T3Sed10-11	T3Sed10-11	1	1	1			1	1
+Bacteria	TANB77	UBA1234	1	1	5	0.34779	0.6086325	1	1
+Bacteria	TC1	UBA5767	1	1	3	0.34105	0.5968375	1	1
+Bacteria	TMED109	TMED109	1	1	1			1	1
+Bacteria	TMED2	TMED2	1	1	1			1	1
+Bacteria	Taenaricolales	CAZCCH01	1	1	2	0.23684	0.41447	1	1
+Bacteria	Tantalellales	Tantalellaceae	1	1	1			1	1
+Bacteria	Tariuqbacterales	Tariuqbacteraceae	1	1	1			1	1
+Bacteria	Tb-RUG-66	Tb-RUG-66	1	1	1			1	1
+Bacteria	Tenderiales	Tenderiaceae	1	1	1			1	1
+Bacteria	Tepidaquicellales	OLB5	1	1	2	0.29899	0.5232325	1	1
+Bacteria	Tepidibacillales	Tepidibacillaceae	1	1	1			1	1
+Bacteria	Tepidiformales	Tepidiformaceae	1	1	1			1	1
+Bacteria	Tepidihabitantales	JAOUPE01	1	1	5	0.31708	0.55489	1	1
+Bacteria	Tepidisphaerales	Tepidisphaeraceae	1	1	1			1	1
+Bacteria	Termititenacales	CAYUXF01	1	1	2	0.29747	0.5205725	1	1
+Bacteria	Terriglobales	Acidobacteriaceae	1	1	2	0.25145	0.4400375	1	1
+Bacteria	Terrybacterales	2-01-FULL-58-14	1	1	2	0.44209	0.7736575	1	1
+Bacteria	Tethybacterales	G965206325	1	1	4	0.399155	0.69852125	1	1
+Bacteria	Thalassobaculales	Thalassobaculaceae	1	1	1			1	1
+Bacteria	Thermacetogeniales	Thermacetogeniaceae	1	1	1			1	1
+Bacteria	Thermaerobacterales	RSA17	1	1	2	0.24982	0.437185	1	1
+Bacteria	Thermicanales	DSM-22653	1	1	2	0.21431	0.3750425	1	1
+Bacteria	Thermincolales	Thermincolaceae	1	1	3	0.09831	0.1720425	1	1
+Bacteria	Thermoactinomycetales	JIR-001	1	1	7	0.09263	0.1621025	2	2
+Bacteria	Thermoactinomycetales	Novibacillaceae	2	2	7	0.09263	0.1621025	2	2
+Bacteria	Thermoanaerobacterales	Thermoanaerobacteraceae	1	1	3	0.2017	0.352975	1	1
+Bacteria	Thermoanaerobaculales	Sulfomarinibacteraceae	1	1	2	0.30649	0.5363575	1	1
+Bacteria	Thermobaculales	Thermobaculaceae	1	1	1			1	1
+Bacteria	Thermodesulfobacteriales	Thermodesulfatatoraceae	1	1	3	0.20305	0.3553375	1	1
+Bacteria	Thermodesulfobiales	Thermodesulfobiaceae	1	1	1			1	1
+Bacteria	Thermodesulfovibrionales	DYHX01	1	1	13	0.18792	0.32886	3	3
+Bacteria	Thermodesulfovibrionales	Magnetobacteriaceae	2	2	13	0.18792	0.32886	3	3
+Bacteria	Thermodesulfovibrionales	Thermodesulfovibrionaceae	3	3	13	0.18792	0.32886	3	3
+Bacteria	Thermoflexales	Thermoflexaceae	1	1	1			1	1
+Bacteria	Thermofontimicrobiales	Thermofontimicrobiaceae	1	1	2	0.21612	0.37821	1	1
+Bacteria	Thermomicrobiales	Thermomicrobiaceae	1	1	5	0.30293	0.5301275	1	1
+Bacteria	Thermosediminibacterales	Tepidanaerobacteraceae	1	1	2	0.11761	0.2058175	1	1
+Bacteria	Thermostichales	PCC-7336	1	1	2	0.17847	0.3123225	1	1
+Bacteria	Thermosulfidibacterales	B14-G1	1	1	3	0.24519	0.4290825	1	1
+Bacteria	Thermosynechococcales	Thermosynechococcaceae	1	1	1			1	1
+Bacteria	Thermotogales	Thermotogaceae	1	1	3	0.29323	0.5131525	1	1
+Bacteria	Thermotomaculales	Thermotomaculaceae	1	1	1			1	1
+Bacteria	Theseobacterales	Theseobacteraceae	1	1	1			1	1
+Bacteria	Thiohalobacterales	Thiohalobacteraceae	1	1	1			1	1
+Bacteria	Thiohalomonadales	Thiohalomonadaceae	1	1	1			1	1
+Bacteria	Thiohalorhabdales	CAYUWI01	1	1	2	0.16703	0.2923025	1	1
+Bacteria	Thiohalospirales	Thiohalospiraceae	1	1	1			1	1
+Bacteria	Thiomicrospirales	Thiomicrospiraceae	1	1	1			1	1
+Bacteria	Thiotrichales	Thiotrichaceae	1	1	1			1	1
+Bacteria	Tissierellales	Dethiosulfatibacteraceae	1	1	20	0.12108	0.21189	8	8
+Bacteria	Tissierellales	GPF-1	2	2	20	0.12108	0.21189	8	8
+Bacteria	Tissierellales	JAOAQY01	3	3	20	0.12108	0.21189	8	8
+Bacteria	Tissierellales	Sporanaerobacteraceae	4	4	20	0.12108	0.21189	8	8
+Bacteria	Tissierellales	Tepidimicrobiaceae	5	5	20	0.12108	0.21189	8	8
+Bacteria	Tissierellales	Caldisalinibacteraceae	6	6	20	0.12108	0.21189	8	8
+Bacteria	Tissierellales	MCWD3	7	7	20	0.12108	0.21189	8	8
+Bacteria	Tissierellales	Peptoniphilaceae	8	8	20	0.12108	0.21189	8	8
+Bacteria	Tistrellales	Tistrellaceae	1	1	1			1	1
+Bacteria	Treponematales	UBA12059	1	1	6	0.267765	0.46858875	1	1
+Bacteria	Tritonobacterales	Tritonobacteraceae	1	1	1			1	1
+Bacteria	Tumebacillales	BOQE01	1	1	5	0.1308	0.2289	1	1
+Bacteria	Turneriellales	J094	1	1	7	0.29911	0.5234425	1	1
+Bacteria	UBA10025	UBA10025	1	1	3	0.35707	0.6248725	1	1
+Bacteria	UBA10030	SZUA-254	1	1	9	0.20584	0.36022	1	1
+Bacteria	UBA10092	UBA10092	1	1	1			1	1
+Bacteria	UBA10105	UBA10105	1	1	2	0.39642	0.693735	1	1
+Bacteria	UBA101185	2-01-FULL-41-18	1	1	2	0.58138	1.017415	1	1
+Bacteria	UBA1018	CAYHWW01	1	1	12	0.233035	0.40781125	2	2
+Bacteria	UBA1018	UBA1018	2	2	12	0.233035	0.40781125	2	2
+Bacteria	UBA10190	CAIZMI01	1	1	2	0.52918	0.926065	1	1
+Bacteria	UBA10199	UBA10199	1	1	5	0.19536	0.34188	2	2
+Bacteria	UBA10199	JADGCS01	2	2	5	0.19536	0.34188	2	2
+Bacteria	UBA10329	UBA10329	1	1	1			1	1
+Bacteria	UBA10575	UBA10575	1	1	2	0.18357	0.3212475	1	1
+Bacteria	UBA1062	UBA1062	1	1	1			1	1
+Bacteria	UBA1063	CAJXJZ01	1	1	2	0.32618	0.570815	1	1
+Bacteria	UBA10806	4484-95	1	1	2	0.26433	0.4625775	1	1
+Bacteria	UBA10988	UBA10988	1	1	1			1	1
+Bacteria	UBA11029	UBA11029	1	1	1			1	1
+Bacteria	UBA11073	UBA11073	1	1	1			1	1
+Bacteria	UBA1113	UBA1113	1	1	1			1	1
+Bacteria	UBA11136	UBA11136	1	1	1			1	1
+Bacteria	UBA11222	UBA11222	1	1	1			1	1
+Bacteria	UBA11236	JADFYW01	1	1	2	0.31427	0.5499725	1	1
+Bacteria	UBA11346	UBA11346	1	1	1			1	1
+Bacteria	UBA1135	CAZMYG01	1	1	10	0.436885	0.76454875	1	1
+Bacteria	UBA1144	UBA1144	1	1	1			1	1
+Bacteria	UBA1146	JAJFFE01	1	1	2	0.36636	0.64113	1	1
+Bacteria	UBA1149	SPBQ01	1	1	5	0.219	0.38325	1	1
+Bacteria	UBA11705	UBA11705	1	1	4	0.370965	0.64918875	1	1
+Bacteria	UBA11713	2-01-FULL-45-33	1	1	1			1	1
+Bacteria	UBA1177	CALOFP01	1	1	6	0.26484	0.46347	1	1
+Bacteria	UBA11872	UBA11872	1	1	2	0.47527	0.8317225	1	1
+Bacteria	UBA12015	UBA12015	1	1	1			1	1
+Bacteria	UBA1212	UBA1255	1	1	5	0.19891	0.3480925	2	2
+Bacteria	UBA1212	CASDQQ01	2	2	5	0.19891	0.3480925	2	2
+Bacteria	UBA12135	UBA12135	1	1	1			1	1
+Bacteria	UBA12157	JAENIV01	1	1	2	0.37161	0.6503175	1	1
+Bacteria	UBA12157_A	GCA-002773005	1	1	1			1	1
+Bacteria	UBA12178	UBA12178	1	1	1			1	1
+Bacteria	UBA12225	JAJDUF01	1	1	2	0.38092	0.66661	1	1
+Bacteria	UBA12327	UBA12327	1	1	1			1	1
+Bacteria	UBA12402	UBA12402	1	1	1			1	1
+Bacteria	UBA12405	CAZMUE01	1	1	7	0.4938	0.86415	1	1
+Bacteria	UBA1247	UBA1247	1	1	1			1	1
+Bacteria	UBA1280	RI-95	1	1	4	0.24787	0.4337725	1	1
+Bacteria	UBA1369	CAYGJQ01	1	1	19	0.3926	0.68705	1	1
+Bacteria	UBA1381	CAJOGA01	1	1	4	0.205655	0.35989625	1	1
+Bacteria	UBA1384	DTJR01	1	1	3	0.42567	0.7449225	1	1
+Bacteria	UBA1398	CAZMGT01	1	1	3	0.29891	0.5230925	1	1
+Bacteria	UBA1400	Chisholmbacteraceae	1	1	19	0.43894	0.768145	4	4
+Bacteria	UBA1400	CAYNFZ01	2	2	19	0.43894	0.768145	4	4
+Bacteria	UBA1400	CAYXSR01	3	3	19	0.43894	0.768145	4	4
+Bacteria	UBA1400	Chazhemtobacteraceae	4	4	19	0.43894	0.768145	4	4
+Bacteria	UBA1406	GWC2-37-13	1	1	3	0.50748	0.88809	1	1
+Bacteria	UBA1429	UBA1429	1	1	1			1	1
+Bacteria	UBA1439	UBA1439	1	1	1			1	1
+Bacteria	UBA1444	UBA1444	1	1	1			1	1
+Bacteria	UBA1544	UBA1544	1	1	1			1	1
+Bacteria	UBA1551	UBA1551	1	1	2	0.22734	0.397845	1	1
+Bacteria	UBA1558	UBA10009	1	1	7	0.43533	0.7618275	1	1
+Bacteria	UBA1565	JACRDR01	1	1	3	0.24246	0.424305	1	1
+Bacteria	UBA1845	DATKUK01	1	1	10	0.32607	0.5706225	1	1
+Bacteria	UBA1874	UBA1874	1	1	1			1	1
+Bacteria	UBA1875	CAIMLA01	1	1	6	0.28455	0.4979625	2	2
+Bacteria	UBA1875	CAZAFQ01	2	2	6	0.28455	0.4979625	2	2
+Bacteria	UBA2136	JAPPOO01	1	1	5	0.31352	0.54866	1	1
+Bacteria	UBA2169	UBA2169	1	1	1			1	1
+Bacteria	UBA2196	CAYSSY01	1	1	3	0.36036	0.63063	1	1
+Bacteria	UBA2199	UBA2199	1	1	1			1	1
+Bacteria	UBA2200	JACIWT01	1	1	2	0.21949	0.3841075	1	1
+Bacteria	UBA2201	DAOSWS01	1	1	2	0.35142	0.614985	1	1
+Bacteria	UBA2233	UBA2233	1	1	1			1	1
+Bacteria	UBA2241	UBA2241	1	1	1			1	1
+Bacteria	UBA2242	UBA2242	1	1	4	0.20842	0.364735	1	1
+Bacteria	UBA2247	RBG-13-53-26	1	1	6	0.284525	0.49791875	1	1
+Bacteria	UBA2361	CALMIO01	1	1	21	0.29396	0.51443	3	3
+Bacteria	UBA2361	JAGFJO01	2	2	21	0.29396	0.51443	3	3
+Bacteria	UBA2361	CAKMMH01	3	3	21	0.29396	0.51443	3	3
+Bacteria	UBA2392	JABWBM01	1	1	2	0.43739	0.7654325	1	1
+Bacteria	UBA2394	UBA2394	1	1	1			1	1
+Bacteria	UBA2400	UBA2400	1	1	1			1	1
+Bacteria	UBA2428	UBA2428	1	1	1			1	1
+Bacteria	UBA2466	JACKAF01	1	1	2	0.24081	0.4214175	1	1
+Bacteria	UBA2562	UBA2562	1	1	1			1	1
+Bacteria	UBA2565	JAYEIY01	1	1	2	0.31592	0.55286	1	1
+Bacteria	UBA2591	CAYTBZ01	1	1	18	0.36695	0.6421625	3	3
+Bacteria	UBA2591	CG2-30-36-38	2	2	18	0.36695	0.6421625	3	3
+Bacteria	UBA2591	CAZMTM01	3	3	18	0.36695	0.6421625	3	3
+Bacteria	UBA2766	UBA2766	1	1	1			1	1
+Bacteria	UBA2770	UBA2770	1	1	1			1	1
+Bacteria	UBA2966	CAIVPW01	1	1	2	0.22718	0.397565	1	1
+Bacteria	UBA2968	GCA-2709665	1	1	2	0.23905	0.4183375	1	1
+Bacteria	UBA2979	UBA2979	1	1	1			1	1
+Bacteria	UBA3054	B51-G9	1	1	3	0.2565	0.448875	1	1
+Bacteria	UBA3071	UBA3071	1	1	1			1	1
+Bacteria	UBA3072	B12-G15	1	1	2	0.41638	0.728665	1	1
+Bacteria	UBA3073	UBA3073	1	1	1			1	1
+Bacteria	UBA3085	Oleimmundimicrobiaceae	1	1	1			1	1
+Bacteria	UBA3375	UBA3375	1	1	1			1	1
+Bacteria	UBA3505	UBA3505	1	1	1			1	1
+Bacteria	UBA3561	UBA3561	1	1	1			1	1
+Bacteria	UBA3569	UBA3569	1	1	1			1	1
+Bacteria	UBA3575	DUQP01	1	1	2	0.18733	0.3278275	1	1
+Bacteria	UBA3830	JAIRMZ01	1	1	5	0.37589	0.6578075	1	1
+Bacteria	UBA4055	UBA4055	1	1	1			1	1
+Bacteria	UBA4068	JAAVYR01	1	1	5	0.21257	0.3719975	1	1
+Bacteria	UBA4092	UBA4092	1	1	1			1	1
+Bacteria	UBA4142	SHND01	1	1	2	0.26732	0.46781	1	1
+Bacteria	UBA4151	UBA4151	1	1	1			1	1
+Bacteria	UBA4248	UM-FILTER-63-12	1	1	3	0.21853	0.3824275	1	1
+Bacteria	UBA4408	UBA4408	1	1	1			1	1
+Bacteria	UBA4473	UBA4473	1	1	1			1	1
+Bacteria	UBA4575	UBA4575	1	1	1			1	1
+Bacteria	UBA4664	CAYXHD01	1	1	11	0.25308	0.44289	2	2
+Bacteria	UBA4664	DATIHE01	2	2	11	0.25308	0.44289	2	2
+Bacteria	UBA4738	G016210805	1	1	8	0.18646	0.326305	1	1
+Bacteria	UBA4802	JAGODF01	1	1	7	0.18925	0.3311875	1	1
+Bacteria	UBA4820	DSQY01	1	1	2	0.27851	0.4873925	1	1
+Bacteria	UBA4882	UBA4882	1	1	1			1	1
+Bacteria	UBA4971	UBA4971	1	1	1			1	1
+Bacteria	UBA4975	UBA4975	1	1	3	0.16323	0.2856525	1	1
+Bacteria	UBA5066	DATFVB01	1	1	3	0.2135	0.373625	1	1
+Bacteria	UBA5070	UBA5070	1	1	1			1	1
+Bacteria	UBA5177	JAJPKF01	1	1	2	0.28953	0.5066775	1	1
+Bacteria	UBA5214	UBA5214	1	1	1			1	1
+Bacteria	UBA5301	UBA5301	1	1	1			1	1
+Bacteria	UBA5335	SLRW01	1	1	2	0.16563	0.2898525	1	1
+Bacteria	UBA5359	UBA5359	1	1	1			1	1
+Bacteria	UBA5435	UBA5435	1	1	1			1	1
+Bacteria	UBA5500	UBA5500	1	1	1			1	1
+Bacteria	UBA5829	DTLH01	1	1	3	0.24796	0.43393	1	1
+Bacteria	UBA5859	UBA5859	1	1	1			1	1
+Bacteria	UBA5861	UBA5861	1	1	1			1	1
+Bacteria	UBA6002	UBA6002	1	1	1			1	1
+Bacteria	UBA6077	JAJPHF01	1	1	5	0.33609	0.5881575	1	1
+Bacteria	UBA6098	UBA6098	1	1	1			1	1
+Bacteria	UBA6099	UBA6099	1	1	3	0.28815	0.5042625	1	1
+Bacteria	UBA6126	JAGPKI01	1	1	2	0.34962	0.611835	1	1
+Bacteria	UBA6184	UBA6184	1	1	1			1	1
+Bacteria	UBA6186	Azoamicaceae	1	1	1			1	1
+Bacteria	UBA6191	UBA6191	1	1	1			1	1
+Bacteria	UBA6257	CAYTHZ01	1	1	32	0.45138	0.789915	4	4
+Bacteria	UBA6257	WO2-44-18	2	2	32	0.45138	0.789915	4	4
+Bacteria	UBA6257	JAPLYJ01	3	3	32	0.45138	0.789915	4	4
+Bacteria	UBA6257	HR35	4	4	32	0.45138	0.789915	4	4
+Bacteria	UBA6262	UBA6262	1	1	1			1	1
+Bacteria	UBA6266	UBA6266	1	1	1			1	1
+Bacteria	UBA6429	Thiohalophilaceae	1	1	1			1	1
+Bacteria	UBA6595	UBA6595	1	1	1			1	1
+Bacteria	UBA6615	UBA6615	1	1	1			1	1
+Bacteria	UBA6624	UBA6624	1	1	1			1	1
+Bacteria	UBA6777	UBA6777	1	1	1			1	1
+Bacteria	UBA6902	JACROP01	1	1	5	0.16904	0.29582	1	1
+Bacteria	UBA6911	UBA6911	1	1	1			1	1
+Bacteria	UBA6919	CBDBPB01	1	1	2	0.20831	0.3645425	1	1
+Bacteria	UBA6926	UBA6926	1	1	2	0.38514	0.673995	1	1
+Bacteria	UBA727	CAYLZW01	1	1	6	0.275895	0.48281625	1	1
+Bacteria	UBA7366	UBA7366	1	1	1			1	1
+Bacteria	UBA7526	UBA7526	1	1	1			1	1
+Bacteria	UBA7540	JAPUME01	1	1	2	0.25042	0.438235	1	1
+Bacteria	UBA7656	JADIYM01	1	1	2	0.21907	0.3833725	1	1
+Bacteria	UBA7662	DAIRTB01	1	1	6	0.19717	0.3450475	1	1
+Bacteria	UBA7694	JACMQJ01	1	1	2	0.40485	0.7084875	1	1
+Bacteria	UBA7702	UBA7702	1	1	1			1	1
+Bacteria	UBA7879	VGCX01	1	1	3	0.27787	0.4862725	1	1
+Bacteria	UBA7883	JAJRTC01	1	1	7	0.18262	0.319585	2	2
+Bacteria	UBA7883	JBLYYQ01	2	2	7	0.18262	0.319585	2	2
+Bacteria	UBA7887	UBA7887	1	1	1			1	1
+Bacteria	UBA7937	UBA7937	1	1	3	0.23018	0.402815	1	1
+Bacteria	UBA7950	UBA7950	1	1	2	0.3029	0.530075	1	1
+Bacteria	UBA796	CAZKWG01	1	1	7	0.35432	0.62006	1	1
+Bacteria	UBA7976	UBA1532	1	1	2	0.33718	0.590065	1	1
+Bacteria	UBA7985	CAJQQZ01	1	1	3	0.24582	0.430185	1	1
+Bacteria	UBA8108	UBA8108	1	1	3	0.29622	0.518385	1	1
+Bacteria	UBA8153	UBA8153	1	1	1			1	1
+Bacteria	UBA817	JABISL01	1	1	3	0.25536	0.44688	1	1
+Bacteria	UBA8231	UBA8231	1	1	1			1	1
+Bacteria	UBA8248	JBHIBR01	1	1	2	0.2941	0.514675	1	1
+Bacteria	UBA828	JAPUJA01	1	1	2	0.22123	0.3871525	1	1
+Bacteria	UBA8317	UBA8317	1	1	1			1	1
+Bacteria	UBA8346	UBA8346	1	1	1			1	1
+Bacteria	UBA8349	UBA8349	1	1	1			1	1
+Bacteria	UBA8366	G965603855	1	1	6	0.19019	0.3328325	1	1
+Bacteria	UBA8416	YA12-FULL-48-11	1	1	20	0.26085	0.4564875	1	1
+Bacteria	UBA8468	UBA8468	1	1	1			1	1
+Bacteria	UBA8473	UBA8473	1	1	1			1	1
+Bacteria	UBA8477	JABMPR01	1	1	2	0.22167	0.3879225	1	1
+Bacteria	UBA8481	J006	1	1	2	0.27129	0.4747575	1	1
+Bacteria	UBA8517	JACQJR01	1	1	3	0.47402	0.829535	1	1
+Bacteria	UBA8524	UBA8524	1	1	1			1	1
+Bacteria	UBA8558	UBA8558	1	1	1			1	1
+Bacteria	UBA8890	UBA8898	1	1	1			1	1
+Bacteria	UBA890	UBA890	1	1	2	0.2693	0.471275	1	1
+Bacteria	UBA8919	MWCF01	1	1	2	0.23121	0.4046175	1	1
+Bacteria	UBA9042	UBA9042	1	1	1			1	1
+Bacteria	UBA9088	JAGUXG01	1	1	2	0.34272	0.59976	1	1
+Bacteria	UBA9089	UBA9089	1	1	1			1	1
+Bacteria	UBA9160	UBA9160	1	1	10	0.22596	0.39543	1	1
+Bacteria	UBA920	VMFF01	1	1	6	0.39816	0.69678	1	1
+Bacteria	UBA9214	UBA9214	1	1	1			1	1
+Bacteria	UBA9216	UBA9216	1	1	1			1	1
+Bacteria	UBA9217	UBA9217	1	1	1			1	1
+Bacteria	UBA9219	RFNS01	1	1	3	0.18316	0.32053	1	1
+Bacteria	UBA9339	UBA9339	1	1	1			1	1
+Bacteria	UBA9570	JAHJKD01	1	1	5	0.40563	0.7098525	1	1
+Bacteria	UBA9615	JAKLKC01	1	1	3	0.32931	0.5762925	1	1
+Bacteria	UBA9629	CAZHCQ01	1	1	3	0.45282	0.792435	1	1
+Bacteria	UBA9637	GWC2-42-11	1	1	2	0.1734	0.30345	1	1
+Bacteria	UBA9655	UBA9655	1	1	1			1	1
+Bacteria	UBA9934	GWF2-40-263	1	1	7	0.38175	0.6680625	1	1
+Bacteria	UBA9936	UBA9936	1	1	1			1	1
+Bacteria	UBA994	UBA994	1	1	1			1	1
+Bacteria	UBA9942	JAHJSF01	1	1	2	0.27554	0.482195	1	1
+Bacteria	UBA995	UBA9673	1	1	2	0.30681	0.5369175	1	1
+Bacteria	UBA9968	CAXXLF01	1	1	3	0.16915	0.2960125	1	1
+Bacteria	UBA9980	UBA9980	1	1	1			1	1
+Bacteria	UBA9983	UBA9983	1	1	1			1	1
+Bacteria	UKL13-3	UKL13-3	1	1	1			1	1
+Bacteria	UM-FILTER-39-15	UM-FILTER-39-15	1	1	1			1	1
+Bacteria	UM-FILTER-40-11	UM-FILTER-40-11	1	1	1			1	1
+Bacteria	UM-FILTER-42-10	UM-FILTER-42-10	1	1	1			1	1
+Bacteria	UM-FILTER-43-11	JACRIE01	1	1	2	0.2525	0.441875	1	1
+Bacteria	UM-FILTER-46-8	UM-FILTER-46-8	1	1	1			1	1
+Bacteria	UMGS1260	UMGS1260	1	1	1			1	1
+Bacteria	UMGS1810	UMGS1810	1	1	1			1	1
+Bacteria	UMGS1840	HGM11507	1	1	2	0.26953	0.4716775	1	1
+Bacteria	UMGS1883	JAAYMJ01	1	1	3	0.23507	0.4113725	1	1
+Bacteria	UTPRO1	JBBIJE01	1	1	2	0.22125	0.3871875	1	1
+Bacteria	UWMA-0217	UWMA-0217	1	1	1			1	1
+Bacteria	Uabimicrobiales	JABWCH01	1	1	2	0.40706	0.712355	1	1
+Bacteria	VBWC01	VBWC01	1	1	1			1	1
+Bacteria	VFKW01	VFKW01	1	1	1			1	1
+Bacteria	VGDZ01	VGDZ01	1	1	1			1	1
+Bacteria	VGEJ01	VGEJ01	1	1	1			1	1
+Bacteria	VGKH01	JBHPFN01	1	1	2	0.24851	0.4348925	1	1
+Bacteria	VGKN01	VGKN01	1	1	1			1	1
+Bacteria	VGLL01	VGLL01	1	1	1			1	1
+Bacteria	VGOG01	VGOG01	1	1	1			1	1
+Bacteria	VMEV01	CAZAJQ01	1	1	3	0.47083	0.8239525	1	1
+Bacteria	VXOZ01	VXOZ01	1	1	1			1	1
+Bacteria	Vampirovibrionales	Vampirovibrionaceae	1	1	3	0.26623	0.4659025	1	1
+Bacteria	Veblenbacterales	UBA10138	1	1	1			1	1
+Bacteria	Veillonellales	Megasphaeraceae	1	1	4	0.22066	0.386155	1	1
+Bacteria	Velamenicoccales	JABMQK01	1	1	2	0.31457	0.5504975	1	1
+Bacteria	Velesiimonadales	Velesiimonadaceae	1	1	1			1	1
+Bacteria	Verrucomicrobiales	SKLO01	1	1	8	0.271865	0.47576375	1	1
+Bacteria	Versatilivoradales	Versatilivoraceae	1	1	1			1	1
+Bacteria	Vicinamibacterales	JAHECP01	1	1	19	0.14851	0.2598925	2	2
+Bacteria	Vicinamibacterales	JACPPN01	2	2	19	0.14851	0.2598925	2	2
+Bacteria	Victivallales	G963678815	1	1	12	0.25841	0.4522175	1	1
+Bacteria	Vulcanimicrobiales	SCRA01	1	1	2	0.21415	0.3747625	1	1
+Bacteria	WFTA01	S139-112	1	1	1			1	1
+Bacteria	WGA-4E	JAJDTR01	1	1	4	0.234955	0.41117125	1	1
+Bacteria	WGAB01	WGAB01	1	1	1			1	1
+Bacteria	WHTO01	WHTO01	1	1	1			1	1
+Bacteria	WJJR01	JAJRUJ01	1	1	2	0.27913	0.4884775	1	1
+Bacteria	WLWN01	WLWN01	1	1	1			1	1
+Bacteria	WLWR01	WLWR01	1	1	1			1	1
+Bacteria	WOZS01	WOZS01	1	1	1			1	1
+Bacteria	WQYP01	WQYP01	1	1	1			1	1
+Bacteria	WRAU01	JBIIMR01	1	1	3	0.41566	0.727405	1	1
+Bacteria	WRBN01	WRBN01	1	1	1			1	1
+Bacteria	WRKU01	JAENWW01	1	1	3	0.2428	0.4249	1	1
+Bacteria	WRLR01	WRLR01	1	1	1			1	1
+Bacteria	WSZJ01	JACPWG01	1	1	4	0.355645	0.62237875	1	1
+Bacteria	WTBG01	WTBG01	1	1	1			1	1
+Bacteria	WTKD01	G963693115	1	1	2	0.63762	1.115835	1	1
+Bacteria	WVWN01	G020348885	1	1	2	0.3076	0.5383	1	1
+Bacteria	WVXP01	G020346125	1	1	2	0.22068	0.38619	1	1
+Bacteria	WVXT01	JAUXBS01	1	1	2	0.30256	0.52948	1	1
+Bacteria	WVZY01	JAKEHA01	1	1	2	0.21608	0.37814	1	1
+Bacteria	Winmispirales	Winmispiraceae	1	1	1			1	1
+Bacteria	Woykebacterales	2-01-FULL-43-14	1	1	3	0.42016	0.73528	1	1
+Bacteria	XJ16	Halofilaceae	1	1	1			1	1
+Bacteria	XYA12-FULL-58-9	CAYXVF01	1	1	8	0.212965	0.37268875	1	1
+Bacteria	XYA2-FULL-43-10	XYA2-FULL-43-10	1	1	4	0.413485	0.72359875	1	1
+Bacteria	XYB2-FULL-38-15	XYB2-FULL-38-15	1	1	1			1	1
+Bacteria	XYC2-FULL-46-14	WPAF01	1	1	4	0.271655	0.47539625	1	1
+Bacteria	XYD2-FULL-50-16	JBNMNM01	1	1	5	0.35455	0.6204625	1	1
+Bacteria	Xanthomonadales	Rhodanobacteraceae	1	1	12	0.20064	0.35112	2	2
+Bacteria	Xanthomonadales	SZUA-36	2	2	12	0.20064	0.35112	2	2
+Bacteria	Xenobiales	QWHO01	1	1	3	0.26556	0.46473	1	1
+Bacteria	YA12-FULL-61-11	YA12-FULL-61-11	1	1	1			1	1
+Bacteria	ZCTH02-B2	ZCTH02-B2	1	1	1			1	1
+Bacteria	Zapsychrales	JBAZNR01	1	1	14	0.19734	0.345345	2	2
+Bacteria	Zapsychrales	JAHFGK01	2	2	14	0.19734	0.345345	2	2
+Bacteria	Zavarziniales	Zavarziniaceae	1	1	1			1	1
+Bacteria	Zhuqueibacterales	Geothermadaptataceae	1	1	2	0.23028	0.40299	1	1
+Bacteria	Zipacnadales	Zipacnadaceae	1	1	7	0.33	0.5775	1	1
+Bacteria	Zymogenales	Zymogenaceae	1	1	1			1	1
