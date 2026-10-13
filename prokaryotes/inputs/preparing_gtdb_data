@@ -1,0 +1,19 @@
+# Preparing GDTB data
+
+The GTDB v232 metadata is already prepared for the pipeline and stored in the inputs folder (compresed metadata_r[v].tsv.gz file). If another version of the GTDB database needs to be prepared, follow the steps below.
+
+1. The GDTB metadata can be obtained at https://gtdb.ecogenomic.org/downloads
+   Select one of the options, ex., Europe: https://data.gtdb.aau.ecogenomic.org/releases/
+
+2. Extract GTDB representative genomes:
+   zcat bac120_metadata.tsv.gz | awk 'BEGIN{FS="\t"}{if (NR == 1) {print $0} else if ($19 == "t") {print $0}}' > bac120_metadata_gtdb_representative.tsv
+   zcat ar53_metadata.tsv.gz | awk 'BEGIN{FS="\t"}{if (NR == 1) {print $0} else if ($19 == "t") {print $0}}' > ar53_metadata_gtdb_representative.tsv
+
+3. Reduce the number of columns preserving only those needed for genome filtering:
+   awk -F'\t' -v OFS='\t' 'BEGIN{split("accession ncbi_organism_name gtdb_genome_representative gtdb_representative gtdb_taxonomy checkm2_completeness checkm2_contamination checkm2_model checkm_completeness checkm_contamination checkm_marker_count checkm_marker_lineage checkm_marker_set_count checkm_strain_heterogeneity mimag_high_quality mimag_medium_quality mimag_low_quality protein_count ncbi_protein_count coding_bases coding_density ncbi_translation_table genome_size contig_count n50_contigs scaffold_count n50_scaffolds longest_contig longest_scaffold ncbi_assembly_level ncbi_assembly_type ncbi_total_length ncbi_ungapped_length ncbi_total_gap_length ncbi_spanned_gaps ncbi_unspanned_gaps ncbi_genome_category ncbi_genome_representation ncbi_refseq_category ncbi_type_material_designation ncbi_isolate ncbi_taxid ncbi_species_taxid ncbi_taxonomy ncbi_strain_identifiers ncbi_bioproject ncbi_biosample",a," "); for(i in a) keep[a[i]]=1} NR==1{for(i=1;i<=NF;i++) if($i in keep) c[++n]=i; for(i=1;i<=n;i++) printf "%s%s",$c[i],i<n?OFS:"\n"} NR>1{for(i=1;i<=n;i++) printf "%s%s",$c[i],i<n?OFS:"\n"}' bac120_metadata_gtdb_representative.tsv > bac120_metadata_gtdb_representative_reduced.tsv
+
+   In the case of archae, remove the header line, to prepare for concatenating with the bacterial metadata file:
+   zcat ar53_metadata.tsv.gz | awk -F'\t' -v OFS='\t' 'BEGIN{split("accession ncbi_organism_name gtdb_genome_representative gtdb_representative gtdb_taxonomy checkm2_completeness checkm2_contamination checkm2_model checkm_completeness checkm_contamination checkm_marker_count checkm_marker_lineage checkm_marker_set_count checkm_strain_heterogeneity mimag_high_quality mimag_medium_quality mimag_low_quality protein_count ncbi_protein_count coding_bases coding_density ncbi_translation_table genome_size contig_count n50_contigs scaffold_count n50_scaffolds longest_contig longest_scaffold ncbi_assembly_level ncbi_assembly_type ncbi_total_length ncbi_ungapped_length ncbi_total_gap_length ncbi_spanned_gaps ncbi_unspanned_gaps ncbi_genome_category ncbi_genome_representation ncbi_refseq_category ncbi_type_material_designation ncbi_isolate ncbi_taxid ncbi_species_taxid ncbi_taxonomy ncbi_strain_identifiers ncbi_bioproject ncbi_biosample",a," "); for(i in a) keep[a[i]]=1} NR==1{for(i=1;i<=NF;i++) if($i in keep) c[++n]=i; for(i=1;i<=n;i++) printf "%s%s",$c[i],i<n?OFS:"\n"} NR>1{for(i=1;i<=n;i++) printf "%s%s",$c[i],i<n?OFS:"\n"}' ar53_metadata_gtdb_representative.tsv | awk '{if (NR != 1) {print $0}}' > ar53_metadata_gtdb_representative_reduced.tsv
+
+4. Concatenate:
+   cat bac120_metadata_gtdb_representative_reduced.tsv ar53_metadata_gtdb_representative_reduced.tsv > metadata_r232.tsv
