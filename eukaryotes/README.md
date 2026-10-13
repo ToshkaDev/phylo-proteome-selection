@@ -1,4 +1,4 @@
-# Eukaryotic representative-set selection (v2)
+# Eukaryotic representative-set selection
 
 This package implements the written criteria in `Eukaryotic_genome_selection_criteria.docx`
 and the extended `Process.docx` procedure.
