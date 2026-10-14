@@ -1,0 +1,22 @@
+GTDB r232 PHYLOGENETIC COVERAGE SELECTION TARGETING 3,424 GENOMES
+
+Eligible genomes under 80/5 filter: 162,879
+Eligible orders: 2,226
+Genome rows output: 3,424
+Unique accessions: 3,424
+Bacteria: 3,182
+Archaea: 242
+Preserved out-of-filter archaeal exception rows: 5
+Families selected from eligible filtered universe: 3,419
+Unique (domain,order,family) rows in output: 3,422
+Legacy family-set overlap (unique order/family): 3,028 / 3,422
+Legacy accession overlap: 2,897 / 3,424
+
+Selection logic:
+1. Use legacy per-order row counts as target quotas, not old family identities.
+2. Within each order, select reconstructed region medoids first when quota allows.
+3. Fill remaining quota by farthest-first maximin distance over all eligible families in that order.
+4. Select one genome per chosen eligible family using the quality/reference tie-break procedure.
+5. Preserve five manually added archaeal lineage-recovery exception genomes from the legacy set, which are outside the 80/5 filtered universe.
+
+This is a new coverage-oriented reconstruction. It targets the agreed 3,424 genome count and 3,182/242 domain split.

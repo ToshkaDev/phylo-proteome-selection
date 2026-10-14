@@ -1,0 +1,4 @@
+selection	orders_with_selected_families	mean_order_mean_nearest_cover	median_order_mean_nearest_cover	mean_order_max_nearest_cover	mean_order_mean_pairwise_selected
+legacy_3424_family_set	2226	0.05976602762910841	0.0	0.11958105835458221	0.05834750435855011
+reconstructed_2579_family_set	2226	0.07616878428019155	0.0	0.1275537443230009	0.021204701779768596
+new_3419_eligible_family_set	2226	0.05983007379908114	0.0	0.11951087924856242	0.05774753113365834

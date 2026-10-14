@@ -1,0 +1,16 @@
+Rows: 3438
+Unique accessions: 3438
+Bacteria: 3187
+Archaea: 251
+Model target names in request: 76
+Model taxa matched to at least one eligible metadata genome: 72
+Model genomes included as selected accession: 45
+Target audit rows: 76
+Targets with no eligible match: 4
+Targets blocked by family-level collision: 20
+Matched candidates not retained after coverage/collision decisions: 7
+Orders retained: 2229
+Families represented: 3436
+
+Logic: start from the 3,424-genome baseline and preserve per-order quotas for safe swaps; prefer a model genome within an already-selected family; when the model family is not selected, replace a selected family only if another selected family still represents the outgoing family's region; among safe swaps, prioritize adding an unrepresented region and minimize change in mean nearest-selected-family distance.
+Limit: one genome per selected family means different model strains/species in the same family can collide; unresolved targets are explicitly audited. Added model-organism exception rows only when a coverage-safe swap was unavailable.

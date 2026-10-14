@@ -1,0 +1,2227 @@
+domain	order	eligible_families	legacy_order_quota	selected_families	regions	median_nn_reconstructed	threshold_reconstructed	selection_method	families
+Archaea	40CM-2-53-6	10	2	2	1	0.4426836	0.7746963	all region medoids + farthest-first family additions to per-order target	CAYOZM01;DTGE01
+Archaea	Aenigmatarchaeales	8	2	2	1	0.6906777	1.208685975	all region medoids + farthest-first family additions to per-order target	JAHLMS01;SZUA-1535
+Archaea	Alkanophagales	2	1	1	1	0.483287	0.84575225	region medoids, farthest-first to per-order target	B39-G2
+Archaea	Altiarchaeales	1	1	1	1			single eligible family	Altiarchaeaceae
+Archaea	Anstonellales	11	6	6	3	0.7097365	1.242038875	all region medoids + farthest-first family additions to per-order target	JAGGXE01;VGKX01;SKW190;Bilamarchaeaceae;UBA8471;JAGGVH01
+Archaea	Archaeoglobales	2	1	1	1	0.46660829	0.8165645075	region medoids, farthest-first to per-order target	Archaeoglobaceae
+Archaea	B14-G2	1	1	1	1			single eligible family	B14-G2
+Archaea	B1Sed10-29	6	1	1	1	0.8409141	1.471599675	region medoids, farthest-first to per-order target	B47-G15
+Archaea	B24	4	3	3	1	0.610218605	1.06788255875	all region medoids + farthest-first family additions to per-order target	JAWCPE01;DRYS01;B24
+Archaea	B33-G15	1	1	1	1			single eligible family	B33-G15
+Archaea	B47-G6	1	1	1	1			single eligible family	B47-G6
+Archaea	B88-G9	1	1	1	1			single eligible family	B88-G9
+Archaea	Baldrarchaeales	2	1	1	1	0.4211033	0.736930775	region medoids, farthest-first to per-order target	Baldrarchaeaceae
+Archaea	Bathyarchaeales	11	2	2	2	0.3649476	0.6386583	region medoids, farthest-first to per-order target	UBA233;B26-1
+Archaea	Burarchaeales	8	2	2	1	0.57905125	1.0133396875	all region medoids + farthest-first family additions to per-order target	JBFMAP01;Gugararchaeaceae
+Archaea	CABMEP01	1	1	1	1			single eligible family	CABMEP01
+Archaea	CAILAH01	1	1	1	1			single eligible family	CAILAH01
+Archaea	CALHIW01	1	1	1	1			single eligible family	CALHIW01
+Archaea	CAYFZR01	1	1	1	1			single eligible family	CAYFZR01
+Archaea	CAYMVK01	1	1	1	1			single eligible family	CAYYFB01
+Archaea	CAYNNH01	1	1	1	1			single eligible family	CAYNNH01
+Archaea	CAYQAE01	1	1	1	1			single eligible family	CAYQAE01
+Archaea	CAYQNF01	1	1	1	1			single eligible family	CAYQNF01
+Archaea	CAYVLA01	1	1	1	1			single eligible family	CAYVLA01
+Archaea	CAYZOK01	1	1	1	1			single eligible family	CAYZOK01
+Archaea	CAZCWL01	2	1	1	1	0.801063	1.40186025	region medoids, farthest-first to per-order target	CAZCWL01
+Archaea	CAZGMV01	1	1	1	1			single eligible family	CAZGMV01
+Archaea	CAZHTU01	1	1	1	1			single eligible family	JBDRCC01
+Archaea	CAZPOY01	1	1	1	1			single eligible family	CAZPOY01
+Archaea	CAZSUE01	1	1	1	1			single eligible family	CAZSUE01
+Archaea	CAZTBM01	1	1	1	1			single eligible family	SZUA-1508
+Archaea	CAZUZU01	1	1	1	1			single eligible family	CAZUZU01
+Archaea	CAZWFW01	1	1	1	1			single eligible family	CAZWFW01
+Archaea	CAZXUR01	1	1	1	1			single eligible family	CAZXUR01
+Archaea	CG10238-14	7	1	1	1	0.7342171	1.284879925	region medoids, farthest-first to per-order target	EX4484-224
+Archaea	CSSed11-243R1	1	1	1	1			single eligible family	CSSed11-243R1
+Archaea	Caldarchaeales	4	1	1	1	0.59293071	1.0376287425	region medoids, farthest-first to per-order target	Caldarchaeaceae
+Archaea	Conexivisphaerales	4	2	2	1	0.66113815365	1.15699176889	all region medoids + farthest-first family additions to per-order target	CALBHZ01;Conexivisphaeraceae
+Archaea	Culexarchaeales	3	1	1	2	0.2515822	0.44026885	region medoids, farthest-first to per-order target	Culexarchaeaceae
+Archaea	DAOVMN01	1	1	1	1			single eligible family	DAOVMN01
+Archaea	DAOWMC01	1	1	1	1			single eligible family	DAOWMC01
+Archaea	DHVEG-1	2	1	1	1	0.4023459	0.704105325	region medoids, farthest-first to per-order target	B18-G2
+Archaea	DRAE01	1	1	1	1			single eligible family	DRAE01
+Archaea	DSM-18856	1	1	1	1			single eligible family	Methermicoccaceae
+Archaea	DSM-2088	1	1	1	1			single eligible family	Methanothermaceae
+Archaea	DTKX01	2	1	1	1	0.6699048	1.1723334	region medoids, farthest-first to per-order target	DATEUP01
+Archaea	DYHY01	2	1	1	1	0.961961	1.68343175	region medoids, farthest-first to per-order target	CAZGQF01
+Archaea	EX4484-135	2	1	1	1	0.4888663	0.855516025	region medoids, farthest-first to per-order target	B24-G1
+Archaea	EX4484-205	3	1	1	1	1.0148006	1.77590105	region medoids, farthest-first to per-order target	JAAOZP01
+Archaea	EX4484-217-1	2	1	1	1	0.4525815	0.792017625	region medoids, farthest-first to per-order target	EX4484-217-1
+Archaea	EX4484-52	7	3	3	2	0.7989136	1.3980988	all region medoids + farthest-first family additions to per-order target	B79-G9;EX4484-52;GLR71
+Archaea	GCA-002838935	1	1	1	1			single eligible family	GCA-002838935
+Archaea	GCA-020350865	2	1	1	1	0.4639394	0.81189395	region medoids, farthest-first to per-order target	GCA-020350865
+Archaea	GW2011-AR5	6	3	3	1	0.8172122	1.43012135	all region medoids + farthest-first family additions to per-order target	GW2011-AR5;WALA01;JAHLMP01
+Archaea	Gearchaeales	2	1	1	1	0.9026443	1.579627525	region medoids, farthest-first to per-order target	Gearchaeaceae
+Archaea	Geothermarchaeales	2	1	1	1	0.754083	1.31964525	region medoids, farthest-first to per-order target	CAYLIY01
+Archaea	Hadarchaeales	4	2	2	1	0.5456352	0.9548616	all region medoids + farthest-first family additions to per-order target	Hadarchaeaceae;JAWBSP01
+Archaea	Halarchaeoplasmatales	1	1	1	1			single eligible family	Halarchaeoplasmataceae
+Archaea	Halobacteriales	15	1	1	3	0.2940104	0.5145182	region medoids, farthest-first to per-order target	Afararchaeaceae
+Archaea	Hecatellales	1	1	1	1			single eligible family	Hecatellaceae
+Archaea	Heimdallarchaeales	4	1	1	1	0.81143125	1.4200046875	region medoids, farthest-first to per-order target	JAJRWK01
+Archaea	Helarchaeales	2	1	1	1	0.7782553	1.361946775	region medoids, farthest-first to per-order target	HEL-GB-A
+Archaea	Hermodarchaeales	1	1	1	1			single eligible family	Hermodarchaeaceae
+Archaea	Hodarchaeales	1	1	1	1			single eligible family	Hodarchaeaceae
+Archaea	Hydrothermarchaeales	10	2	2	1	0.3799244	0.6648677	all region medoids + farthest-first family additions to per-order target	JACRDW01;SZUA-236
+Archaea	IMC4	5	1	1	1	0.5912997	1.034774475	region medoids, farthest-first to per-order target	CAZEGI01
+Archaea	Iainarchaeales	27	10	10	4	0.7392615	1.293707625	all region medoids + farthest-first family additions to per-order target	DTGL01;JAFCCJ01;CSSED10-239;0-14-0-20-30-16;CAZJHM01;JAAZKV01;JBDRCV01;VGJJ01;CAYLVV01;UBA10191
+Archaea	JAADDC01	2	1	1	1	1.4791366	2.58848905	region medoids, farthest-first to per-order target	CAZMYQ01
+Archaea	JAAOXT01	1	1	1	1			single eligible family	JAAOXT01
+Archaea	JABLTI01	1	1	1	1			single eligible family	JABLTI01
+Archaea	JACIWG01	1	1	1	1			single eligible family	JACIWG01
+Archaea	JACPAO01	3	1	1	1	0.5846834	1.02319595	region medoids, farthest-first to per-order target	JAHWKR01
+Archaea	JACPZZ01	1	1	1	1			single eligible family	JACPZZ01
+Archaea	JACQPN01	5	1	1	1	0.4983261	0.872070675	region medoids, farthest-first to per-order target	JACQPN01
+Archaea	JACQPP01	1	1	1	1			single eligible family	JACQPP01
+Archaea	JACRDV01	1	1	1	1			single eligible family	JACRDV01
+Archaea	JAEHCK01	2	1	1	1	0.3718068	0.6506619	region medoids, farthest-first to per-order target	CBDVCJ01
+Archaea	JAFCGN01	2	1	1	1	0.8615734	1.50775345	region medoids, farthest-first to per-order target	DAOVEB01
+Archaea	JAFGOX01	1	1	1	1			single eligible family	DATDTB01
+Archaea	JAFGQM01	1	1	1	1			single eligible family	JAFGQM01
+Archaea	JAGGVJ01	1	1	1	1			single eligible family	JAGGVJ01
+Archaea	JAGHBH01	1	1	1	1			single eligible family	JAGHBH01
+Archaea	JAHFTX01	1	1	1	1			single eligible family	JAHFTX01
+Archaea	JAJSAE01	1	1	1	1			single eligible family	JAJSAE01
+Archaea	JAKEGO01	2	1	1	1	0.453496	0.793618	region medoids, farthest-first to per-order target	JAKEGO01
+Archaea	JALTZZ01	2	1	1	1	0.5570926	0.97491205	region medoids, farthest-first to per-order target	JALTZZ01
+Archaea	JANQNL01	1	1	1	1			single eligible family	JANQNL01
+Archaea	JAOZGF01	1	1	1	1			single eligible family	JAOZFZ01
+Archaea	JAPDIZ01	1	1	1	1			single eligible family	JAPDIZ01
+Archaea	JAPDLS01	1	1	1	1			single eligible family	Haiyanarchaeaceae
+Archaea	JAQUSD01	1	1	1	1			single eligible family	JAQUSD01
+Archaea	JASEFT01	2	1	1	1	0.4469334	0.78213345	region medoids, farthest-first to per-order target	JASEFT01
+Archaea	JASLWR01	1	1	1	1			single eligible family	JASLWR01
+Archaea	JASMDC01	1	1	1	1			single eligible family	JASMDC01
+Archaea	JAUWIL01	1	1	1	1			single eligible family	JAUWIL01
+Archaea	JAWCLZ01	1	1	1	1			single eligible family	JAWCLZ01
+Archaea	JBBABA01	1	1	1	1			single eligible family	JBBABA01
+Archaea	JBHIEI01	1	1	1	1			single eligible family	JBHIEI01
+Archaea	Jingweiarchaeales	1	1	1	1			single eligible family	Jingweiarchaeaceae
+Archaea	Jordiarchaeales	2	1	1	1	0.54838292	0.95967011	region medoids, farthest-first to per-order target	Freyrarchaeaceae
+Archaea	Korarchaeales	2	1	1	1	1.1114421	1.945023675	region medoids, farthest-first to per-order target	JAOZGB01
+Archaea	Lutacidiplasmatales	3	1	1	1	0.7539233	1.319365775	region medoids, farthest-first to per-order target	SKW197
+Archaea	MGIII	2	1	1	1	0.74023262	1.295407085	region medoids, farthest-first to per-order target	CAYLMJ01
+Archaea	Marsarchaeales	2	1	1	1	1.5191464	2.6585062	region medoids, farthest-first to per-order target	Marsarchaeaceae
+Archaea	Methanobacteriales	3	1	1	1	0.2066192	0.3615836	region medoids, farthest-first to per-order target	Methanothermobacteraceae
+Archaea	Methanocellales	1	1	1	1			single eligible family	Methanocellaceae
+Archaea	Methanococcales	2	1	1	1	0.2450654	0.42886445	region medoids, farthest-first to per-order target	Methanocaldococcaceae
+Archaea	Methanofastidiosales	4	1	1	1	0.68307275	1.1953773125	region medoids, farthest-first to per-order target	B48-G16
+Archaea	Methanoflorentales	1	1	1	1			single eligible family	Methanoflorentaceae
+Archaea	Methanoliparales	1	1	1	1			single eligible family	Methanoliparaceae
+Archaea	Methanomassiliicoccales	7	1	1	1	0.30921076	0.54111883	region medoids, farthest-first to per-order target	JACIVX01
+Archaea	Methanomethylicales	2	1	1	1	0.50953205	0.8916810875	region medoids, farthest-first to per-order target	JAGHCH01
+Archaea	Methanomicrobiales	6	1	1	1	0.31780975	0.5561670625	region medoids, farthest-first to per-order target	Methanomicrobiaceae
+Archaea	Methanonatronarchaeales	1	1	1	1			single eligible family	Methanonatronarchaeaceae
+Archaea	Methanopyrales	1	1	1	1			single eligible family	Methanopyraceae
+Archaea	Methanosarcinales	6	1	1	1	0.43344441	0.7585277175	region medoids, farthest-first to per-order target	CAZCCY01
+Archaea	Methanotrichales	1	1	1	1			single eligible family	Methanotrichaceae
+Archaea	Micrarchaeales	3	1	1	1	1.0348218	1.81093815	region medoids, farthest-first to per-order target	CABMGC01
+Archaea	Mnemosynellales	1	1	1	1			single eligible family	Mnemosynellaceae
+Archaea	Nanobdellales	3	1	1	1	1.063654	1.8613945	region medoids, farthest-first to per-order target	CAZNIQ01
+Archaea	Nanosalinales	4	1	1	1	0.69531245	1.2167967875	region medoids, farthest-first to per-order target	Nanoanaerosalinaceae
+Archaea	Nezhaarchaeales	3	1	1	1	0.4671347	0.817485725	region medoids, farthest-first to per-order target	B40-G2
+Archaea	Nitrososphaerales	17	8	8	2	0.5861351	1.025736425	all region medoids + farthest-first family additions to per-order target	UBA213;JANXEG01;CAZIZY01;Gagatemarchaeaceae;JAGGXQ01;UBA141;JARVJX01;Nitrosopumilaceae
+Archaea	Njordarchaeales	2	1	1	1	1.0753221	1.881813675	region medoids, farthest-first to per-order target	Njordarchaeaceae
+Archaea	Norongarragalinales	10	2	2	1	0.69029035	1.2080081125	all region medoids + farthest-first family additions to per-order target	JACRGE01;CABMDW01
+Archaea	Odinarchaeales	2	1	1	1	0.6110988	1.0694229	region medoids, farthest-first to per-order target	JBHLKK01
+Archaea	PEZQ01	1	1	1	1			single eligible family	PEZQ01
+Archaea	PSMU01	1	1	1	1			single eligible family	PSMU01
+Archaea	PWEA01	3	1	1	1	0.748003	1.30900525	region medoids, farthest-first to per-order target	JAGHBM01
+Archaea	Pacearchaeales	9	4	4	1	0.8248174	1.44343045	all region medoids + farthest-first family additions to per-order target	JAHJTO01;UBA12030;JAPDKA01;CG1-02-31-27
+Archaea	Parvarchaeales	1	1	1	1			single eligible family	Parvarchaeaceae
+Archaea	Penumbrarchaeales	2	1	1	1	0.5120414	0.89607245	region medoids, farthest-first to per-order target	EX4484-36
+Archaea	Poseidoniales	3	1	1	1	0.5706081	0.998564175	region medoids, farthest-first to per-order target	Thalassarchaeaceae
+Archaea	QMSL01	2	1	1	1	0.3687904	0.6453832	region medoids, farthest-first to per-order target	B3-G16
+Archaea	QMZP01	6	1	1	1	0.7676095	1.343316625	region medoids, farthest-first to per-order target	CAZFVX01
+Archaea	QMZS01	1	1	1	1			single eligible family	QMZS01
+Archaea	RBG-16-48-13	6	1	1	1	0.55775515	0.9760715125	region medoids, farthest-first to per-order target	JAGTRE01
+Archaea	RBG-16-68-12	7	2	2	1	0.4021009	0.703676575	all region medoids + farthest-first family additions to per-order target	EA-27;SOIM01
+Archaea	SCGC-AAA011-G17	25	2	2	1	0.7622105	1.333868375	all region medoids + farthest-first family additions to per-order target	VGLX01;GW2011-AR18
+Archaea	SG8-5	4	1	1	1	0.37881965	0.6629343875	region medoids, farthest-first to per-order target	JAGLSY01
+Archaea	SW-10-69-26	1	1	1	1			single eligible family	SW-10-69-26
+Archaea	Sifarchaeales	1	1	1	1			single eligible family	Sifarchaeaceae
+Archaea	Sigyniarchaeales	3	1	1	1	0.8378758	1.46628265	region medoids, farthest-first to per-order target	Promethearchaeaceae
+Archaea	SpSt-1190	1	1	1	1			single eligible family	SpSt-1190
+Archaea	Sulfolobales	13	4	4	2	0.6181682	1.08179435	all region medoids + farthest-first family additions to per-order target	WAQK01;CAZFJX01;Sulfolobaceae;Ignicoccaceae
+Archaea	Syntropharchaeales	1	1	1	1			single eligible family	Syntropharchaeaceae
+Archaea	Sysuiplasmatales	1	1	1	1			single eligible family	Sysuiplasmataceae
+Archaea	TCS64	4	2	2	2	0.39721621	0.6951283675	region medoids, farthest-first to per-order target	CBFDTC01;B23
+Archaea	Thermococcales	2	1	1	1	0.9017731	1.578102925	region medoids, farthest-first to per-order target	CAYNOZ01
+Archaea	Thermofilales	7	3	3	1	0.4839023	0.846829025	all region medoids + farthest-first family additions to per-order target	B69-G16;B20-G17;B15-G2
+Archaea	Thermoplasmatales	7	2	2	2	0.553814	0.9691745	region medoids, farthest-first to per-order target	B87-G9;Aciduliprofundaceae
+Archaea	Thermoproteales	3	1	1	1	0.6080795	1.064139125	region medoids, farthest-first to per-order target	Thermocladiaceae
+Archaea	Thorarchaeales	2	1	1	1	0.5437665	0.951591375	region medoids, farthest-first to per-order target	CAZPUN01
+Archaea	Tiddalikarchaeales	1	1	1	1			single eligible family	Tiddalikarchaeaceae
+Archaea	UBA10117	8	1	1	1	0.7679998	1.34399965	region medoids, farthest-first to per-order target	CAYGVN01
+Archaea	UBA10834	2	1	1	1	0.4168599	0.729504825	region medoids, farthest-first to per-order target	DTMW01
+Archaea	UBA148	3	2	2	1	0.2982464	0.5219312	all region medoids + farthest-first family additions to per-order target	JAUWXC01;JAJOKI01
+Archaea	UBA186	1	1	1	1			single eligible family	UBA186
+Archaea	UBA202	2	1	1	1	0.3232418	0.56567315	region medoids, farthest-first to per-order target	DSCA01
+Archaea	UBA287	1	1	1	1			single eligible family	UBA287
+Archaea	UBA9212	1	1	1	1			single eligible family	UBA9212
+Archaea	Undinarchaeales	5	2	2	1	0.6293059	1.101285325	all region medoids + farthest-first family additions to per-order target	JBDRKL01;Undinarchaeaceae
+Archaea	VGTL01	1	1	1	1			single eligible family	VGTL01
+Archaea	WALJ01	1	1	1	1			single eligible family	WALJ01
+Archaea	WALL01	3	2	2	1	0.5433545	0.950870375	all region medoids + farthest-first family additions to per-order target	WALL01;WAMD01
+Archaea	WJKC01	1	1	1	1			single eligible family	WJKC01
+Archaea	Woesearchaeales	126	20	20	13	0.62143045	1.0875032875	all region medoids + farthest-first family additions to per-order target	CAYPCY01;JBDRIN01;CAYXTQ01;PXDW01;J091;JAGVZT01;UBA119;WAPY01;JABGXB01;CAZXZL01;JAWBMQ01;JAQUVJ01;UBA583;JAGGZC01;WAPJ01;DATGWN01;GW2011-AR9;JASKKU01;GCA-023898365;CAZPDB01
+Archaea	Wukongarchaeales	1	1	1	1			single eligible family	Wukongarchaeaceae
+Bacteria	0-14-0-10-38-17	1	1	1	1			single eligible family	0-14-0-10-38-17
+Bacteria	0-14-0-20-40-13	1	1	1	1			single eligible family	0-14-0-20-40-13
+Bacteria	0-14-0-80-59-12	1	1	1	1			single eligible family	0-14-0-80-59-12
+Bacteria	1-14-0-10-42-19	1	1	1	1			single eligible family	1-14-0-10-42-19
+Bacteria	1-14-0-20-64-10	2	1	1	1	0.33146	0.580055	region medoids, farthest-first to per-order target	1-14-0-20-64-10
+Bacteria	1-14-2-50-48-13	1	1	1	1			single eligible family	1-14-2-50-48-13
+Bacteria	16-39-46	3	2	2	1	0.25035	0.4381125	all region medoids + farthest-first family additions to per-order target	JABJFC01;JAJRRM01
+Bacteria	2-01-FULL-39-13	3	1	1	1	0.69288	1.21254	region medoids, farthest-first to per-order target	2-01-FULL-39-13
+Bacteria	2-01-FULL-39-33	2	1	1	1	0.41919	0.7335825	region medoids, farthest-first to per-order target	2-01-FULL-39-33
+Bacteria	2-01-FULL-45-10	3	1	1	1	0.23567	0.4124225	region medoids, farthest-first to per-order target	JAHFGN01
+Bacteria	2-01-FULL-47-10	4	2	2	1	0.573835	1.00421125	all region medoids + farthest-first family additions to per-order target	JBBIMT01;JBBTYX01
+Bacteria	2-01-FULL-59-12	2	1	1	1	0.27725	0.4851875	region medoids, farthest-first to per-order target	2-01-FULL-59-12
+Bacteria	2-01-FULL-66-17	1	1	1	1			single eligible family	2-01-FULL-66-17
+Bacteria	2-02-FULL-35-15	1	1	1	1			single eligible family	2-02-FULL-35-15
+Bacteria	2-02-FULL-39-11	1	1	1	1			single eligible family	2-02-FULL-39-11
+Bacteria	2-02-FULL-39-32	1	1	1	1			single eligible family	2-02-FULL-39-32
+Bacteria	2-02-FULL-40-11	1	1	1	1			single eligible family	2-02-FULL-40-11
+Bacteria	2-02-FULL-40-12	4	3	3	1	0.41447	0.7253225	all region medoids + farthest-first family additions to per-order target	IGHO2-01-FULL-4-A;2-02-FULL-40-12;IGHO2-12-FULL-4
+Bacteria	2-02-FULL-44-16	4	2	2	1	0.2447	0.428225	all region medoids + farthest-first family additions to per-order target	DYJF01;JBDRGF01
+Bacteria	2-02-FULL-49-11	1	1	1	1			single eligible family	2-02-FULL-49-11
+Bacteria	2-02-FULL-50-16	2	1	1	1	0.26393	0.4618775	region medoids, farthest-first to per-order target	2-02-FULL-50-16
+Bacteria	2-02-FULL-51-18	3	1	1	2	0.17212	0.30121	region medoids, farthest-first to per-order target	JAGOUK01
+Bacteria	2-12-FULL-35-15	1	1	1	1			single eligible family	2-12-FULL-35-15
+Bacteria	2-12-FULL-37-12	1	1	1	1			single eligible family	2-12-FULL-37-12
+Bacteria	2-12-FULL-41-13	1	1	1	1			single eligible family	2-12-FULL-41-13
+Bacteria	2-12-FULL-45-22	1	1	1	1			single eligible family	2-12-FULL-45-22
+Bacteria	2-12-FULL-50-11	2	1	1	1	0.63216	1.10628	region medoids, farthest-first to per-order target	2-12-FULL-50-11
+Bacteria	2-12-FULL-54-10	1	1	1	1			single eligible family	2-12-FULL-54-10
+Bacteria	2-12-FULL-57-11	1	1	1	1			single eligible family	2-12-FULL-57-11
+Bacteria	2-12-FULL-60-25	1	1	1	1			single eligible family	2-12-FULL-60-25
+Bacteria	2-12-FULL-62-27	1	1	1	1			single eligible family	2-12-FULL-62-27
+Bacteria	20CM-2-55-15	1	1	1	1			single eligible family	20CM-2-55-15
+Bacteria	21-64-14	1	1	1	1			single eligible family	21-64-14
+Bacteria	32-111	1	1	1	1			single eligible family	32-111
+Bacteria	43-37	2	1	1	1	0.27611	0.4831925	region medoids, farthest-first to per-order target	43-37
+Bacteria	4484-107	1	1	1	1			single eligible family	4484-107
+Bacteria	4484-113	2	1	1	1	0.53598	0.937965	region medoids, farthest-first to per-order target	4484-113
+Bacteria	4484-211	3	2	2	1	0.59434	1.040095	all region medoids + farthest-first family additions to per-order target	JAGQKX01;4484-211
+Bacteria	4484-213	1	1	1	1			single eligible family	4484-213
+Bacteria	4484-93	1	1	1	1			single eligible family	4484-93
+Bacteria	4572-55	1	1	1	1			single eligible family	4572-55
+Bacteria	4572-78	4	3	3	1	0.206635	0.36161125	all region medoids + farthest-first family additions to per-order target	JBHHXL01;4572-78;J111
+Bacteria	9FT-COMBO-42-15	1	1	1	1			single eligible family	9FT-COMBO-42-15
+Bacteria	9FT-COMBO-53-11	1	1	1	1			single eligible family	9FT-COMBO-53-11
+Bacteria	AC-67	1	1	1	1			single eligible family	AC-67
+Bacteria	AC1	1	1	1	1			single eligible family	EtOH8
+Bacteria	AKS1	1	1	1	1			single eligible family	AKS1
+Bacteria	AKYH767-A	5	4	4	1	0.20294	0.355145	all region medoids + farthest-first family additions to per-order target	2013-40CM-41-45;JABDAW01;JAHEYN01;JBBKVM01
+Bacteria	ARS1246	1	1	1	1			single eligible family	ARS1246
+Bacteria	ARS69	1	1	1	1			single eligible family	ARS69
+Bacteria	ATCC43930	2	1	1	1	0.15828	0.27699	region medoids, farthest-first to per-order target	Allostellaceae
+Bacteria	ATN3	2	1	1	1	0.24871	0.4352425	region medoids, farthest-first to per-order target	ATN3
+Bacteria	AUK180	1	1	1	1			single eligible family	AUK180
+Bacteria	Abditibacteriales	2	1	1	1	0.36805	0.6440875	region medoids, farthest-first to per-order target	Abditibacteriaceae
+Bacteria	Absconditabacterales	1	1	1	1			single eligible family	Absconditicoccaceae
+Bacteria	Acanthopleuribacterales	1	1	1	1			single eligible family	Acanthopleuribacteraceae
+Bacteria	Acetivibrionales	24	9	9	7	0.14884	0.26047	all region medoids + farthest-first family additions to per-order target	CAVYEU01;RGIG10202;UBA4821;DULL01;CAYWGM01;JAKOSZ01;JANLFN01;JBDMZA01;STF1-152
+Bacteria	Acetobacterales	1	1	1	1			single eligible family	Acetobacteraceae
+Bacteria	Acholeplasmatales	5	1	1	1	0.29686	0.519505	region medoids, farthest-first to per-order target	JAEDCM01
+Bacteria	Acidaminococcales	4	2	2	1	0.18051	0.3158925	all region medoids + farthest-first family additions to per-order target	JAJUGR01;Acidaminococcaceae
+Bacteria	Acidiferrales	3	2	2	1	0.22998	0.402465	all region medoids + farthest-first family additions to per-order target	DATBWB01;2-02-FULL-67-57
+Bacteria	Acidiferrobacterales	8	5	5	1	0.14711	0.2574425	all region medoids + farthest-first family additions to per-order target	CAZCAK01;SPGG2;JAJDNE01;SZUA-150;Sulfurifustaceae
+Bacteria	Acidimicrobiales	76	16	16	11	0.221155	0.38702125	all region medoids + farthest-first family additions to per-order target	JACCXE01;CAXMLU01;JBOGIG01;JAMDDE01;DASWMK01;BPGG01;JADJXE01;CAZWPY01;CATQHL01;JBEIGA01;SZUA-35;JANYDT01;Hopanoidiivorantaceae;Poriferisodalaceae;UBA10347;JABEUL01
+Bacteria	Acidithiobacillales	2	1	1	1	0.16146	0.282555	region medoids, farthest-first to per-order target	Acidithiobacillaceae
+Bacteria	Acidothermales	1	1	1	1			single eligible family	Acidothermaceae
+Bacteria	Acidulodesulfobacterales	1	1	1	1			single eligible family	Acidulodesulfobacteraceae
+Bacteria	Actinomarinales	1	1	1	1			single eligible family	Actinomarinaceae
+Bacteria	Actinomycetales	24	9	9	10	0.15082	0.263935	region medoids, farthest-first to per-order target	Bifidobacteriaceae;Microbacteriaceae;Demequinaceae;JBBAYJ01;Dermabacteraceae;WQXJ01;Angustibacteraceae;Brevibacteriaceae;JAHECE01
+Bacteria	Adiutricales	3	2	2	1	0.21328	0.37324	all region medoids + farthest-first family additions to per-order target	JAGVGV01;Adiutricaceae
+Bacteria	Aeolococcales	2	1	1	1	0.38367	0.6714225	region medoids, farthest-first to per-order target	Aeolococcaceae
+Bacteria	Aerophobales	6	4	4	1	0.23183	0.4057025	all region medoids + farthest-first family additions to per-order target	B47-G16;Aerophobaceae;B3-G15;JAGGVN01
+Bacteria	Aggregatilineales	8	5	5	1	0.271175	0.47455625	all region medoids + farthest-first family additions to per-order target	Ch27;UBA3940;J027;Phototrophicaceae;UBA2796
+Bacteria	Alicyclobacillales	2	1	1	1	0.25652	0.44891	region medoids, farthest-first to per-order target	Alicyclobacillaceae
+Bacteria	Aminicenantales	9	5	5	1	0.16714	0.292495	all region medoids + farthest-first family additions to per-order target	CAZPAX01;Saccharicenantaceae;CALLJL01;JAFGBC01;JAFGAV01
+Bacteria	Anaeroferrophillales	2	1	1	1	0.19778	0.346115	region medoids, farthest-first to per-order target	Anaeroferrophillaceae
+Bacteria	Anaerolineales	18	8	8	3	0.24745	0.4330375	all region medoids + farthest-first family additions to per-order target	UBA4823;JBHHUI01;CAYZNA01;UBA11579;UBA6663;UBA6668;JABWBV01;E44-bin32
+Bacteria	Anaeromusales	1	1	1	1			single eligible family	Anaeromusaceae
+Bacteria	Anaerosomatales	22	9	9	2	0.155725	0.27251875	all region medoids + farthest-first family additions to per-order target	JAJZPX01;JAGXFU01;JAUVQN01;D1FN1-002;CAVYJL01;PHET01;CAZWGV01;JBAZZO01;CAVRZR01
+Bacteria	Ancaeobacterales	2	1	1	1	0.30016	0.52528	region medoids, farthest-first to per-order target	Ancaeobacteraceae
+Bacteria	Aneurinibacillales	2	1	1	1	0.12325	0.2156875	region medoids, farthest-first to per-order target	Aneurinibacillaceae
+Bacteria	Aquicultorales	2	1	1	1	0.18522	0.324135	region medoids, farthest-first to per-order target	Aquicultoraceae
+Bacteria	Aquificales	3	1	1	1	0.35659	0.6240325	region medoids, farthest-first to per-order target	Aquificaceae
+Bacteria	Aquitaenariimonadales	1	1	1	1			single eligible family	Aquitaenariimonadaceae
+Bacteria	Aquiviventales	2	1	1	1	0.39635	0.6936125	region medoids, farthest-first to per-order target	Aquiviventaceae
+Bacteria	Arandabacterales	2	1	1	1	0.20074	0.351295	region medoids, farthest-first to per-order target	Arandabacteraceae
+Bacteria	Ardenticatenales	2	1	1	1	0.31052	0.54341	region medoids, farthest-first to per-order target	Ardenticatenaceae
+Bacteria	Arenicellales	14	7	7	2	0.202755	0.35482125	all region medoids + farthest-first family additions to per-order target	CBDCFT01;JAJDZL01;Arenicellaceae;Spongiicolonaceae;DRJH01;Poriferihabitantaceae;UBA868
+Bacteria	Armatimonadales	2	1	1	1	0.37633	0.6585775	region medoids, farthest-first to per-order target	Armatimonadaceae
+Bacteria	Atribacterales	4	2	2	1	0.211895	0.37081625	all region medoids + farthest-first family additions to per-order target	Thermatribacteraceae;Atribacteraceae
+Bacteria	Auribacterales	1	1	1	1			single eligible family	Auribacteraceae
+Bacteria	Azospirillales	1	1	1	1			single eligible family	Azospirillaceae
+Bacteria	B-17B0	1	1	1	1			single eligible family	Aurantibacillaceae
+Bacteria	B11-G9	1	1	1	1			single eligible family	B11-G9
+Bacteria	B119-G9	1	1	1	1			single eligible family	B119-G9
+Bacteria	B129-G9	1	1	1	1			single eligible family	B129-G9
+Bacteria	B13-G15	2	1	1	1	0.16229	0.2840075	region medoids, farthest-first to per-order target	B13-G15
+Bacteria	B130-G9	1	1	1	1			single eligible family	B130-G9
+Bacteria	B142	4	3	3	1	0.46819	0.8193325	all region medoids + farthest-first family additions to per-order target	JAFGFJ01;OLB20;WJKM01
+Bacteria	B143-G9	1	1	1	1			single eligible family	B143-G9
+Bacteria	B15-G4	4	3	3	1	0.528975	0.92570625	all region medoids + farthest-first family additions to per-order target	JADJEK01;B15-G4;SIAN01
+Bacteria	B15-G9	3	2	2	1	0.27435	0.4801125	all region medoids + farthest-first family additions to per-order target	B15-G9;DRBW01
+Bacteria	B1SED10-174	1	1	1	1			single eligible family	B1SED10-174
+Bacteria	B21-G16	1	1	1	1			single eligible family	B21-G16
+Bacteria	B21-G9	1	1	1	1			single eligible family	HyVt-16
+Bacteria	B22-G15	1	1	1	1			single eligible family	B22-G15
+Bacteria	B231	1	1	1	1			single eligible family	B231
+Bacteria	B26-G2	2	1	1	1	0.35399	0.6194825	region medoids, farthest-first to per-order target	B26-G2
+Bacteria	B26-G9	2	1	1	1	0.31805	0.5565875	region medoids, farthest-first to per-order target	B26-G9
+Bacteria	B28-G17	1	1	1	1			single eligible family	B28-G17
+Bacteria	B3-G13	1	1	1	1			single eligible family	B3-G13
+Bacteria	B3-LCP	1	1	1	1			single eligible family	B3-LCP
+Bacteria	B3-TA06	3	2	2	1	0.42598	0.745465	all region medoids + farthest-first family additions to per-order target	CAYQJV01;B3-TA06
+Bacteria	B30-G16	1	1	1	1			single eligible family	B30-G16
+Bacteria	B36-G15	1	1	1	1			single eligible family	B36-G15
+Bacteria	B4-G1	3	1	1	1	0.20445	0.3577875	region medoids, farthest-first to per-order target	DUEL01
+Bacteria	B48-G9	3	2	2	1	0.40064	0.70112	all region medoids + farthest-first family additions to per-order target	DSTR01;DTJG01
+Bacteria	B62-G9	3	1	1	1	0.17241	0.3017175	region medoids, farthest-first to per-order target	B62-G9
+Bacteria	B64-G9	1	1	1	1			single eligible family	B64-G9
+Bacteria	B68-G9	1	1	1	1			single eligible family	B68-G9
+Bacteria	B70-G9	1	1	1	1			single eligible family	B70-G9
+Bacteria	BD1-5	3	2	2	1	0.47585	0.8327375	all region medoids + farthest-first family additions to per-order target	UBA2023;JAGOOR01
+Bacteria	BM002	1	1	1	1			single eligible family	BM002
+Bacteria	BMS3ABIN01	1	1	1	1			single eligible family	BMS3ABIN01
+Bacteria	BMS3Abin14	1	1	1	1			single eligible family	BMS3Abin14
+Bacteria	BMS3Bbin11	1	1	1	1			single eligible family	BMS3Bbin11
+Bacteria	BNTO01	1	1	1	1			single eligible family	BNTO01
+Bacteria	BOG-932	1	1	1	1			single eligible family	Roseiterribacteraceae
+Bacteria	BP-191	1	1	1	1			single eligible family	BP-191
+Bacteria	BQJM01	1	1	1	1			single eligible family	BQJM01
+Bacteria	BS150m-G50	1	1	1	1			single eligible family	BS150m-G50
+Bacteria	BSN033	1	1	1	1			single eligible family	UBA1163
+Bacteria	BTQY01	1	1	1	1			single eligible family	BTQY01
+Bacteria	Babelales	21	9	9	2	0.35844	0.62727	all region medoids + farthest-first family additions to per-order target	UASB340;JANWKD01;Chromulinivoraceae;JAUPTZ01;GCA-2401785;JABJEI01;UBA12409;CAZZPM01;CAIQNR01
+Bacteria	Bac17	1	1	1	1			single eligible family	UBA816
+Bacteria	Bacillales	52	13	13	11	0.084125	0.14721875	all region medoids + farthest-first family additions to per-order target	JACDOC01;Cytobacillaceae;Bacillaceae_L;SA4;JAVBJX01;Halobacillaceae;DSM-28697;DASSOY01;KJ1-10-99;Massilibacteriaceae;Guptibacillaceae;Sporolactobacillaceae;Bacillaceae_N
+Bacteria	Bacillales_A	1	1	1	1			single eligible family	Planococcaceae
+Bacteria	Bacteriovoracales	2	1	1	1	0.48964	0.85687	region medoids, farthest-first to per-order target	Bacteriovoracaceae
+Bacteria	Bacteroidales	141	21	21	16	0.20049	0.3508575	all region medoids + farthest-first family additions to per-order target	Coprobacteraceae;WRGA01;Porphyromonadaceae;CG2-30-32-10;DTU049;JBGRPZ01;SMBSF39;JAOZVK01;DYQJ01;ZOR0009;CAJPTX01;JALTDM01;JAAUTT01;Marinifilaceae;GWF2-38-335;DASQZP01;S143-33;UBA1715;CAZJZP01;CAZJKL01;Salinivirgaceae
+Bacteria	Balneolales	7	5	5	1	0.17185	0.3007375	all region medoids + farthest-first family additions to per-order target	DATFMH01;Balneolaceae;HLUCCA01;M1805;Natronogracilivirgulaceae
+Bacteria	Bdellovibrionales	13	6	6	1	0.26433	0.4625775	all region medoids + farthest-first family additions to per-order target	JAKFYE01;CAYMLA01;SG-bin7;JAGQZY01;UBA840;UBA1609
+Bacteria	Beggiatoales	1	1	1	1			single eligible family	Beggiatoaceae
+Bacteria	Berkiellales	1	1	1	1			single eligible family	Berkiellaceae
+Bacteria	Bin125	1	1	1	1			single eligible family	Bin125
+Bacteria	Bin18	2	1	1	1	0.20345	0.3560375	region medoids, farthest-first to per-order target	Bin18
+Bacteria	Bin65	1	1	1	1			single eligible family	Bin65
+Bacteria	Bin95	1	1	1	1			single eligible family	Bin95
+Bacteria	Bin98	1	1	1	1			single eligible family	Bin98
+Bacteria	Binatales	1	1	1	1			single eligible family	Binataceae
+Bacteria	Bipolaricaulales	1	1	1	1			single eligible family	Bipolaricaulaceae
+Bacteria	Blakebacterales	3	2	2	1	0.15381	0.2691675	all region medoids + farthest-first family additions to per-order target	JAWOFN01;Blakebacteraceae
+Bacteria	Borreliales	1	1	1	1			single eligible family	Borreliaceae
+Bacteria	Brachyspirales	2	1	1	1	0.36618	0.640815	region medoids, farthest-first to per-order target	Brachyspiraceae
+Bacteria	Bradymonadales	2	1	1	1	0.38848	0.67984	region medoids, farthest-first to per-order target	Bradymonadaceae
+Bacteria	Brevibacillales	1	1	1	1			single eligible family	Brevibacillaceae
+Bacteria	Brevinematales	6	4	4	2	0.28354	0.496195	all region medoids + farthest-first family additions to per-order target	CAZQBT01;Brevinemataceae;Thermospiraceae;JAOACQ01
+Bacteria	Brocadiales	4	1	1	1	0.298195	0.52184125	region medoids, farthest-first to per-order target	Brocadiaceae
+Bacteria	Bryobacterales	3	1	1	1	0.20733	0.3628275	region medoids, farthest-first to per-order target	JACQDG01
+Bacteria	Bu12	1	1	1	1			single eligible family	Bu12
+Bacteria	Bu52	1	1	1	1			single eligible family	Bu52
+Bacteria	Buchananbacterales	5	3	3	1	0.37476	0.65583	all region medoids + farthest-first family additions to per-order target	GWA2-38-13;21-14-0-10-42-9;CAXGXT01
+Bacteria	Burkholderiales	60	14	14	13	0.137645	0.24087875	all region medoids + farthest-first family additions to per-order target	Chitinimonadaceae;Chromobacteriaceae;Q3-R57-64;UBA11063;Burkholderiaceae_D;Burkholderiaceae_A;SG8-39;UBA3065;JBEEJL01;JALYOK01;Sulfuricellaceae;UBA6910;2013Ark19i;Casimicrobiaceae
+Bacteria	CAAGCB01	1	1	1	1			single eligible family	CAG-977
+Bacteria	CAAHEQ01	1	1	1	1			single eligible family	UBA3637
+Bacteria	CACIAM-22H2	1	1	1	1			single eligible family	CACIAM-22H2
+Bacteria	CACIAM-69d	1	1	1	1			single eligible family	CACIAM-69d
+Bacteria	CACZRW01	1	1	1	1			single eligible family	CACZRW01
+Bacteria	CADAEX01	1	1	1	1			single eligible family	CADAEX01
+Bacteria	CADAWZ01	2	1	1	1	0.21466	0.375655	region medoids, farthest-first to per-order target	CADAWZ01
+Bacteria	CADDZG01	1	1	1	1			single eligible family	WHSQ01
+Bacteria	CADDZV01	1	1	1	1			single eligible family	CADDZV01
+Bacteria	CADEGL01	1	1	1	1			single eligible family	CADEGL01
+Bacteria	CAIJMQ01	1	1	1	1			single eligible family	CAIJMQ01
+Bacteria	CAIKAF01	1	1	1	1			single eligible family	CAIKAF01
+Bacteria	CAIKKV01	7	5	5	1	0.27038	0.473165	all region medoids + farthest-first family additions to per-order target	CAITUY01;PXCX01;CAIKKV01;CAYSLU01;CAIJXV01
+Bacteria	CAILAD01	6	4	4	1	0.333755	0.58407125	all region medoids + farthest-first family additions to per-order target	CAZGYV01;JBBSBN01;BJGX01;GCA-016700035
+Bacteria	CAILIB01	2	1	1	1	0.64367	1.1264225	region medoids, farthest-first to per-order target	CAILIB01
+Bacteria	CAILMK01	5	3	3	1	0.26689	0.4670575	all region medoids + farthest-first family additions to per-order target	JBBDIG01;JAAYUY01;CAYYUA01
+Bacteria	CAIMUX01	4	1	1	1	0.330935	0.57913625	region medoids, farthest-first to per-order target	VGJL01
+Bacteria	CAINFC01	1	1	1	1			single eligible family	CAINFC01
+Bacteria	CAIPTA01	2	1	1	1	0.28321	0.4956175	region medoids, farthest-first to per-order target	CAIPTA01
+Bacteria	CAIQCK01	1	1	1	1			single eligible family	CAIQCK01
+Bacteria	CAIQCM01	1	1	1	1			single eligible family	CAIQCM01
+Bacteria	CAIQIC01	5	3	3	1	0.21607	0.3781225	all region medoids + farthest-first family additions to per-order target	CAZMXS01;Lenti-01;CAIQIC01
+Bacteria	CAIRSR01	1	1	1	1			single eligible family	CAIRSR01
+Bacteria	CAIRYL01	2	1	1	1	0.44432	0.77756	region medoids, farthest-first to per-order target	CAIRYL01
+Bacteria	CAISDR01	1	1	1	1			single eligible family	CAISDR01
+Bacteria	CAISOG01	1	1	1	1			single eligible family	CAISOG01
+Bacteria	CAISUE01	1	1	1	1			single eligible family	CAISUE01
+Bacteria	CAIUAS01	1	1	1	1			single eligible family	CAIUAS01
+Bacteria	CAIUCS01	1	1	1	1			single eligible family	CAIUCS01
+Bacteria	CAIUEV01	2	1	1	1	0.57776	1.01108	region medoids, farthest-first to per-order target	CAIUEV01
+Bacteria	CAIUPP01	1	1	1	1			single eligible family	CAIUPP01
+Bacteria	CAIVKH01	1	1	1	1			single eligible family	CAIVKH01
+Bacteria	CAIWAD01	1	1	1	1			single eligible family	CAIWAD01
+Bacteria	CAIWXX01	1	1	1	1			single eligible family	CAIWXX01
+Bacteria	CAIXNZ01	2	1	1	1	0.41821	0.7318675	region medoids, farthest-first to per-order target	CAIXNZ01
+Bacteria	CAIXZC01	1	1	1	1			single eligible family	CAIXZC01
+Bacteria	CAIYCZ01	2	1	1	1	0.2072	0.3626	region medoids, farthest-first to per-order target	CAIRTM01
+Bacteria	CAIYQO01	1	1	1	1			single eligible family	CAIYQO01
+Bacteria	CAIYWZ01	1	1	1	1			single eligible family	CAIYWZ01
+Bacteria	CAIYYT01	1	1	1	1			single eligible family	CAIYYT01
+Bacteria	CAJBMM01	1	1	1	1			single eligible family	CAJBMM01
+Bacteria	CAJFEE01	1	1	1	1			single eligible family	CAJFEE01
+Bacteria	CAJQNE01	1	1	1	1			single eligible family	CAJQNE01
+Bacteria	CAJVYJ01	2	1	1	1	0.23646	0.413805	region medoids, farthest-first to per-order target	CAJVYJ01
+Bacteria	CAJWTS01	1	1	1	1			single eligible family	CAJWTS01
+Bacteria	CAJXCL01	1	1	1	1			single eligible family	CAJXCL01
+Bacteria	CAJXQU01	1	1	1	1			single eligible family	CAJXQU01
+Bacteria	CAJXXZ01	3	1	1	1	0.87978	1.539615	region medoids, farthest-first to per-order target	DAHXLG01
+Bacteria	CAKKQC01	1	1	1	1			single eligible family	CAKKQC01
+Bacteria	CAKMZR01	1	1	1	1			single eligible family	CAKMZR01
+Bacteria	CAKMZV01	1	1	1	1			single eligible family	CAKMZV01
+Bacteria	CAKSNL01	1	1	1	1			single eligible family	HGM11501
+Bacteria	CAKZLE01	1	1	1	1			single eligible family	CAKZLE01
+Bacteria	CAKZMO01	1	1	1	1			single eligible family	CAKZMO01
+Bacteria	CALCKW01	1	1	1	1			single eligible family	CALCKW01
+Bacteria	CALEFQ01	2	1	1	1	0.45926	0.803705	region medoids, farthest-first to per-order target	CALEFQ01
+Bacteria	CALFHW01	1	1	1	1			single eligible family	CALFHW01
+Bacteria	CALGFH01	1	1	1	1			single eligible family	CALGFH01
+Bacteria	CALGPD01	1	1	1	1			single eligible family	CALGPD01
+Bacteria	CALINM01	1	1	1	1			single eligible family	CALINM01
+Bacteria	CALKHQ01	1	1	1	1			single eligible family	CALKHQ01
+Bacteria	CALLYA01	1	1	1	1			single eligible family	CALLYA01
+Bacteria	CALMVH01	1	1	1	1			single eligible family	CALMVH01
+Bacteria	CALYAR01	1	1	1	1			single eligible family	CALYAR01
+Bacteria	CAMBQF01	1	1	1	1			single eligible family	CAMBQF01
+Bacteria	CAMYKB01	1	1	1	1			single eligible family	CAMYKB01
+Bacteria	CAMYNG01	1	1	1	1			single eligible family	CAMYNG01
+Bacteria	CAMZNJ01	1	1	1	1			single eligible family	CAMZNJ01
+Bacteria	CASFRQ01	1	1	1	1			single eligible family	SAAU01
+Bacteria	CAUJGQ01	1	1	1	1			single eligible family	CAUJGQ01
+Bacteria	CAVPCR01	2	1	1	1	0.26236	0.45913	region medoids, farthest-first to per-order target	CAVPCR01
+Bacteria	CAVQYV01	1	1	1	1			single eligible family	CAVQYV01
+Bacteria	CAVSGV01	1	1	1	1			single eligible family	CAVSGV01
+Bacteria	CAVTAV01	1	1	1	1			single eligible family	CAVTAV01
+Bacteria	CAVWCF01	1	1	1	1			single eligible family	CAVWCF01
+Bacteria	CAVYTG01	1	1	1	1			single eligible family	CAVYTG01
+Bacteria	CAVZZX01	1	1	1	1			single eligible family	CAVZZX01
+Bacteria	CAWBKL01	1	1	1	1			single eligible family	CAWBKL01
+Bacteria	CAWCPV01	1	1	1	1			single eligible family	CAWCPV01
+Bacteria	CAWDCV01	1	1	1	1			single eligible family	CAWDCV01
+Bacteria	CAWHAG01	1	1	1	1			single eligible family	CAWHAG01
+Bacteria	CAWJOP01	1	1	1	1			single eligible family	CAWJOP01
+Bacteria	CAWJPQ01	1	1	1	1			single eligible family	CAWJPQ01
+Bacteria	CAWUKA01	1	1	1	1			single eligible family	CAWUKA01
+Bacteria	CAXEIY01	1	1	1	1			single eligible family	CAXEIY01
+Bacteria	CAXMRT01	1	1	1	1			single eligible family	CAXMRT01
+Bacteria	CAXTBU01	1	1	1	1			single eligible family	CAXTBU01
+Bacteria	CAYFLR01	1	1	1	1			single eligible family	CAYFLR01
+Bacteria	CAYFNG01	1	1	1	1			single eligible family	CAYFNG01
+Bacteria	CAYFQP01	1	1	1	1			single eligible family	CAYFQP01
+Bacteria	CAYFQT01	1	1	1	1			single eligible family	CAYFQT01
+Bacteria	CAYFSA01	1	1	1	1			single eligible family	CAYFSA01
+Bacteria	CAYFWJ01	1	1	1	1			single eligible family	CAYFWJ01
+Bacteria	CAYFWW01	1	1	1	1			single eligible family	CAYFWW01
+Bacteria	CAYGGE01	1	1	1	1			single eligible family	CAYGGE01
+Bacteria	CAYGIM01	1	1	1	1			single eligible family	CAYGIM01
+Bacteria	CAYGJW01	1	1	1	1			single eligible family	CAYGJW01
+Bacteria	CAYGKN01	1	1	1	1			single eligible family	CAYGKN01
+Bacteria	CAYGNG01	1	1	1	1			single eligible family	CAYGNG01
+Bacteria	CAYGWK01	1	1	1	1			single eligible family	CAYGWK01
+Bacteria	CAYGWX01	1	1	1	1			single eligible family	CAYGWX01
+Bacteria	CAYHGV01	2	1	1	1	0.23415	0.4097625	region medoids, farthest-first to per-order target	CAYHGV01
+Bacteria	CAYHOC01	1	1	1	1			single eligible family	CAYHOC01
+Bacteria	CAYHQZ01	1	1	1	1			single eligible family	CAYHQZ01
+Bacteria	CAYHRN01	1	1	1	1			single eligible family	CAYHRN01
+Bacteria	CAYHVQ01	1	1	1	1			single eligible family	CAYHVQ01
+Bacteria	CAYINU01	1	1	1	1			single eligible family	CAYINU01
+Bacteria	CAYJES01	1	1	1	1			single eligible family	CAYJES01
+Bacteria	CAYJOG01	1	1	1	1			single eligible family	CAYJOG01
+Bacteria	CAYJQE01	1	1	1	1			single eligible family	CAYJQE01
+Bacteria	CAYJRR01	1	1	1	1			single eligible family	CAYJRR01
+Bacteria	CAYLLE01	1	1	1	1			single eligible family	CAYLLE01
+Bacteria	CAYMEV01	1	1	1	1			single eligible family	CAYMEV01
+Bacteria	CAYMIK01	1	1	1	1			single eligible family	CAYMIK01
+Bacteria	CAYMKA01	1	1	1	1			single eligible family	CAYMKA01
+Bacteria	CAYMWF01	1	1	1	1			single eligible family	CAYMWF01
+Bacteria	CAYNBQ01	1	1	1	1			single eligible family	CAYNBQ01
+Bacteria	CAYNIS01	1	1	1	1			single eligible family	CAYNIS01
+Bacteria	CAYNKW01	1	1	1	1			single eligible family	CAYNKW01
+Bacteria	CAYNNN01	1	1	1	1			single eligible family	CAYNNN01
+Bacteria	CAYNSX01	1	1	1	1			single eligible family	CAYNSX01
+Bacteria	CAYNWW01	1	1	1	1			single eligible family	CAYNWW01
+Bacteria	CAYNYI01	1	1	1	1			single eligible family	CAYNYI01
+Bacteria	CAYPLH01	1	1	1	1			single eligible family	DUMO01
+Bacteria	CAYPZJ01	1	1	1	1			single eligible family	CAYPZJ01
+Bacteria	CAYQDX01	1	1	1	1			single eligible family	CAYQDX01
+Bacteria	CAYQLK01	1	1	1	1			single eligible family	CAYQLK01
+Bacteria	CAYQVA01	1	1	1	1			single eligible family	CAYQVA01
+Bacteria	CAYRKT01	1	1	1	1			single eligible family	CAYRKT01
+Bacteria	CAYRSW01	1	1	1	1			single eligible family	CAYRSW01
+Bacteria	CAYRYS01	1	1	1	1			single eligible family	CAYRYS01
+Bacteria	CAYSGV01	1	1	1	1			single eligible family	CAYSGV01
+Bacteria	CAYSOG01	1	1	1	1			single eligible family	CAYSOG01
+Bacteria	CAYSPT01	1	1	1	1			single eligible family	CAYSPT01
+Bacteria	CAYTQP01	3	1	1	1	0.27868	0.48769	region medoids, farthest-first to per-order target	CAYTQP01
+Bacteria	CAYTUN01	1	1	1	1			single eligible family	CAYTUN01
+Bacteria	CAYUCE01	1	1	1	1			single eligible family	CAYUCE01
+Bacteria	CAYUME01	1	1	1	1			single eligible family	CAYUME01
+Bacteria	CAYUUC01	1	1	1	1			single eligible family	CAYUUC01
+Bacteria	CAYUVA01	1	1	1	1			single eligible family	CAYUVA01
+Bacteria	CAYVEO01	1	1	1	1			single eligible family	CAYVEO01
+Bacteria	CAYVXU01	1	1	1	1			single eligible family	CAYVXU01
+Bacteria	CAYVZU01	1	1	1	1			single eligible family	CAYVZU01
+Bacteria	CAYWJS01	1	1	1	1			single eligible family	CAYWJS01
+Bacteria	CAYWKU01	1	1	1	1			single eligible family	CAYWKU01
+Bacteria	CAYWPX01	1	1	1	1			single eligible family	CAYWPX01
+Bacteria	CAYWTE01	1	1	1	1			single eligible family	CAYWTE01
+Bacteria	CAYWWW01	1	1	1	1			single eligible family	CAYWWW01
+Bacteria	CAYXHB01	2	1	1	1	0.46772	0.81851	region medoids, farthest-first to per-order target	CAYXHB01
+Bacteria	CAYXQY01	1	1	1	1			single eligible family	CAYXQY01
+Bacteria	CAYYAU01	1	1	1	1			single eligible family	CAYYAU01
+Bacteria	CAYYBZ01	1	1	1	1			single eligible family	CAYYBZ01
+Bacteria	CAYYDP01	1	1	1	1			single eligible family	CAYYDP01
+Bacteria	CAYYKQ01	1	1	1	1			single eligible family	CAYYKQ01
+Bacteria	CAYYXM01	1	1	1	1			single eligible family	CAYYXM01
+Bacteria	CAYZDG01	1	1	1	1			single eligible family	CAYZDG01
+Bacteria	CAYZDR01	1	1	1	1			single eligible family	CAYZDR01
+Bacteria	CAZAKE01	1	1	1	1			single eligible family	CAZAKE01
+Bacteria	CAZAMP01	1	1	1	1			single eligible family	CAZAMP01
+Bacteria	CAZBCL01	1	1	1	1			single eligible family	CAZBCL01
+Bacteria	CAZBFB01	1	1	1	1			single eligible family	CAZBFB01
+Bacteria	CAZBHR01	1	1	1	1			single eligible family	CAZBHR01
+Bacteria	CAZBND01	1	1	1	1			single eligible family	CAZBND01
+Bacteria	CAZBQI01	1	1	1	1			single eligible family	CAZBQI01
+Bacteria	CAZBRS01	1	1	1	1			single eligible family	CAZBRS01
+Bacteria	CAZCBM01	1	1	1	1			single eligible family	CAZCBM01
+Bacteria	CAZCGY01	1	1	1	1			single eligible family	CAZCGY01
+Bacteria	CAZCIQ01	1	1	1	1			single eligible family	CAZCIQ01
+Bacteria	CAZCOO01	1	1	1	1			single eligible family	CAZCOO01
+Bacteria	CAZCSM01	1	1	1	1			single eligible family	CAZCSM01
+Bacteria	CAZCTP01	1	1	1	1			single eligible family	CAZCTP01
+Bacteria	CAZCXK01	1	1	1	1			single eligible family	CAZCXK01
+Bacteria	CAZDOC01	1	1	1	1			single eligible family	CAZDOC01
+Bacteria	CAZDZC01	1	1	1	1			single eligible family	CAZDZC01
+Bacteria	CAZEKV01	1	1	1	1			single eligible family	CAZEKV01
+Bacteria	CAZEPH01	1	1	1	1			single eligible family	CAZEPH01
+Bacteria	CAZETR01	2	1	1	1	0.471	0.82425	region medoids, farthest-first to per-order target	Amesbacteraceae
+Bacteria	CAZFTP01	1	1	1	1			single eligible family	CAZFTP01
+Bacteria	CAZGCA01	1	1	1	1			single eligible family	CAZGCA01
+Bacteria	CAZGEP01	1	1	1	1			single eligible family	CAZGEP01
+Bacteria	CAZGFX01	1	1	1	1			single eligible family	CAZGFX01
+Bacteria	CAZGSV01	1	1	1	1			single eligible family	CAZGSV01
+Bacteria	CAZGTC01	1	1	1	1			single eligible family	CAZGTC01
+Bacteria	CAZHEV01	1	1	1	1			single eligible family	CAZHEV01
+Bacteria	CAZHKL01	1	1	1	1			single eligible family	CAZHKL01
+Bacteria	CAZHTB01	1	1	1	1			single eligible family	CAZHTB01
+Bacteria	CAZHVB01	1	1	1	1			single eligible family	CAZHVB01
+Bacteria	CAZHVX01	1	1	1	1			single eligible family	CAZHVX01
+Bacteria	CAZHWT01	1	1	1	1			single eligible family	CAZHWT01
+Bacteria	CAZICA01	1	1	1	1			single eligible family	CAZICA01
+Bacteria	CAZICC01	1	1	1	1			single eligible family	CAZICC01
+Bacteria	CAZIPW01	1	1	1	1			single eligible family	CAZIPW01
+Bacteria	CAZIXI01	1	1	1	1			single eligible family	CAZIXI01
+Bacteria	CAZJIT01	1	1	1	1			single eligible family	CAZJIT01
+Bacteria	CAZKOK01	1	1	1	1			single eligible family	CAZKOK01
+Bacteria	CAZKOU01	1	1	1	1			single eligible family	CAZKOU01
+Bacteria	CAZKTI01	1	1	1	1			single eligible family	CAZKTI01
+Bacteria	CAZMIB01	1	1	1	1			single eligible family	CAZMIB01
+Bacteria	CAZMKB01	2	1	1	1	0.30509	0.5339075	region medoids, farthest-first to per-order target	CAZMKB01
+Bacteria	CAZMTC01	1	1	1	1			single eligible family	CAZMTC01
+Bacteria	CAZPBH01	1	1	1	1			single eligible family	CAZPBH01
+Bacteria	CAZPDC01	1	1	1	1			single eligible family	CAZPDC01
+Bacteria	CAZPZF01	1	1	1	1			single eligible family	CAZPZF01
+Bacteria	CAZQCN01	1	1	1	1			single eligible family	CAZQCN01
+Bacteria	CAZQFB01	1	1	1	1			single eligible family	CAZQFB01
+Bacteria	CAZQQZ01	1	1	1	1			single eligible family	CAZQQZ01
+Bacteria	CAZRBL01	1	1	1	1			single eligible family	CAZRBL01
+Bacteria	CAZROX01	1	1	1	1			single eligible family	CAZROX01
+Bacteria	CAZSIG01	1	1	1	1			single eligible family	CAZSIG01
+Bacteria	CAZSQN01	1	1	1	1			single eligible family	CAZSQN01
+Bacteria	CAZSTA01	1	1	1	1			single eligible family	CAZSTA01
+Bacteria	CAZTEW01	1	1	1	1			single eligible family	CAZTEW01
+Bacteria	CAZTHU01	1	1	1	1			single eligible family	CAZTHU01
+Bacteria	CAZTSL01	1	1	1	1			single eligible family	CAZTSL01
+Bacteria	CAZTWC01	1	1	1	1			single eligible family	CAZTWC01
+Bacteria	CAZUMV01	1	1	1	1			single eligible family	CAZUMV01
+Bacteria	CAZUQH01	1	1	1	1			single eligible family	CAZUQH01
+Bacteria	CAZUUL01	1	1	1	1			single eligible family	CAZUUL01
+Bacteria	CAZVIU01	1	1	1	1			single eligible family	CAZVIU01
+Bacteria	CAZWAS01	1	1	1	1			single eligible family	CAZWAS01
+Bacteria	CAZWFP01	1	1	1	1			single eligible family	CAZWFP01
+Bacteria	CAZWXO01	1	1	1	1			single eligible family	CAZWXO01
+Bacteria	CAZXEC01	1	1	1	1			single eligible family	CAZXEC01
+Bacteria	CAZXKH01	1	1	1	1			single eligible family	CAZXKH01
+Bacteria	CAZXTJ01	1	1	1	1			single eligible family	CAYOHP01
+Bacteria	CAZYCO01	1	1	1	1			single eligible family	CAZYCO01
+Bacteria	CAZYHC01	1	1	1	1			single eligible family	CAZYHC01
+Bacteria	CAZYIF01	1	1	1	1			single eligible family	CAZYIF01
+Bacteria	CAZYLA01	1	1	1	1			single eligible family	CAZYLA01
+Bacteria	CAZYWQ01	1	1	1	1			single eligible family	CAZYWQ01
+Bacteria	CAZYYU01	1	1	1	1			single eligible family	CAZYYU01
+Bacteria	CAZZBO01	1	1	1	1			single eligible family	CAZZBO01
+Bacteria	CAZZFK01	1	1	1	1			single eligible family	CAZZFK01
+Bacteria	CAZZKF01	1	1	1	1			single eligible family	CAZZKF01
+Bacteria	CBCSKA01	1	1	1	1			single eligible family	CBCSKA01
+Bacteria	CBCXTS01	1	1	1	1			single eligible family	CBCXTS01
+Bacteria	CBDATW01	1	1	1	1			single eligible family	CBDATW01
+Bacteria	CBDBBL01	1	1	1	1			single eligible family	CBDBBL01
+Bacteria	CBDBCS01	1	1	1	1			single eligible family	CBDBCS01
+Bacteria	CBDBNL01	2	1	1	1	0.5252	0.9191	region medoids, farthest-first to per-order target	G965229495
+Bacteria	CBDCVA01	1	1	1	1			single eligible family	CBDCVA01
+Bacteria	CBDDJK01	1	1	1	1			single eligible family	CBDDJK01
+Bacteria	CBDDKY01	1	1	1	1			single eligible family	CBDDKY01
+Bacteria	CBDEFO01	1	1	1	1			single eligible family	CBDEFO01
+Bacteria	CBDEFV01	1	1	1	1			single eligible family	CBDEFV01
+Bacteria	CBDETP01	1	1	1	1			single eligible family	CBDETP01
+Bacteria	CBDUXP01	1	1	1	1			single eligible family	CBDUXP01
+Bacteria	CBDUYM01	1	1	1	1			single eligible family	CBDUYM01
+Bacteria	CBDUZE01	1	1	1	1			single eligible family	CBDUZE01
+Bacteria	CBDVAL01	1	1	1	1			single eligible family	CBDVAL01
+Bacteria	CBDVBD01	1	1	1	1			single eligible family	CBDVBD01
+Bacteria	CBDVDV01	1	1	1	1			single eligible family	CBDVDV01
+Bacteria	CBFCYW01	1	1	1	1			single eligible family	CBFCYW01
+Bacteria	CBFDCQ01	1	1	1	1			single eligible family	CBFDCQ01
+Bacteria	CF-121	1	1	1	1			single eligible family	CF-121
+Bacteria	CG03	1	1	1	1			single eligible family	CG03
+Bacteria	CG1-02-37-114	3	2	2	1	0.2751	0.481425	all region medoids + farthest-first family additions to per-order target	JAHJSO01;CG1-02-37-114
+Bacteria	CG1-02-64-396	1	1	1	1			single eligible family	CG1-02-64-396
+Bacteria	CG2-30-33-46	3	2	2	1	0.21788	0.38129	all region medoids + farthest-first family additions to per-order target	CAYZYZ01;CAZGIU01
+Bacteria	CG2-30-40-12	1	1	1	1			single eligible family	CG2-30-40-12
+Bacteria	CG2-30-40-21	2	1	1	1	0.28538	0.499415	region medoids, farthest-first to per-order target	CG2-30-40-21
+Bacteria	CG2-30-53-67	1	1	1	1			single eligible family	CG2-30-53-67
+Bacteria	CG2-30-54-11	1	1	1	1			single eligible family	CG2-30-54-11
+Bacteria	CG2-30-59-28	1	1	1	1			single eligible family	CG2-30-59-28
+Bacteria	CG2-30-64-16	1	1	1	1			single eligible family	CG2-30-64-16
+Bacteria	CG2-30-70-394	1	1	1	1			single eligible family	CG2-30-70-394
+Bacteria	CGMCC-115125	1	1	1	1			single eligible family	CGMCC-115125
+Bacteria	CLD3	1	1	1	1			single eligible family	CLD3
+Bacteria	COTS27	5	1	1	1	0.46226	0.808955	region medoids, farthest-first to per-order target	CBDBHE01
+Bacteria	CPR2	1	1	1	1			single eligible family	CPR2
+Bacteria	CPR3	2	1	1	1	0.41666	0.729155	region medoids, farthest-first to per-order target	GCA-002780085
+Bacteria	CSSED10-310	3	2	2	1	0.23809	0.4166575	all region medoids + farthest-first family additions to per-order target	CALFER01;JAFGJC01
+Bacteria	CTSoil-072	1	1	1	1			single eligible family	CTSoil-072
+Bacteria	Caedimonadales	4	2	2	1	0.251915	0.44085125	all region medoids + farthest-first family additions to per-order target	Caedimonadaceae;UBA9215
+Bacteria	Caenarcaniphilales	1	1	1	1			single eligible family	Caenarcanaceae
+Bacteria	Caldalkalibacillales	2	1	1	1	0.10527	0.1842225	region medoids, farthest-first to per-order target	Caldalkalibacillaceae
+Bacteria	Calderihabitantales	1	1	1	1			single eligible family	Calderihabitantaceae
+Bacteria	Caldicellulosiruptorales	1	1	1	1			single eligible family	Caldicellulosiruptoraceae
+Bacteria	Caldicoprobacterales	4	2	2	1	0.16515	0.2890125	all region medoids + farthest-first family additions to per-order target	UBA3941;DTU083
+Bacteria	Caldilineales	1	1	1	1			single eligible family	Caldilineaceae
+Bacteria	Caldisericales	1	1	1	1			single eligible family	Caldisericaceae
+Bacteria	Calditerricolales	1	1	1	1			single eligible family	Calditerricolaceae
+Bacteria	Calditrichales	4	1	1	1	0.14342	0.250985	region medoids, farthest-first to per-order target	JBFXGD01
+Bacteria	Calescibacteriales	1	1	1	1			single eligible family	Calescibacteriaceae
+Bacteria	Campylobacterales	25	9	9	8	0.20282	0.354935	all region medoids + farthest-first family additions to per-order target	JAADDG01;Hydrogenimonadaceae;JAABSR01;JAADDX01;Sulfurimonadaceae;SZUA-545;Arcobacteraceae;JAJVLF01;CAZXTK01
+Bacteria	Carboxydocellales	3	2	2	1	0.11881	0.2079175	all region medoids + farthest-first family additions to per-order target	JAJZTU01;Carboxydocellaceae
+Bacteria	Carboxydothermales	1	1	1	1			single eligible family	Carboxydothermaceae
+Bacteria	Cardiobacteriales	4	2	2	1	0.29638	0.518665	all region medoids + farthest-first family additions to per-order target	Wohlfahrtiimonadaceae;Cardiobacteriaceae
+Bacteria	Caulobacterales	6	4	4	1	0.26398	0.461965	all region medoids + farthest-first family additions to per-order target	Aquidulcibacteraceae;CAYPOX01;Maricaulaceae;Caulobacteraceae
+Bacteria	Ch115	2	1	1	1	0.15496	0.27118	region medoids, farthest-first to per-order target	Ch115
+Bacteria	Ch128b	1	1	1	1			single eligible family	Ch128b
+Bacteria	Ch29	1	1	1	1			single eligible family	Ch29
+Bacteria	Ch66	2	1	1	1	0.15519	0.2715825	region medoids, farthest-first to per-order target	Ch109
+Bacteria	Chitinivibrionales	8	5	5	2	0.25286	0.442505	all region medoids + farthest-first family additions to per-order target	CAYFVL01;Chitinivibrionaceae;CAIOZP01;WJKA01;Chitinispirillaceae
+Bacteria	Chitinophagales	25	9	9	2	0.27818	0.486815	all region medoids + farthest-first family additions to per-order target	JABDMM01;JANQFB01;Saprospiraceae;CAZIGO01;JAYVJZ01;JADJOU01;REEL01;JADIYW01;Chitinophagaceae
+Bacteria	Chlamydiales	45	12	12	7	0.31411	0.5496925	all region medoids + farthest-first family additions to per-order target	Simkaniaceae;RGXB01;Parachlamydiaceae;JAAZZY01;VFKH01;JAYUZV01;Parilichlamydiaceae;2-12-FULL-49-11;JAJACM01;Chlamydiaceae;JBMOFD01;JAAKFQ01
+Bacteria	Chloracidobacteriales	2	1	1	1	0.21938	0.383915	region medoids, farthest-first to per-order target	Chloracidobacteriaceae
+Bacteria	Chlorobiales	4	1	1	1	0.1824	0.3192	region medoids, farthest-first to per-order target	Chloroherpetonaceae
+Bacteria	Chloroflexales	4	1	1	1	0.244485	0.42784875	region medoids, farthest-first to per-order target	Chloroflexaceae
+Bacteria	Chloroheliales	1	1	1	1			single eligible family	Chloroheliaceae
+Bacteria	Christensenellales	41	12	12	4	0.30683	0.5369525	all region medoids + farthest-first family additions to per-order target	JBMNLC01;CALVMC01;HGM11417;UBA1242;WQRI01;DTU072;Pumilibacteraceae;QALW01;CALMFG01;CAG-1252;CALWSW01;JAISNN01
+Bacteria	Chromatiales	1	1	1	1			single eligible family	Chromatiaceae
+Bacteria	Chrysiogenales	1	1	1	1			single eligible family	Chrysiogenaceae
+Bacteria	Chthoniobacterales	16	7	7	2	0.19409	0.3396575	all region medoids + farthest-first family additions to per-order target	JAATET01;Chthoniobacteraceae;CALDSX01;JACTMZ01;CAZSPO01;SZAS-18;UBA6821
+Bacteria	Chthonomonadales	3	2	2	1	0.2783	0.487025	all region medoids + farthest-first family additions to per-order target	CAJBBX01;Chthonomonadaceae
+Bacteria	Cloacimonadales	12	6	6	2	0.248155	0.43427125	all region medoids + farthest-first family additions to per-order target	DAONDQ01;JAOZMQ01;PWNZ01;WRIO01;TCS61;JAFGVF01
+Bacteria	Clostridiales	3	1	1	1	0.2085	0.364875	region medoids, farthest-first to per-order target	Caloramatoraceae
+Bacteria	Comchoanobacterales	1	1	1	1			single eligible family	Comchoanobacteraceae
+Bacteria	Competibacterales	2	1	1	1	0.15177	0.2655975	region medoids, farthest-first to per-order target	Competibacteraceae
+Bacteria	Coprothermobacterales	2	1	1	1	0.56219	0.9838325	region medoids, farthest-first to per-order target	Coprothermobacteraceae
+Bacteria	Coriobacteriales	13	1	1	2	0.22817	0.3992975	region medoids, farthest-first to per-order target	RUG844
+Bacteria	Coxiellales	1	1	1	1			single eligible family	Coxiellaceae
+Bacteria	Cryosericales	1	1	1	1			single eligible family	Cryosericaceae
+Bacteria	Culicoidibacterales	3	2	2	1	0.24626	0.430955	all region medoids + farthest-first family additions to per-order target	ZOR0006;JBOFHN01
+Bacteria	Curtissbacterales	3	2	2	1	0.34668	0.60669	all region medoids + farthest-first family additions to per-order target	CAZCAY01;GWA2-41-24
+Bacteria	Cyanobacteriales	36	11	11	7	0.10357	0.1812475	all region medoids + farthest-first family additions to per-order target	JBFRWF01;Cyanobacteriaceae;Coleofasciculaceae;JAHHGU01;Rubidibacteraceae;PCC-9228;Chamaesiphonaceae;Geitlerinemataceae;Desertifilaceae;MRBY01;JAAUUE01
+Bacteria	Cytophagales	22	9	9	3	0.237425	0.41549375	all region medoids + farthest-first family additions to per-order target	JASGCU01;ES-bin-26;JAPOQI01;MED-G16;Amoebophilaceae;Bernardetiaceae;JAHDFW01;Flammeovirgaceae;JAAEPT01
+Bacteria	D2-FULL-39-29	3	2	2	1	0.23946	0.419055	all region medoids + farthest-first family additions to per-order target	JBDRBU01;D2-FULL-39-29
+Bacteria	DAHUYW01	1	1	1	1			single eligible family	DAHUYW01
+Bacteria	DAIDHW01	1	1	1	1			single eligible family	DAIDHW01
+Bacteria	DAONJL01	1	1	1	1			single eligible family	DAONJL01
+Bacteria	DAOPZR01	1	1	1	1			single eligible family	DAOPZR01
+Bacteria	DAOTYC01	1	1	1	1			single eligible family	DAOTYC01
+Bacteria	DAOUBH01	1	1	1	1			single eligible family	DAOUBH01
+Bacteria	DAOUPZ01	1	1	1	1			single eligible family	DAOUPZ01
+Bacteria	DAOVCL01	1	1	1	1			single eligible family	DAOVCL01
+Bacteria	DAOVJB01	1	1	1	1			single eligible family	DAOVJB01
+Bacteria	DAOVJZ01	1	1	1	1			single eligible family	DAOVJZ01
+Bacteria	DAOVKU01	1	1	1	1			single eligible family	DAOVKU01
+Bacteria	DAOVTB01	1	1	1	1			single eligible family	DAOVTB01
+Bacteria	DAOWDM01	1	1	1	1			single eligible family	DAOWDM01
+Bacteria	DAOWNY01	1	1	1	1			single eligible family	DAOWNY01
+Bacteria	DASRDY01	1	1	1	1			single eligible family	DASRDY01
+Bacteria	DASRZA01	1	1	1	1			single eligible family	DASRZA01
+Bacteria	DASVDK01	1	1	1	1			single eligible family	DASVDK01
+Bacteria	DASWHO01	1	1	1	1			single eligible family	DASWHO01
+Bacteria	DASWJH01	1	1	1	1			single eligible family	DASWJH01
+Bacteria	DASYRF01	1	1	1	1			single eligible family	DASYRF01
+Bacteria	DASZBR01	1	1	1	1			single eligible family	DASZBR01
+Bacteria	DASZGP01	1	1	1	1			single eligible family	DASZGP01
+Bacteria	DATBWZ01	1	1	1	1			single eligible family	DATBWZ01
+Bacteria	DATCLE01	1	1	1	1			single eligible family	DATCLE01
+Bacteria	DATCTW01	1	1	1	1			single eligible family	DATCTW01
+Bacteria	DATDPM01	1	1	1	1			single eligible family	DATDPM01
+Bacteria	DATDVM01	1	1	1	1			single eligible family	DATDVM01
+Bacteria	DATEAH01	2	1	1	1	0.53612	0.93821	region medoids, farthest-first to per-order target	CAYPSR01
+Bacteria	DATECO01	1	1	1	1			single eligible family	DATECO01
+Bacteria	DATFLG01	1	1	1	1			single eligible family	DATFLG01
+Bacteria	DATFLL01	1	1	1	1			single eligible family	DATFLL01
+Bacteria	DATGDX01	1	1	1	1			single eligible family	DATGDX01
+Bacteria	DATJPE01	1	1	1	1			single eligible family	DATJPE01
+Bacteria	DATKUA01	1	1	1	1			single eligible family	DATKUA01
+Bacteria	DATKVD01	2	1	1	1	0.32224	0.56392	region medoids, farthest-first to per-order target	CAZVTD01
+Bacteria	DATKYB01	1	1	1	1			single eligible family	DATKYB01
+Bacteria	DATLTG01	1	1	1	1			single eligible family	DATLTG01
+Bacteria	DATLTS01	1	1	1	1			single eligible family	DATLTS01
+Bacteria	DG-23	1	1	1	1			single eligible family	DG-23
+Bacteria	DG-27	1	1	1	1			single eligible family	DG-27
+Bacteria	DP-6	1	1	1	1			single eligible family	DP-6
+Bacteria	DRI-13	9	6	6	2	0.12055	0.2109625	all region medoids + farthest-first family additions to per-order target	DRI-13;UBA5745;DTU073;SM3-B62;SV3-B141;PHAD01
+Bacteria	DRJJ01	1	1	1	1			single eligible family	DRJJ01
+Bacteria	DRLM01	1	1	1	1			single eligible family	DRLM01
+Bacteria	DRVO01	1	1	1	1			single eligible family	DRVO01
+Bacteria	DRWM01	2	1	1	1	0.46104	0.80682	region medoids, farthest-first to per-order target	DRWM01
+Bacteria	DRYD01	1	1	1	1			single eligible family	DRYD01
+Bacteria	DSGV01	1	1	1	1			single eligible family	DSGV01
+Bacteria	DSLN01	1	1	1	1			single eligible family	DSLN01
+Bacteria	DSM-100275	1	1	1	1			single eligible family	DSM-100275
+Bacteria	DSM-13327	1	1	1	1			single eligible family	DSM-13327
+Bacteria	DSM-16000	1	1	1	1			single eligible family	Inquilinaceae
+Bacteria	DSM-16054	1	1	1	1			single eligible family	Sediminispirochaetaceae
+Bacteria	DSM-16500	1	1	1	1			single eligible family	DSM-16500
+Bacteria	DSM-1736	1	1	1	1			single eligible family	Dendrosporobacteraceae
+Bacteria	DSM-17781	1	1	1	1			single eligible family	DSM-17781
+Bacteria	DSM-19610	1	1	1	1			single eligible family	DSM-19610
+Bacteria	DSM-22679	1	1	1	1			single eligible family	DSM-22679
+Bacteria	DSM-2461	1	1	1	1			single eligible family	DSM-2461
+Bacteria	DSM-26407	1	1	1	1			single eligible family	DSM-26407
+Bacteria	DSM-27196	11	6	6	1	0.25469	0.4457075	all region medoids + farthest-first family additions to per-order target	PWMO01;CAZPXH01;Salinispiraceae;SKKC01;DSM-8902;SLST01
+Bacteria	DSM-5130	1	1	1	1			single eligible family	Acidihalobacteraceae
+Bacteria	DSM-8532	3	2	2	1	0.17097	0.2991975	all region medoids + farthest-first family additions to per-order target	CAYYEC01;DSM-8532
+Bacteria	DSPP01	2	1	1	1	0.30673	0.5367775	region medoids, farthest-first to per-order target	DSPP01
+Bacteria	DSSB01	2	1	1	1	0.24537	0.4293975	region medoids, farthest-first to per-order target	DSSB01
+Bacteria	DSTF01	5	1	1	1	0.23735	0.4153625	region medoids, farthest-first to per-order target	CAZFGZ01
+Bacteria	DSUL01	1	1	1	1			single eligible family	DSUL01
+Bacteria	DSUN01	1	1	1	1			single eligible family	DSUN01
+Bacteria	DSWW01	1	1	1	1			single eligible family	DSWW01
+Bacteria	DT-38	1	1	1	1			single eligible family	DT-38
+Bacteria	DTEH01	1	1	1	1			single eligible family	DTEH01
+Bacteria	DTGP01	4	1	1	1	0.26593	0.4653775	region medoids, farthest-first to per-order target	JBMFPP01
+Bacteria	DTGQ01	3	2	2	1	0.242	0.4235	all region medoids + farthest-first family additions to per-order target	JAFGSM01;DTGQ01
+Bacteria	DTHP01	1	1	1	1			single eligible family	DTHP01
+Bacteria	DTJE01	2	1	1	1	0.4062	0.71085	region medoids, farthest-first to per-order target	DTJE01
+Bacteria	DTJY01	1	1	1	1			single eligible family	DTJY01
+Bacteria	DTKN01	1	1	1	1			single eligible family	DTKN01
+Bacteria	DTKZ01	1	1	1	1			single eligible family	DTKZ01
+Bacteria	DTLA01	1	1	1	1			single eligible family	DTLA01
+Bacteria	DTOL01	2	1	1	1	0.2468	0.4319	region medoids, farthest-first to per-order target	DAOUCN01
+Bacteria	DTOW01	1	1	1	1			single eligible family	DTOW01
+Bacteria	DTPJ01	1	1	1	1			single eligible family	WJIO01
+Bacteria	DTPP01	1	1	1	1			single eligible family	DTPP01
+Bacteria	DTRM01	1	1	1	1			single eligible family	DTRM01
+Bacteria	DTU014	1	1	1	1			single eligible family	DTU014
+Bacteria	DTU022	5	3	3	1	0.21967	0.3844225	all region medoids + farthest-first family additions to per-order target	JAAZDR01;PWGO01;UBA8154
+Bacteria	DTU025	4	2	2	2	0.18557	0.3247475	region medoids, farthest-first to per-order target	MWDF01;JANLFS01
+Bacteria	DTU030	2	1	1	1	0.1166	0.20405	region medoids, farthest-first to per-order target	DTU030
+Bacteria	DTU065	1	1	1	1			single eligible family	DTU065
+Bacteria	DTU080	3	2	2	1	0.2435	0.426125	all region medoids + farthest-first family additions to per-order target	RSA5;DTU080
+Bacteria	DTU084	1	1	1	1			single eligible family	DTU084
+Bacteria	DTU086	1	1	1	1			single eligible family	DTU086
+Bacteria	DTU087	2	1	1	1	0.20954	0.366695	region medoids, farthest-first to per-order target	DTU087
+Bacteria	DTXE01	1	1	1	1			single eligible family	DTXE01
+Bacteria	DUEN01	1	1	1	1			single eligible family	DUEN01
+Bacteria	DULZ01	1	1	1	1			single eligible family	DULZ01
+Bacteria	DUMD01	1	1	1	1			single eligible family	DUMD01
+Bacteria	DUMF01	1	1	1	1			single eligible family	DUMF01
+Bacteria	DUMJ01	1	1	1	1			single eligible family	DUMJ01
+Bacteria	DUMP01	1	1	1	1			single eligible family	DUMP01
+Bacteria	DUMW01	1	1	1	1			single eligible family	DUMW01
+Bacteria	DUOD01	1	1	1	1			single eligible family	DUOD01
+Bacteria	DUOV01	1	1	1	1			single eligible family	Zhaonellaceae
+Bacteria	DUPQ01	1	1	1	1			single eligible family	DUPQ01
+Bacteria	DUSP01	3	2	2	1	0.21904	0.38332	all region medoids + farthest-first family additions to per-order target	DYEP01;DUSP01
+Bacteria	DVGY01	1	1	1	1			single eligible family	DVGY01
+Bacteria	DY22613	1	1	1	1			single eligible family	DY22613
+Bacteria	DYFA01	1	1	1	1			single eligible family	DYFA01
+Bacteria	DYFQ01	1	1	1	1			single eligible family	DYFQ01
+Bacteria	DYGC01	1	1	1	1			single eligible family	DYGC01
+Bacteria	DYHP01	1	1	1	1			single eligible family	DYHP01
+Bacteria	DYIH01	3	2	2	1	0.13956	0.24423	all region medoids + farthest-first family additions to per-order target	JBBITQ01;JBBIPI01
+Bacteria	DYIV01	1	1	1	1			single eligible family	DYIV01
+Bacteria	DYJS01	2	1	1	1	0.73541	1.2869675	region medoids, farthest-first to per-order target	CAYMEI01
+Bacteria	DYJV01	2	1	1	1	0.20939	0.3664325	region medoids, farthest-first to per-order target	DYJV01
+Bacteria	DYKD01	1	1	1	1			single eligible family	DYKD01
+Bacteria	DYNZ01	1	1	1	1			single eligible family	DYNZ01
+Bacteria	Darwinibacteriales	5	3	3	1	0.17798	0.311465	all region medoids + farthest-first family additions to per-order target	JAAYFS01;SLO01;B1SED10-159
+Bacteria	Daviesbacterales	1	1	1	1			single eligible family	UBA10151
+Bacteria	Deferribacterales	8	5	5	2	0.229605	0.40180875	all region medoids + farthest-first family additions to per-order target	JAISNW01;Deferribacteraceae;Mucispirillaceae;UBA228;Geovibrionaceae
+Bacteria	Deferrimicrobiales	1	1	1	1			single eligible family	Deferrimicrobiaceae
+Bacteria	Deferrisomatales	3	2	2	1	0.17584	0.30772	all region medoids + farthest-first family additions to per-order target	Deferrisomataceae;BM512
+Bacteria	Dehalobacteriales	1	1	1	1			single eligible family	Dehalobacteriaceae
+Bacteria	Dehalococcoidales	39	11	11	13	0.1456	0.2548	region medoids, farthest-first to per-order target	UBA4087;SURF-40;Dehalococcoidaceae;JACPPQ01;CSSed11-197;JAUXAE01;UBA1222;W111;Fen-1064;JAQTRN01;JACQON01
+Bacteria	Deinococcales	5	3	3	1	0.27341	0.4784675	all region medoids + farthest-first family additions to per-order target	Marinithermaceae;Trueperaceae;Deinococcaceae
+Bacteria	Desulfarculales	2	1	1	1	0.3103	0.543025	region medoids, farthest-first to per-order target	Desulfarculaceae
+Bacteria	Desulfatiglandales	6	4	4	1	0.25253	0.4419275	all region medoids + farthest-first family additions to per-order target	HGW-15;CALKZT01;B25-G16;JALVZP01
+Bacteria	Desulfitibacterales	2	1	1	1	0.15998	0.279965	region medoids, farthest-first to per-order target	Desulfitibacteraceae
+Bacteria	Desulfitisporales	2	1	1	1	0.12944	0.22652	region medoids, farthest-first to per-order target	Desulfitisporaceae
+Bacteria	Desulfitobacteriales	3	1	1	1	0.15884	0.27797	region medoids, farthest-first to per-order target	Desulfitobacteriaceae
+Bacteria	Desulfobaccales	2	1	1	1	0.20003	0.3500525	region medoids, farthest-first to per-order target	0-14-0-80-60-11
+Bacteria	Desulfobacterales	75	16	16	10	0.16794	0.293895	all region medoids + farthest-first family additions to per-order target	DTYH01;Desulfatibacillaceae;JANQIE01;JAUVVS01;DYRK01;ASO4-4;Desulfolunaceae;JAFDMD01;JAFDHS01;G963662235;Magnetomoraceae;Desulfobacteraceae;Desulfosalsimonadaceae;Desulfosudaceae;JACKCP01;QNYZ01
+Bacteria	Desulfobulbales	15	7	7	2	0.17053	0.2984275	all region medoids + farthest-first family additions to per-order target	JAHJIY01;JBFMBH01;Desulfocapsaceae;DAOVYS01;VMSU01;BM004;S012-135
+Bacteria	Desulfocorpusculum	1	1	1	1			single eligible family	Desulfocorpusculum
+Bacteria	Desulfofervidales	2	1	1	1	0.17805	0.3115875	region medoids, farthest-first to per-order target	DG-60
+Bacteria	Desulfomonilales	1	1	1	1			single eligible family	Desulfomonilaceae
+Bacteria	Desulfotomaculales	19	8	8	3	0.15442	0.270235	all region medoids + farthest-first family additions to per-order target	JACDOK01;Desulfovirgulaceae;CAZKPV01;JAJYZD01;DYER01;Ammonificaceae;Desulfohalotomaculaceae;JAGUVT01
+Bacteria	Desulfovibrionales	8	5	5	1	0.19351	0.3386425	all region medoids + farthest-first family additions to per-order target	Desulfonatronovibrionaceae;Desulfothermaceae;Desulfovibrionaceae;Desulfonatronaceae;Desulfohalobiaceae
+Bacteria	Desulfurellales	3	1	1	1	0.25525	0.4466875	region medoids, farthest-first to per-order target	Hippeaceae
+Bacteria	Desulfuribacillales	1	1	1	1			single eligible family	Desulfuribacillaceae
+Bacteria	Desulfurobacteriales	2	1	1	1	0.35235	0.6166125	region medoids, farthest-first to per-order target	DQVG01
+Bacteria	Desulfuromonadales	25	9	9	4	0.11011	0.1926925	all region medoids + farthest-first family additions to per-order target	NIT-T3;DASPGW01;UBA2197;JAAYDE01;Geopsychrobacteraceae;JAAXQG01;BM103;Desulfuromonadaceae;Geothermobacteraceae
+Bacteria	Dethiobacterales	1	1	1	1			single eligible family	Dethiobacteraceae
+Bacteria	Dictyoglomales	1	1	1	1			single eligible family	Dictyoglomaceae
+Bacteria	Diplorickettsiales	1	1	1	1			single eligible family	Diplorickettsiaceae
+Bacteria	Dissulfuribacterales	11	6	6	2	0.18493	0.3236275	all region medoids + farthest-first family additions to per-order target	S140-46;DYOW01;DYLC01;UBA5754;Dissulfuribacteraceae;Sh68
+Bacteria	Dongiales	1	1	1	1			single eligible family	Dongiaceae
+Bacteria	Dormibacterales	1	1	1	1			single eligible family	Dormibacteraceae
+Bacteria	Duberdicusellales	3	1	1	1	0.39473	0.6907775	region medoids, farthest-first to per-order target	Duberdicusellaceae
+Bacteria	E26-bin7	1	1	1	1			single eligible family	E26-bin7
+Bacteria	E44-bin15	2	1	1	1	0.18316	0.32053	region medoids, farthest-first to per-order target	DAOWNJ01
+Bacteria	E44-bin18	2	1	1	1	0.32155	0.5627125	region medoids, farthest-first to per-order target	E44-bin18
+Bacteria	E44-bin39	1	1	1	1			single eligible family	E44-bin39
+Bacteria	E44-bin80	1	1	1	1			single eligible family	E44-bin80
+Bacteria	Ectothiorhodospirales	1	1	1	1			single eligible family	Ectothiorhodospiraceae
+Bacteria	Elainellales	1	1	1	1			single eligible family	Elainellaceae
+Bacteria	Electryoneales	1	1	1	1			single eligible family	Electryoneaceae
+Bacteria	Elsterales	1	1	1	1			single eligible family	Elsteraceae
+Bacteria	Elusimicrobiales	3	1	1	1	0.32756	0.57323	region medoids, farthest-first to per-order target	CAZFMJ01
+Bacteria	Endomicrobiales	9	5	5	2	0.20614	0.360745	all region medoids + farthest-first family additions to per-order target	XYA2-FULL-47-53;Endomicrobiaceae;JAPLKN01;JALOBY01;JBDRNC01
+Bacteria	Enterobacterales	31	10	10	10	0.1387	0.242725	region medoids, farthest-first to per-order target	Enterobacteriaceae_A;GCA-2746155;Psittacicellaceae;Succinivibrionaceae;G022558485;JAWXTV01;Enterobacteriaceae;Pelagibaculaceae;Permianibacteraceae;CBDFNC01
+Bacteria	Entotheonellales	1	1	1	1			single eligible family	Entotheonellaceae
+Bacteria	Epilineales	5	1	1	2	0.2639	0.461825	region medoids, farthest-first to per-order target	JBBITV01
+Bacteria	Eremiobacterales	1	1	1	1			single eligible family	Eremiobacteraceae
+Bacteria	Erginobacterales	4	3	3	1	0.321925	0.56336875	all region medoids + farthest-first family additions to per-order target	Erginobacteraceae;PUNC01;CAZKCI01
+Bacteria	Erysipelotrichales	3	1	1	1	0.28465	0.4981375	region medoids, farthest-first to per-order target	CAZWEF01
+Bacteria	Eubacteriales	5	3	3	1	0.26004	0.45507	all region medoids + farthest-first family additions to per-order target	Alkalibacteraceae;Anaerofustaceae;UBA1433
+Bacteria	Eutrophobiales	1	1	1	1			single eligible family	Eutrophobiaceae
+Bacteria	Euzebyales	3	2	2	1	0.20771	0.3634925	all region medoids + farthest-first family additions to per-order target	Egibacteraceae;Euzebyaceae
+Bacteria	Exiguobacteriales	1	1	1	1			single eligible family	Exiguobacteriaceae
+Bacteria	F11	1	1	1	1			single eligible family	F11
+Bacteria	FACHB-261	1	1	1	1			single eligible family	FACHB-261
+Bacteria	FACHB-46	1	1	1	1			single eligible family	FACHB-46
+Bacteria	FEN-1173	2	1	1	1	0.23302	0.407785	region medoids, farthest-first to per-order target	FEN-1173
+Bacteria	FEN-1346	2	1	1	1	0.38368	0.67144	region medoids, farthest-first to per-order target	FEN-1346
+Bacteria	FLKF01	1	1	1	1			single eligible family	FLKF01
+Bacteria	FW602-bin22	8	4	4	1	0.290915	0.50910125	all region medoids + farthest-first family additions to per-order target	JACPRP01;FW602-bin22;CADDYW01;JACQUS01
+Bacteria	Fen-1058	1	1	1	1			single eligible family	Fen-1058
+Bacteria	Fen-1088	1	1	1	1			single eligible family	Fen-1088
+Bacteria	Fen-336	3	1	1	1	0.19248	0.33684	region medoids, farthest-first to per-order target	CBDFGD01
+Bacteria	Fen-727	4	1	1	1	0.19135	0.3348625	region medoids, farthest-first to per-order target	JACVIW01
+Bacteria	Fermentibacterales	3	1	1	1	0.29817	0.5217975	region medoids, farthest-first to per-order target	JCC-6
+Bacteria	Fermentithermobacillales	2	1	1	1	0.19284	0.33747	region medoids, farthest-first to per-order target	DUSS01
+Bacteria	Ferrovibrionales	1	1	1	1			single eligible family	Ferrovibrionaceae
+Bacteria	Fervidibacterales	2	1	1	1	0.38133	0.6673275	region medoids, farthest-first to per-order target	Fervidibacteraceae
+Bacteria	Fibrobacterales	4	3	3	1	0.31281	0.5474175	all region medoids + farthest-first family additions to per-order target	CAWVXU01;Fibrobacteraceae;CADBQJ01
+Bacteria	Fidelibacterales	2	1	1	1	0.27798	0.486465	region medoids, farthest-first to per-order target	DSDE01
+Bacteria	Fimbriimonadales	5	1	1	1	0.40212	0.70371	region medoids, farthest-first to per-order target	JBAXQP01
+Bacteria	Flavobacteriales	16	7	7	3	0.22798	0.398965	all region medoids + farthest-first family additions to per-order target	JADGDT01;JBLHRE01;TMED113;Blattabacteriaceae;BACL11;JANQLC01;Weeksellaceae
+Bacteria	Flavobacteriales_C	2	1	1	1	0.23787	0.4162725	region medoids, farthest-first to per-order target	CBFIFL01
+Bacteria	Flavobacteriales_D	15	7	7	1	0.21316	0.37303	all region medoids + farthest-first family additions to per-order target	CALLUQ01;CAJJDF01;CAZDUI01;Cryomorphaceae;JABDKJ01;Crocinitomicaceae;UBA2798
+Bacteria	Flavobacteriales_E	1	1	1	1			single eligible family	Vicingaceae
+Bacteria	Flavobacteriales_F	1	1	1	1			single eligible family	PHOS-HE28
+Bacteria	Flavobacteriales_G	3	2	2	1	0.21527	0.3767225	all region medoids + farthest-first family additions to per-order target	NORP312;JALEGO01
+Bacteria	Flavobacteriales_H	3	1	1	1	0.19486	0.341005	region medoids, farthest-first to per-order target	GCA-2746335
+Bacteria	Francisellales	2	1	1	1	0.26024	0.45542	region medoids, farthest-first to per-order target	CACEW01
+Bacteria	Frankiales	1	1	1	1			single eligible family	Frankiaceae
+Bacteria	Fusobacteriales	5	3	3	1	0.24006	0.420105	all region medoids + farthest-first family additions to per-order target	Haliovirgaceae;Leptotrichiaceae;Fusobacteriaceae
+Bacteria	Futianiales	1	1	1	1			single eligible family	Futianiaceae
+Bacteria	G020345765	1	1	1	1			single eligible family	G020345765
+Bacteria	G020348925	1	1	1	1			single eligible family	G020348925
+Bacteria	G020349025	1	1	1	1			single eligible family	G020349025
+Bacteria	G020349885	1	1	1	1			single eligible family	G020349885
+Bacteria	G022571365	1	1	1	1			single eligible family	G022571365
+Bacteria	G022818785	1	1	1	1			single eligible family	G022818785
+Bacteria	G02398745	1	1	1	1			single eligible family	G023898745
+Bacteria	G963455285	1	1	1	1			single eligible family	G963455285
+Bacteria	G963662305	1	1	1	1			single eligible family	G963662305
+Bacteria	G963663305	1	1	1	1			single eligible family	G963663305
+Bacteria	G963667145	1	1	1	1			single eligible family	G963667145
+Bacteria	G963692905	1	1	1	1			single eligible family	G963692905
+Bacteria	G963923945	1	1	1	1			single eligible family	G963923945
+Bacteria	G965209235	1	1	1	1			single eligible family	G965209235
+Bacteria	G965218375	1	1	1	1			single eligible family	G965218375
+Bacteria	G965222575	1	1	1	1			single eligible family	G965222575
+Bacteria	G965277405	1	1	1	1			single eligible family	G965277405
+Bacteria	GBS-1	1	1	1	1			single eligible family	GBS-1
+Bacteria	GCA-001730085	1	1	1	1			single eligible family	GCA-001730085
+Bacteria	GCA-001735895	1	1	1	1			single eligible family	GCA-001735895
+Bacteria	GCA-001788215	1	1	1	1			single eligible family	2-01-FULL-40-14
+Bacteria	GCA-002687715	4	3	3	1	0.40253	0.7044275	all region medoids + farthest-first family additions to per-order target	CAIWVZ01;DRQF01;CAYQRN01
+Bacteria	GCA-002705445	1	1	1	1			single eligible family	GCA-002716945
+Bacteria	GCA-002772825	1	1	1	1			single eligible family	GCA-002772825
+Bacteria	GCA-002772895	1	1	1	1			single eligible family	GCA-002772895
+Bacteria	GCA-002779875	1	1	1	1			single eligible family	GCA-002779875
+Bacteria	GCA-00278855	1	1	1	1			single eligible family	GCA-00278855
+Bacteria	GCA-002793355	1	1	1	1			single eligible family	GCA-002793355
+Bacteria	GCA-002796325	4	2	2	1	0.295385	0.51692375	all region medoids + farthest-first family additions to per-order target	JACPFF01;CAYWXY01
+Bacteria	GCA-013348725	1	1	1	1			single eligible family	GCA-013348725
+Bacteria	GCA-013414725	1	1	1	1			single eligible family	GCA-013414725
+Bacteria	GCA-016699305	1	1	1	1			single eligible family	GCA-016699305
+Bacteria	GCA-016699595	2	1	1	1	0.52306	0.915355	region medoids, farthest-first to per-order target	GCA-016699595
+Bacteria	GCA-020354555	1	1	1	1			single eligible family	CP070648
+Bacteria	GCA-2400775	1	1	1	1			single eligible family	GCA-2400775
+Bacteria	GCA-2401425	2	1	1	1	0.4173	0.730275	region medoids, farthest-first to per-order target	GCA-2401425
+Bacteria	GCA-2686955	1	1	1	1			single eligible family	GCA-2686955
+Bacteria	GCA-2687025	1	1	1	1			single eligible family	GCA-2687025
+Bacteria	GCA-2716485	4	2	2	1	0.31956	0.55923	all region medoids + farthest-first family additions to per-order target	CALLLO01;JAYNIM01
+Bacteria	GCA-2721365	1	1	1	1			single eligible family	GCA-2721365
+Bacteria	GCA-2731375	1	1	1	1			single eligible family	GCA-2731375
+Bacteria	GCA-2746255	1	1	1	1			single eligible family	GCA-2746255
+Bacteria	GCA-2746535	1	1	1	1			single eligible family	GCA-2746535
+Bacteria	GCA-2747355	3	2	2	1	0.21777	0.3810975	all region medoids + farthest-first family additions to per-order target	JADLHG01;CAZCFB01
+Bacteria	GCA-2792135	1	1	1	1			single eligible family	GCA-2792135
+Bacteria	GCA-2863065	1	1	1	1			single eligible family	GCA-2863065
+Bacteria	GCF-001939115	1	1	1	1			single eligible family	GCF-001939115
+Bacteria	GCF-002020875	1	1	1	1			single eligible family	GCF-002020875
+Bacteria	GCF-013343005	1	1	1	1			single eligible family	GCF-013343005
+Bacteria	GIF9	5	1	1	2	0.20447	0.3578225	region medoids, farthest-first to per-order target	DYGU01
+Bacteria	GM7ARS4	3	2	2	1	0.42332	0.74081	all region medoids + farthest-first family additions to per-order target	GM7ARS4;G965262615
+Bacteria	GN15	4	2	2	1	0.283755	0.49657125	all region medoids + farthest-first family additions to per-order target	PGXB01;JACZUZ01
+Bacteria	GRL18	1	1	1	1			single eligible family	GRL18
+Bacteria	GWA2-35-9	5	1	1	1	0.55807	0.9766225	region medoids, farthest-first to per-order target	JBASTP01
+Bacteria	GWA2-38-11	2	1	1	1	0.22683	0.3969525	region medoids, farthest-first to per-order target	GWA2-38-11
+Bacteria	GWA2-38-13b	1	1	1	1			single eligible family	GWA2-38-13b
+Bacteria	GWA2-44-7	1	1	1	1			single eligible family	GWA2-44-7
+Bacteria	GWA2-46-9	1	1	1	1			single eligible family	GWA2-46-9
+Bacteria	GWA2-47-26	1	1	1	1			single eligible family	GWA2-47-26
+Bacteria	GWA2-58-10	1	1	1	1			single eligible family	GWA2-58-10
+Bacteria	GWB1-36-13	2	1	1	1	0.29501	0.5162675	region medoids, farthest-first to per-order target	GWB1-36-13
+Bacteria	GWC2-36-17	5	3	3	1	0.45147	0.7900725	all region medoids + farthest-first family additions to per-order target	WO2-46-25;JACQAJ01;CAYHJU01
+Bacteria	GWC2-55-46	8	5	5	1	0.17632	0.30856	all region medoids + farthest-first family additions to per-order target	S146-73;GWC2-55-46;JAJCZF01;JAUVFY01;JBHHVK01
+Bacteria	GWE2-31-10	4	2	2	1	0.300475	0.52583125	all region medoids + farthest-first family additions to per-order target	MWDO01;JAFGQB01
+Bacteria	GWF2-35-9	3	1	1	1	0.27683	0.4844525	region medoids, farthest-first to per-order target	GWF2-35-9
+Bacteria	GWF2-39-127	1	1	1	1			single eligible family	GWF2-39-127
+Bacteria	Ga0077536	1	1	1	1			single eligible family	Ga0077536
+Bacteria	Ga0077554	1	1	1	1			single eligible family	Ga007554
+Bacteria	Gaiellales	5	1	1	1	0.34985	0.6122375	region medoids, farthest-first to per-order target	JAICJC01
+Bacteria	Gastranaerophilales	8	5	5	2	0.162455	0.28429625	all region medoids + farthest-first family additions to per-order target	UBA9579;CAJFVJ01;Gastranaerophilaceae;JAILCC01;UBA9971
+Bacteria	Geminicoccales	1	1	1	1			single eligible family	Geminicoccaceae
+Bacteria	Gemmatales	2	1	1	1	0.28123	0.4921525	region medoids, farthest-first to per-order target	Gemmataceae
+Bacteria	Gemmatimonadales	3	1	1	1	0.26689	0.4670575	region medoids, farthest-first to per-order target	JACORV01
+Bacteria	Geobacterales	5	1	1	1	0.09677	0.1693475	region medoids, farthest-first to per-order target	JAJYBI01
+Bacteria	Geothermincolales	3	2	2	1	0.20641	0.3612175	all region medoids + farthest-first family additions to per-order target	Geothermincolaceae;JAHEXQ01
+Bacteria	Geothermocultorales	1	1	1	1			single eligible family	Geothermocultoraceae
+Bacteria	Ghiorseimicrobiales	1	1	1	1			single eligible family	Ghiorseimicrobiaceae
+Bacteria	Gloeobacterales	3	2	2	1	0.20597	0.3604475	all region medoids + farthest-first family additions to per-order target	PMM-0068;Gloeobacteraceae
+Bacteria	Gloeomargaritales	1	1	1	1			single eligible family	Gloeomargaritaceae
+Bacteria	Gorgyraeales	2	1	1	1	0.22407	0.3921225	region medoids, farthest-first to per-order target	Gorgyraeaceae
+Bacteria	Gp22-AA2	2	1	1	1	0.2445	0.427875	region medoids, farthest-first to per-order target	AA152
+Bacteria	Gp7-AA8	2	1	1	1	0.14745	0.2580375	region medoids, farthest-first to per-order target	Gp7-AA8
+Bacteria	Granulosicoccales	1	1	1	1			single eligible family	Granulosicoccaceae
+Bacteria	Guanabaribacteriales	3	1	1	1	0.23252	0.40691	region medoids, farthest-first to per-order target	CAZYAF01
+Bacteria	Gygaellales	9	5	5	1	0.28745	0.5030375	all region medoids + farthest-first family additions to per-order target	JAMWDD01;UBA2593;Gygaellaceae;JBFMHM01;JAHJCI01
+Bacteria	H5-PLA8	2	1	1	1	0.41127	0.7197225	region medoids, farthest-first to per-order target	CALKMO01
+Bacteria	H5-UNCL2	1	1	1	1			single eligible family	H5-UNCL2
+Bacteria	HDB-SIOI813	1	1	1	1			single eligible family	HDB-SIOI813
+Bacteria	HGM11327	1	1	1	1			single eligible family	HGM11327
+Bacteria	HGM11514	1	1	1	1			single eligible family	HGM11514
+Bacteria	HGW-17	4	2	2	1	0.34526	0.604205	all region medoids + farthest-first family additions to per-order target	SLPX01;HGW-17
+Bacteria	HIGHO2-12-38-15	1	1	1	1			single eligible family	HIGHO2-12-38-15
+Bacteria	HIMB59	2	1	1	1	0.46482	0.813435	region medoids, farthest-first to per-order target	GCA-002718135
+Bacteria	HK-STAS-PATE-3	1	1	1	1			single eligible family	HK-STAS-PATE-3
+Bacteria	HK1	1	1	1	1			single eligible family	HK1
+Bacteria	HKB111	1	1	1	1			single eligible family	HKB111
+Bacteria	HO2-45-28	1	1	1	1			single eligible family	HO2-45-28
+Bacteria	HO2-48-17	1	1	1	1			single eligible family	HO2-48-17
+Bacteria	HR10	2	1	1	1	0.17947	0.3140725	region medoids, farthest-first to per-order target	HR10
+Bacteria	HRBIN11	1	1	1	1			single eligible family	HRBIN11
+Bacteria	HRBIN16	1	1	1	1			single eligible family	HRBIN16
+Bacteria	HRBIN30	4	3	3	1	0.18247	0.3193225	all region medoids + farthest-first family additions to per-order target	JACQVA1;BPIQ01;CADEER01
+Bacteria	HTCC5015	1	1	1	1			single eligible family	HTCC5015
+Bacteria	Hakubellales	1	1	1	1			single eligible family	Hakubellaceae
+Bacteria	Halanaerobiales	8	4	4	1	0.159645	0.27937875	all region medoids + farthest-first family additions to per-order target	DTU029;Halarsenatibacteraceae;M55B127;DATFIM01
+Bacteria	Haliangiales	4	2	2	1	0.255965	0.44793875	all region medoids + farthest-first family additions to per-order target	J016;JADYYK01
+Bacteria	Halobacteroidales	2	1	1	1	0.16549	0.2896075	region medoids, farthest-first to per-order target	Acetohalobiaceae
+Bacteria	Haloplasmatales	1	1	1	1			single eligible family	Haloplasmataceae
+Bacteria	Halothiobacillales	1	1	1	1			single eligible family	Halothiobacillaceae
+Bacteria	Hatepunaeales	1	1	1	1			single eligible family	Hatepunaeaceae
+Bacteria	Hebobacterales	2	1	1	1	0.36417	0.6372975	region medoids, farthest-first to per-order target	Hebobacteraceae
+Bacteria	Heliobacteriales	1	1	1	1			single eligible family	Heliobacteriaceae
+Bacteria	Hinthialibacterales	3	2	2	1	0.34553	0.6046775	all region medoids + farthest-first family additions to per-order target	Hinthialibacteraceae;JAKPRU01
+Bacteria	Holophagales	1	1	1	1			single eligible family	Holophagaceae
+Bacteria	Holosporales	5	3	3	2	0.36799	0.6439825	all region medoids + farthest-first family additions to per-order target	CAZGKG01;GW7;Holosporaceae
+Bacteria	Humimicrobiales	1	1	1	1			single eligible family	Humimicrobiaceae
+Bacteria	HyVt-429	1	1	1	1			single eligible family	HyVt-429
+Bacteria	Hydrogenedentales	13	5	5	3	0.18023	0.3154025	all region medoids + farthest-first family additions to per-order target	SLHB01;G963678445;Hydrogenedentaceae;CAZLBS01;GCA-2746185
+Bacteria	Hydrothermales	2	1	1	1	0.34517	0.6040475	region medoids, farthest-first to per-order target	Hydrothermaceae
+Bacteria	ICN-92133	1	1	1	1			single eligible family	ICN-92133
+Bacteria	IMCC26256	22	9	9	4	0.18741	0.3279675	all region medoids + farthest-first family additions to per-order target	BP-133;JBBRZM01;Chersky-534;JAGPDB01;JAGNEX01;JBARPG01;VFJJ01;JACPCJ01;CALEDW01
+Bacteria	Ignavibacteriales	4	1	1	1	0.19554	0.342195	region medoids, farthest-first to per-order target	SURF-24
+Bacteria	Immundisolibacterales	2	1	1	1	0.24377	0.4265975	region medoids, farthest-first to per-order target	Immundisolibacteraceae
+Bacteria	Isosphaerales	1	1	1	1			single eligible family	Isosphaeraceae
+Bacteria	Izemoplasmatales	3	1	1	1	0.27981	0.4896675	region medoids, farthest-first to per-order target	UBA1188
+Bacteria	J002	1	1	1	1			single eligible family	J002
+Bacteria	J036	1	1	1	1			single eligible family	Brachytrichaceae
+Bacteria	J040	1	1	1	1			single eligible family	J040
+Bacteria	J044	1	1	1	1			single eligible family	J044
+Bacteria	J045	1	1	1	1			single eligible family	J045
+Bacteria	J057	10	6	6	1	0.27949	0.4891075	all region medoids + farthest-first family additions to per-order target	JAJTIE01;J057;RFSG01;JAIXKT01;CALAJH01;CAZTEZ01
+Bacteria	J058	3	2	2	1	0.46301	0.8102675	all region medoids + farthest-first family additions to per-order target	JARGOJ01;JAJDCQ01
+Bacteria	J063	1	1	1	1			single eligible family	CAVPRW01
+Bacteria	J088	1	1	1	1			single eligible family	J088
+Bacteria	J102	1	1	1	1			single eligible family	J102
+Bacteria	J137	2	1	1	1	0.56908	0.99589	region medoids, farthest-first to per-order target	J137
+Bacteria	JAABTG01	1	1	1	1			single eligible family	JAABTG01
+Bacteria	JAABVY01	2	1	1	1	0.269	0.47075	region medoids, farthest-first to per-order target	JAABVY01
+Bacteria	JAACEG01	2	1	1	1	0.393	0.68775	region medoids, farthest-first to per-order target	JAACEG01
+Bacteria	JAACET01	1	1	1	1			single eligible family	JAACET01
+Bacteria	JAADDB01	1	1	1	1			single eligible family	JAADDB01
+Bacteria	JAADEI01	2	1	1	1	0.52686	0.922005	region medoids, farthest-first to per-order target	JAADEI01
+Bacteria	JAADFJ01	1	1	1	1			single eligible family	JAADFJ01
+Bacteria	JAADFL01	1	1	1	1			single eligible family	JAADFL01
+Bacteria	JAADFP01	2	1	1	1	0.25863	0.4526025	region medoids, farthest-first to per-order target	CAZSGC01
+Bacteria	JAADGH01	1	1	1	1			single eligible family	CAYPFP01
+Bacteria	JAADGQ01	1	1	1	1			single eligible family	JAADGQ01
+Bacteria	JAADGY01	1	1	1	1			single eligible family	JAADGY01
+Bacteria	JAADHQ01	1	1	1	1			single eligible family	JAADHQ01
+Bacteria	JAADHS01	1	1	1	1			single eligible family	JAADHS01
+Bacteria	JAADJB01	1	1	1	1			single eligible family	JAADJB01
+Bacteria	JAAEKA01	1	1	1	1			single eligible family	JAAEKA01
+Bacteria	JAAEMD01	1	1	1	1			single eligible family	JAAEMD01
+Bacteria	JAAEOK01	1	1	1	1			single eligible family	JAAEOK01
+Bacteria	JAAEPA01	1	1	1	1			single eligible family	JAAEPA01
+Bacteria	JAANXI01	1	1	1	1			single eligible family	JAANXI01
+Bacteria	JAAXGF01	1	1	1	1			single eligible family	JAAXGF01
+Bacteria	JAAXHH01	3	1	1	1	0.19249	0.3368575	region medoids, farthest-first to per-order target	JABIQT01
+Bacteria	JAAXVQ01	2	1	1	1	0.18887	0.3305225	region medoids, farthest-first to per-order target	JAAXVQ01
+Bacteria	JAAYCJ01	1	1	1	1			single eligible family	JAAYCJ01
+Bacteria	JAAYEA01	1	1	1	1			single eligible family	JAAYEA01
+Bacteria	JAAYHZ01	1	1	1	1			single eligible family	JAAYHZ01
+Bacteria	JAAYKD01	3	2	2	1	0.27584	0.48272	all region medoids + farthest-first family additions to per-order target	CAYOCI01;WRDA01
+Bacteria	JAAYKL01	1	1	1	1			single eligible family	JAAYKL01
+Bacteria	JAAYSF01	1	1	1	1			single eligible family	JAAYSF01
+Bacteria	JAAYUB01	2	1	1	1	0.31514	0.551495	region medoids, farthest-first to per-order target	JAAYUB01
+Bacteria	JAAYUI01	1	1	1	1			single eligible family	JAAYUI01
+Bacteria	JAAYUW01	2	1	1	1	0.43533	0.7618275	region medoids, farthest-first to per-order target	JAAYUW01
+Bacteria	JAAYXC01	1	1	1	1			single eligible family	JAAYXC01
+Bacteria	JAAYZQ01	1	1	1	1			single eligible family	JAAYZQ01
+Bacteria	JAAZAB01	1	1	1	1			single eligible family	JAAZAB01
+Bacteria	JAAZEB01	1	1	1	1			single eligible family	JAAZEB01
+Bacteria	JAAZLZ01	1	1	1	1			single eligible family	JAAZLZ01
+Bacteria	JAAZVP01	1	1	1	1			single eligible family	JAAZVP01
+Bacteria	JAAZVR01	1	1	1	1			single eligible family	JAAZVR01
+Bacteria	JABAAW01	2	1	1	1	0.42217	0.7387975	region medoids, farthest-first to per-order target	JABAAW01
+Bacteria	JABABF01	2	1	1	1	0.43796	0.76643	region medoids, farthest-first to per-order target	JABABF01
+Bacteria	JABCZS01	1	1	1	1			single eligible family	JABCZS01
+Bacteria	JABDBA01	1	1	1	1			single eligible family	JABDBA01
+Bacteria	JABDDW01	1	1	1	1			single eligible family	JABDDW01
+Bacteria	JABDET01	1	1	1	1			single eligible family	JABDET01
+Bacteria	JABDFU01	1	1	1	1			single eligible family	JABDFU01
+Bacteria	JABDGN01	1	1	1	1			single eligible family	JABDGN01
+Bacteria	JABDJR01	2	1	1	1	0.28502	0.498785	region medoids, farthest-first to per-order target	JABDJR01
+Bacteria	JABEUT01	1	1	1	1			single eligible family	JABEUT01
+Bacteria	JABEVK01	1	1	1	1			single eligible family	JABEVK01
+Bacteria	JABGRK01	1	1	1	1			single eligible family	JABGRK01
+Bacteria	JABGVJ01	1	1	1	1			single eligible family	JABGVJ01
+Bacteria	JABHGC01	1	1	1	1			single eligible family	JABHGC01
+Bacteria	JABIPA01	1	1	1	1			single eligible family	JABIPA01
+Bacteria	JABLXB01	1	1	1	1			single eligible family	JABLXB01
+Bacteria	JABMPQ01	8	3	3	1	0.42805	0.7490875	all region medoids + farthest-first family additions to per-order target	CAVVCK01;JAGQLO01;JBDRIV01
+Bacteria	JABMQH01	1	1	1	1			single eligible family	JABMQH01
+Bacteria	JABMQR01	1	1	1	1			single eligible family	JABMQR01
+Bacteria	JABMQX01	1	1	1	1			single eligible family	JABMQX01
+Bacteria	JABMRG01	2	1	1	1	0.28081	0.4914175	region medoids, farthest-first to per-order target	JABMRG01
+Bacteria	JABMRJ01	1	1	1	1			single eligible family	JABMRJ01
+Bacteria	JABMRN01	2	1	1	1	0.2905	0.508375	region medoids, farthest-first to per-order target	JABMRN01
+Bacteria	JABMSA01	2	1	1	1	0.32683	0.5719525	region medoids, farthest-first to per-order target	JABMSA01
+Bacteria	JABMSB01	1	1	1	1			single eligible family	JABMSB01
+Bacteria	JABSOH01	1	1	1	1			single eligible family	JABSOH01
+Bacteria	JABSQK01	5	2	2	1	0.30993	0.5423775	all region medoids + farthest-first family additions to per-order target	JAWLHB01;UBA12247
+Bacteria	JABWAM01	2	1	1	1	0.30314	0.530495	region medoids, farthest-first to per-order target	JABWAM01
+Bacteria	JABWAT01	1	1	1	1			single eligible family	JABWAT01
+Bacteria	JABWBI01	1	1	1	1			single eligible family	JABWBI01
+Bacteria	JABWCM01	2	1	1	1	0.24763	0.4333525	region medoids, farthest-first to per-order target	BTVJ01
+Bacteria	JABXHR01	1	1	1	1			single eligible family	JABXHR01
+Bacteria	JACAEB01	1	1	1	1			single eligible family	JACAEB01
+Bacteria	JACCUZ01	1	1	1	1			single eligible family	JACCUZ01
+Bacteria	JACCXJ01	1	1	1	1			single eligible family	JACCXJ01
+Bacteria	JACCXN01	1	1	1	1			single eligible family	JACCXN01
+Bacteria	JACCXV01	2	1	1	1	0.32233	0.5640775	region medoids, farthest-first to per-order target	JACCXV01
+Bacteria	JACCYU01	1	1	1	1			single eligible family	JACCYU01
+Bacteria	JACDOE01	1	1	1	1			single eligible family	JACDOE01
+Bacteria	JACIWP01	1	1	1	1			single eligible family	JACIWP01
+Bacteria	JACIWR01	1	1	1	1			single eligible family	JACIWR01
+Bacteria	JACIXR01	1	1	1	1			single eligible family	JACIXR01
+Bacteria	JACIYH01	1	1	1	1			single eligible family	JACIYH01
+Bacteria	JACJYZ01	1	1	1	1			single eligible family	JACJYZ01
+Bacteria	JACKCT01	2	1	1	1	0.3252	0.5691	region medoids, farthest-first to per-order target	CAYSHR01
+Bacteria	JACKNK01	2	1	1	1	0.1511	0.264425	region medoids, farthest-first to per-order target	CAYPEH01
+Bacteria	JACMRA01	2	1	1	1	0.61939	1.0839325	region medoids, farthest-first to per-order target	JACMRA01
+Bacteria	JACNKJ01	1	1	1	1			single eligible family	JACNKJ01
+Bacteria	JACOSC01	1	1	1	1			single eligible family	JACOSC01
+Bacteria	JACOTG01	3	2	2	1	0.40239	0.7041825	all region medoids + farthest-first family additions to per-order target	JAUIME01;JACOTG01
+Bacteria	JACOVV01	1	1	1	1			single eligible family	JACOVV01
+Bacteria	JACOXK01	1	1	1	1			single eligible family	JACOXK01
+Bacteria	JACOXO01	1	1	1	1			single eligible family	JACOXO01
+Bacteria	JACPAL01	4	3	3	1	0.20729	0.3627575	all region medoids + farthest-first family additions to per-order target	GCA-016699445;JACOUP01;JACPAL01
+Bacteria	JACPCQ01	1	1	1	1			single eligible family	JACPCQ01
+Bacteria	JACPCR01	1	1	1	1			single eligible family	JACPCR01
+Bacteria	JACPDS01	1	1	1	1			single eligible family	JBDRKI01
+Bacteria	JACPDT01	1	1	1	1			single eligible family	JACPDT01
+Bacteria	JACPEP01	1	1	1	1			single eligible family	JACPEP01
+Bacteria	JACPFL01	1	1	1	1			single eligible family	JACPFL01
+Bacteria	JACPGU01	1	1	1	1			single eligible family	JACPGU01
+Bacteria	JACPHC01	1	1	1	1			single eligible family	JACPHC01
+Bacteria	JACPHN01	1	1	1	1			single eligible family	JACPHN01
+Bacteria	JACPHY01	1	1	1	1			single eligible family	JACPHY01
+Bacteria	JACPKC01	1	1	1	1			single eligible family	JACPKC01
+Bacteria	JACPKW01	1	1	1	1			single eligible family	UBA11713
+Bacteria	JACPL01	2	1	1	1	0.37267	0.6521725	region medoids, farthest-first to per-order target	CAZOCX01
+Bacteria	JACPPY01	1	1	1	1			single eligible family	JACPPY01
+Bacteria	JACPQK01	1	1	1	1			single eligible family	JACPQK01
+Bacteria	JACPQR01	1	1	1	1			single eligible family	JACPQR01
+Bacteria	JACPQY01	1	1	1	1			single eligible family	JACPQY01
+Bacteria	JACPQZ01	1	1	1	1			single eligible family	JACPQZ01
+Bacteria	JACPRG01	1	1	1	1			single eligible family	G963555815
+Bacteria	JACPRK01	1	1	1	1			single eligible family	JACPRK01
+Bacteria	JACPRU01	1	1	1	1			single eligible family	JACPRU01
+Bacteria	JACPRZ01	1	1	1	1			single eligible family	JACPRZ01
+Bacteria	JACPSX01	1	1	1	1			single eligible family	JACPSX01
+Bacteria	JACPTQ01	1	1	1	1			single eligible family	JACPTQ01
+Bacteria	JACPTZ01	1	1	1	1			single eligible family	JACPTZ01
+Bacteria	JACPUC01	1	1	1	1			single eligible family	JACPUC01
+Bacteria	JACPWU01	1	1	1	1			single eligible family	JACPWU01
+Bacteria	JACPXH01	1	1	1	1			single eligible family	JACPXH01
+Bacteria	JACPZF01	1	1	1	1			single eligible family	JACPZF01
+Bacteria	JACPZX01	2	1	1	1	0.21694	0.379645	region medoids, farthest-first to per-order target	DASXTC01
+Bacteria	JACQBW01	1	1	1	1			single eligible family	JACQBW01
+Bacteria	JACQBZ01	1	1	1	1			single eligible family	JACQBZ01
+Bacteria	JACQCE01	1	1	1	1			single eligible family	JACQCE01
+Bacteria	JACQJN01	1	1	1	1			single eligible family	JACQJN01
+Bacteria	JACQJP01	1	1	1	1			single eligible family	JACQJP01
+Bacteria	JACQLA01	1	1	1	1			single eligible family	JACQLA01
+Bacteria	JACQLN01	2	1	1	1	0.38227	0.6689725	region medoids, farthest-first to per-order target	CAZPCT01
+Bacteria	JACQLU01	1	1	1	1			single eligible family	JACQLU01
+Bacteria	JACQOE01	1	1	1	1			single eligible family	JACQOE01
+Bacteria	JACQOV01	1	1	1	1			single eligible family	JACQOV01
+Bacteria	JACQPE01	1	1	1	1			single eligible family	JACQPE01
+Bacteria	JACQPQ01	1	1	1	1			single eligible family	JACQPQ01
+Bacteria	JACQQV01	1	1	1	1			single eligible family	JACQQV01
+Bacteria	JACQRL01	1	1	1	1			single eligible family	SBBU01
+Bacteria	JACQRZ01	1	1	1	1			single eligible family	JACQRZ01
+Bacteria	JACQSD01	1	1	1	1			single eligible family	JACQSD01
+Bacteria	JACQSX01	2	1	1	1	0.18537	0.3243975	region medoids, farthest-first to per-order target	JACQSX01
+Bacteria	JACQTF01	1	1	1	1			single eligible family	JACQTF01
+Bacteria	JACQTR01	1	1	1	1			single eligible family	JACQTR01
+Bacteria	JACQUA01	1	1	1	1			single eligible family	JACQUA01
+Bacteria	JACQUO01	1	1	1	1			single eligible family	JACQUO01
+Bacteria	JACQVU01	1	1	1	1			single eligible family	JANLHZ01
+Bacteria	JACQVV01	2	1	1	1	0.48563	0.8498525	region medoids, farthest-first to per-order target	CAZANL01
+Bacteria	JACQVX01	1	1	1	1			single eligible family	JACQVX01
+Bacteria	JACQXL01	4	3	3	1	0.314955	0.55117125	all region medoids + farthest-first family additions to per-order target	CAKKQI01;JACRIJ01;JACQXL01
+Bacteria	JACQXS01	4	3	3	1	0.30007	0.5251225	all region medoids + farthest-first family additions to per-order target	JAGMCI01;JAQTXJ01;JAUWAR01
+Bacteria	JACQXZ01	2	1	1	1	0.19918	0.348565	region medoids, farthest-first to per-order target	CAYGBL01
+Bacteria	JACQYL01	2	1	1	1	0.24754	0.433195	region medoids, farthest-first to per-order target	CAWGVV01
+Bacteria	JACRCW01	1	1	1	1			single eligible family	JACRCW01
+Bacteria	JACRDY01	1	1	1	1			single eligible family	JACRDY01
+Bacteria	JACRDZ01	1	1	1	1			single eligible family	JACRDZ01
+Bacteria	JACRGO01	1	1	1	1			single eligible family	JACRGO01
+Bacteria	JACRGQ01	1	1	1	1			single eligible family	JACRGQ01
+Bacteria	JACRGW01	2	1	1	1	0.1875	0.328125	region medoids, farthest-first to per-order target	JACRGW01
+Bacteria	JACRHA01	1	1	1	1			single eligible family	JACRHA01
+Bacteria	JACRHJ01	1	1	1	1			single eligible family	JACRHJ01
+Bacteria	JACRHL01	1	1	1	1			single eligible family	JACRHL01
+Bacteria	JACRJV01	1	1	1	1			single eligible family	JACRJV01
+Bacteria	JACRMK01	1	1	1	1			single eligible family	JACRMK01
+Bacteria	JACROR01	1	1	1	1			single eligible family	JACROR01
+Bacteria	JACVQG01	3	1	1	1	0.26272	0.45976	region medoids, farthest-first to per-order target	JACVQG01
+Bacteria	JACZXZ01	1	1	1	1			single eligible family	JACZXZ01
+Bacteria	JADFCW01	1	1	1	1			single eligible family	JADFCW01
+Bacteria	JADFOP01	1	1	1	1			single eligible family	JADFOP01
+Bacteria	JADFSZ01	1	1	1	1			single eligible family	JADFSZ01
+Bacteria	JADFVX01	1	1	1	1			single eligible family	JADFVX01
+Bacteria	JADFYH01	1	1	1	1			single eligible family	JADFYH01
+Bacteria	JADGBV01	1	1	1	1			single eligible family	JADGBV01
+Bacteria	JADGOU01	1	1	1	1			single eligible family	JADGOU01
+Bacteria	JADGOV01	1	1	1	1			single eligible family	JADGOV01
+Bacteria	JADJOY01	1	1	1	1			single eligible family	JADJOY01
+Bacteria	JADLBR01	2	1	1	1	0.25321	0.4431175	region medoids, farthest-first to per-order target	JADLBR01
+Bacteria	JADLHZ01	1	1	1	1			single eligible family	JADLHZ01
+Bacteria	JADQBR01	1	1	1	1			single eligible family	JADQBR01
+Bacteria	JADYZS01	1	1	1	1			single eligible family	JADYZS01
+Bacteria	JADZBD01	1	1	1	1			single eligible family	JADZBD01
+Bacteria	JADZEE01	1	1	1	1			single eligible family	JADZEE01
+Bacteria	JAEEML01	1	1	1	1			single eligible family	JAEEML01
+Bacteria	JAENJB01	1	1	1	1			single eligible family	JAENJB01
+Bacteria	JAENJC01	1	1	1	1			single eligible family	JAENJC01
+Bacteria	JAEUKQ01	2	1	1	1	0.21663	0.3791025	region medoids, farthest-first to per-order target	JAEUKQ01
+Bacteria	JAEULC01	1	1	1	1			single eligible family	JAEULC01
+Bacteria	JAFAQI01	2	1	1	1	0.14323	0.2506525	region medoids, farthest-first to per-order target	DASSKL01
+Bacteria	JAFDIG01	1	1	1	1			single eligible family	JAFDIG01
+Bacteria	JAFEDO01	1	1	1	1			single eligible family	JAFEDO01
+Bacteria	JAFGBW01	2	1	1	1	0.4642	0.81235	region medoids, farthest-first to per-order target	JAFGBW01
+Bacteria	JAFGDJ01	1	1	1	1			single eligible family	JAFGDJ01
+Bacteria	JAFGEP01	1	1	1	1			single eligible family	JAFGEP01
+Bacteria	JAFGEW01	1	1	1	1			single eligible family	JAFGEW01
+Bacteria	JAFGEY01	1	1	1	1			single eligible family	JAFGEY01
+Bacteria	JAFGGJ01	1	1	1	1			single eligible family	JAFGGJ01
+Bacteria	JAFGGP01	1	1	1	1			single eligible family	JAFGGP01
+Bacteria	JAFGHF01	1	1	1	1			single eligible family	JAFGHF01
+Bacteria	JAFGIU01	1	1	1	1			single eligible family	JAFGIU01
+Bacteria	JAFGJS01	1	1	1	1			single eligible family	JAFGJS01
+Bacteria	JAFGJU01	1	1	1	1			single eligible family	JAFGJU01
+Bacteria	JAFGKV01	1	1	1	1			single eligible family	JAFGKV01
+Bacteria	JAFGLO01	1	1	1	1			single eligible family	JAFGLO01
+Bacteria	JAFGND01	1	1	1	1			single eligible family	JAFGND01
+Bacteria	JAFGOL01	1	1	1	1			single eligible family	JAFGOL01
+Bacteria	JAFGQG01	1	1	1	1			single eligible family	JAFGQG01
+Bacteria	JAFGQW01	1	1	1	1			single eligible family	JAFGQW01
+Bacteria	JAFGSX01	1	1	1	1			single eligible family	JAFGSX01
+Bacteria	JAFGXH01	1	1	1	1			single eligible family	JAFGXH01
+Bacteria	JAFGXN01	1	1	1	1			single eligible family	JAFGXN01
+Bacteria	JAFLBG01	1	1	1	1			single eligible family	JAFLBG01
+Bacteria	JAGGSF01	1	1	1	1			single eligible family	JAGGSF01
+Bacteria	JAGGVC01	1	1	1	1			single eligible family	JAGGVC01
+Bacteria	JAGGVT01	1	1	1	1			single eligible family	JAGGVT01
+Bacteria	JAGGWG01	2	1	1	1	0.66311	1.1604425	region medoids, farthest-first to per-order target	CAZAJM01
+Bacteria	JAGHAJ01	1	1	1	1			single eligible family	JAGHAJ01
+Bacteria	JAGLHV01	1	1	1	1			single eligible family	JAGLHV01
+Bacteria	JAGLLT01	2	1	1	1	0.22912	0.40096	region medoids, farthest-first to per-order target	CAZKQD01
+Bacteria	JAGLSM01	2	1	1	1	0.31746	0.555555	region medoids, farthest-first to per-order target	JAGLSM01
+Bacteria	JAGLYR01	1	1	1	1			single eligible family	JAGLYR01
+Bacteria	JAGLYY01	1	1	1	1			single eligible family	JAGLYY01
+Bacteria	JAGOAT01	2	1	1	1	0.58097	1.0166975	region medoids, farthest-first to per-order target	CAYZIP01
+Bacteria	JAGOBX01	1	1	1	1			single eligible family	JAGOBX01
+Bacteria	JAGOEH01	2	1	1	1	0.23447	0.4103225	region medoids, farthest-first to per-order target	CAYLKS01
+Bacteria	JAGOGO01	1	1	1	1			single eligible family	JAGOGO01
+Bacteria	JAGOMX01	1	1	1	1			single eligible family	JAGOMX01
+Bacteria	JAGOUN01	1	1	1	1			single eligible family	JAGOUN01
+Bacteria	JAGOUU01	1	1	1	1			single eligible family	JAGOUU01
+Bacteria	JAGPBS01	1	1	1	1			single eligible family	JAGPBS01
+Bacteria	JAGPKW01	1	1	1	1			single eligible family	JAGPKW01
+Bacteria	JAGPMH01	1	1	1	1			single eligible family	JAGPMH01
+Bacteria	JAGQJP01	1	1	1	1			single eligible family	JAGQJP01
+Bacteria	JAGRBM01	2	1	1	1	0.36086	0.631505	region medoids, farthest-first to per-order target	JAGRBM01
+Bacteria	JAGRCI01	1	1	1	1			single eligible family	JAGRCI01
+Bacteria	JAGRGH01	1	1	1	1			single eligible family	JAGRGH01
+Bacteria	JAGVFQ01	1	1	1	1			single eligible family	JAGVFQ01
+Bacteria	JAGVHQ01	1	1	1	1			single eligible family	JAGVHQ01
+Bacteria	JAGVPR01	1	1	1	1			single eligible family	JAGVPR01
+Bacteria	JAHCLG01	1	1	1	1			single eligible family	JAHCLG01
+Bacteria	JAHCSD01	2	1	1	1	0.33644	0.58877	region medoids, farthest-first to per-order target	CAYJUQ01
+Bacteria	JAHEKZ01	1	1	1	1			single eligible family	JAHEKZ01
+Bacteria	JAHELT01	1	1	1	1			single eligible family	JAHELT01
+Bacteria	JAHEXW01	3	2	2	1	0.18745	0.3280375	all region medoids + farthest-first family additions to per-order target	JAGVPG01;JBAQMN01
+Bacteria	JAHEXY01	1	1	1	1			single eligible family	JAHEXY01
+Bacteria	JAHFAK01	2	1	1	1	0.39052	0.68341	region medoids, farthest-first to per-order target	JAHFAK01
+Bacteria	JAHFDA01	1	1	1	1			single eligible family	JAHFDA01
+Bacteria	JAHFDS01	1	1	1	1			single eligible family	DATFWX01
+Bacteria	JAHIHE01	4	3	3	1	0.33676	0.58933	all region medoids + farthest-first family additions to per-order target	DAOVOJ01;JAHIHE01;DAOWLE01
+Bacteria	JAHIPI01	1	1	1	1			single eligible family	JAHIPI01
+Bacteria	JAHISW01	2	1	1	1	0.35512	0.62146	region medoids, farthest-first to per-order target	CAZVBU01
+Bacteria	JAHISY01	1	1	1	1			single eligible family	JAHISY01
+Bacteria	JAHITG01	3	1	1	1	0.27659	0.4840325	region medoids, farthest-first to per-order target	JAFGFC01
+Bacteria	JAHIVN01	1	1	1	1			single eligible family	JAHIVN01
+Bacteria	JAHIZJ01	1	1	1	1			single eligible family	JAHIZJ01
+Bacteria	JAHIZV01	1	1	1	1			single eligible family	JAHIZV01
+Bacteria	JAHJAL01	1	1	1	1			single eligible family	JAHJAL01
+Bacteria	JAHJDO01	1	1	1	1			single eligible family	JAHJDO01
+Bacteria	JAHJFT01	1	1	1	1			single eligible family	JAHJFT01
+Bacteria	JAHJGZ01	1	1	1	1			single eligible family	JAHJGZ01
+Bacteria	JAHJIN01	1	1	1	1			single eligible family	JAHJIN01
+Bacteria	JAHJIW01	1	1	1	1			single eligible family	JAHJIW01
+Bacteria	JAHJRV01	1	1	1	1			single eligible family	JAHJRV01
+Bacteria	JAHJRX01	1	1	1	1			single eligible family	JAHJRX01
+Bacteria	JAHJRZ01	1	1	1	1			single eligible family	JAHJRZ01
+Bacteria	JAHJTE01	1	1	1	1			single eligible family	JAHJTE01
+Bacteria	JAHWKV01	3	2	2	1	0.19417	0.3397975	all region medoids + farthest-first family additions to per-order target	JBOGWP01;JAHWKV01
+Bacteria	JAIBAJ01	1	1	1	1			single eligible family	JAIBAJ01
+Bacteria	JAICYB01	1	1	1	1			single eligible family	JAICYB01
+Bacteria	JAIEPX01	1	1	1	1			single eligible family	JAIEPX01
+Bacteria	JAIMAT01	1	1	1	1			single eligible family	JAIMAT01
+Bacteria	JAIMBG01	1	1	1	1			single eligible family	JAIMBG01
+Bacteria	JAIPGG01	1	1	1	1			single eligible family	JAIPGG01
+Bacteria	JAIQFV01	1	1	1	1			single eligible family	JAIQFV01
+Bacteria	JAIXQD01	1	1	1	1			single eligible family	JAIXQD01
+Bacteria	JAJCYG01	1	1	1	1			single eligible family	JAJCYG01
+Bacteria	JAJCYS01	1	1	1	1			single eligible family	JAJCYS01
+Bacteria	JAJDCN01	1	1	1	1			single eligible family	JAJDCN01
+Bacteria	JAJDGJ01	1	1	1	1			single eligible family	JAJDGJ01
+Bacteria	JAJDOJ01	1	1	1	1			single eligible family	JAJDOJ01
+Bacteria	JAJDYQ01	1	1	1	1			single eligible family	JAJDYQ01
+Bacteria	JAJFFI01	1	1	1	1			single eligible family	JAJFFI01
+Bacteria	JAJFIK01	1	1	1	1			single eligible family	JAJFIK01
+Bacteria	JAJFJF01	1	1	1	1			single eligible family	JAJFJF01
+Bacteria	JAJFKG01	1	1	1	1			single eligible family	JAJFKG01
+Bacteria	JAJFKO01	1	1	1	1			single eligible family	JAJFKO01
+Bacteria	JAJPGV01	1	1	1	1			single eligible family	JAJPGV01
+Bacteria	JAJPHL01	2	1	1	1	0.22575	0.3950625	region medoids, farthest-first to per-order target	JAJPHL01
+Bacteria	JAJPIJ01	1	1	1	1			single eligible family	JAJPIJ01
+Bacteria	JAJRRL01	1	1	1	1			single eligible family	JAJRRL01
+Bacteria	JAJRTE01	2	1	1	1	0.23006	0.402605	region medoids, farthest-first to per-order target	JAJRTE01
+Bacteria	JAJRTK01	1	1	1	1			single eligible family	JAJRTK01
+Bacteria	JAJRTO01	1	1	1	1			single eligible family	JAJRTO01
+Bacteria	JAJRVZ01	1	1	1	1			single eligible family	JAJRVZ01
+Bacteria	JAJRWM01	1	1	1	1			single eligible family	JAJRWM01
+Bacteria	JAJRXK01	1	1	1	1			single eligible family	JAJRXK01
+Bacteria	JAJRXV01	1	1	1	1			single eligible family	JAJRXV01
+Bacteria	JAJRZV01	1	1	1	1			single eligible family	JAJRZV01
+Bacteria	JAJSAM01	3	1	1	1	0.46982	0.822185	region medoids, farthest-first to per-order target	JAKLKS01
+Bacteria	JAJTBE01	3	1	1	1	0.23455	0.4104625	region medoids, farthest-first to per-order target	CAYNGH01
+Bacteria	JAJTHO01	4	3	3	1	0.266205	0.46585875	all region medoids + farthest-first family additions to per-order target	CANGXP01;CANGYM01;JAJTHO01
+Bacteria	JAJUGE01	1	1	1	1			single eligible family	JAJUGE01
+Bacteria	JAJVIF01	1	1	1	1			single eligible family	JAJVIF01
+Bacteria	JAJVIH01	2	1	1	1	0.39393	0.6893775	region medoids, farthest-first to per-order target	CAZXXB01
+Bacteria	JAJVII01	1	1	1	1			single eligible family	JAJVII01
+Bacteria	JAJYGY01	2	1	1	1	0.29821	0.5218675	region medoids, farthest-first to per-order target	DAIDJD01
+Bacteria	JAJYSQ01	1	1	1	1			single eligible family	JAJYSQ01
+Bacteria	JAJYWN01	2	1	1	1	0.27977	0.4895975	region medoids, farthest-first to per-order target	JAJYWN01
+Bacteria	JAJZIM01	2	1	1	1	0.26558	0.464765	region medoids, farthest-first to per-order target	JAJZBP01
+Bacteria	JAJZTN01	1	1	1	1			single eligible family	JAJZTN01
+Bacteria	JAJZYS01	4	3	3	1	0.389245	0.68117875	all region medoids + farthest-first family additions to per-order target	JAJYTV01;JAILZS01;JAJZLH01
+Bacteria	JAKAPS01	2	1	1	1	0.62978	1.102115	region medoids, farthest-first to per-order target	JAJZLI01
+Bacteria	JAKAQQ01	1	1	1	1			single eligible family	JAKAQQ01
+Bacteria	JAKBBU01	1	1	1	1			single eligible family	JAKBBU01
+Bacteria	JAKDMP01	1	1	1	1			single eligible family	JAKDMP01
+Bacteria	JAKEEW01	1	1	1	1			single eligible family	JAKEEW01
+Bacteria	JAKEFK01	1	1	1	1			single eligible family	JAKEFK01
+Bacteria	JAKEHO01	1	1	1	1			single eligible family	JAKEHO01
+Bacteria	JAKEIC01	2	1	1	1	0.51697	0.9046975	region medoids, farthest-first to per-order target	DYIT01
+Bacteria	JAKFFM01	1	1	1	1			single eligible family	JAKFFM01
+Bacteria	JAKLDR01	1	1	1	1			single eligible family	JAKLDR01
+Bacteria	JAKLHX01	2	1	1	1	0.23023	0.4029025	region medoids, farthest-first to per-order target	JAKLHX01
+Bacteria	JAKQHR01	1	1	1	1			single eligible family	JAKQHR01
+Bacteria	JAKQQT01	1	1	1	1			single eligible family	JAKQQT01
+Bacteria	JALCBB01	1	1	1	1			single eligible family	JALCBB01
+Bacteria	JALEGL01	3	2	2	1	0.32675	0.5718125	all region medoids + farthest-first family additions to per-order target	JALEGL01;DATDPG01
+Bacteria	JALHDB01	1	1	1	1			single eligible family	JALHDB01
+Bacteria	JALRGP01	1	1	1	1			single eligible family	JALRGP01
+Bacteria	JALSIF01	1	1	1	1			single eligible family	JALSIF01
+Bacteria	JALSQH01	1	1	1	1			single eligible family	JALSQH01
+Bacteria	JALTLT01	1	1	1	1			single eligible family	JALTLT01
+Bacteria	JALVIU01	1	1	1	1			single eligible family	JALVIU01
+Bacteria	JALWYX01	1	1	1	1			single eligible family	JALWYX01
+Bacteria	JALXBF01	2	1	1	1	0.29056	0.50848	region medoids, farthest-first to per-order target	JALXBF01
+Bacteria	JALYJY01	1	1	1	1			single eligible family	JALYJY01
+Bacteria	JALYMT01	1	1	1	1			single eligible family	JALYMT01
+Bacteria	JALYMU01	1	1	1	1			single eligible family	JALYMU01
+Bacteria	JALYNC01	1	1	1	1			single eligible family	JALYNC01
+Bacteria	JALYQM01	1	1	1	1			single eligible family	JALYQM01
+Bacteria	JALYXH01	1	1	1	1			single eligible family	JALYXH01
+Bacteria	JAMCPX01	1	1	1	1			single eligible family	JAMCPX01
+Bacteria	JAMCQP01	1	1	1	1			single eligible family	JAMCQP01
+Bacteria	JAMCWA01	1	1	1	1			single eligible family	JAMCWA01
+Bacteria	JAMCWD01	1	1	1	1			single eligible family	JAMCWD01
+Bacteria	JAMCXX01	2	1	1	1	0.53551	0.9371425	region medoids, farthest-first to per-order target	JAMCXX01
+Bacteria	JAMCYU01	1	1	1	1			single eligible family	JAMCYU01
+Bacteria	JAMCZE01	1	1	1	1			single eligible family	JAMCZE01
+Bacteria	JAMDAP01	1	1	1	1			single eligible family	JAMDAP01
+Bacteria	JAMDBS01	3	2	2	1	0.41245	0.7217875	all region medoids + farthest-first family additions to per-order target	DAOVQR01;CAZXAY01
+Bacteria	JAMOAD01	1	1	1	1			single eligible family	JAMOAD01
+Bacteria	JAMORN01	1	1	1	1			single eligible family	JAMORN01
+Bacteria	JAMOSO01	1	1	1	1			single eligible family	JAMOSO01
+Bacteria	JAMOTN01	1	1	1	1			single eligible family	JAMOTN01
+Bacteria	JANLFK01	1	1	1	1			single eligible family	Oleimicrobiaceae
+Bacteria	JANLFM01	1	1	1	1			single eligible family	JANLFM01
+Bacteria	JANQFH01	1	1	1	1			single eligible family	JANQFH01
+Bacteria	JANQFL01	1	1	1	1			single eligible family	JANQFL01
+Bacteria	JANQJC01	1	1	1	1			single eligible family	JANQJC01
+Bacteria	JANQMV01	1	1	1	1			single eligible family	JANQMV01
+Bacteria	JANQMY01	1	1	1	1			single eligible family	JANQMY01
+Bacteria	JANQSM01	1	1	1	1			single eligible family	JANQSM01
+Bacteria	JANSWW01	1	1	1	1			single eligible family	JANSWW01
+Bacteria	JANWHV01	1	1	1	1			single eligible family	JANWHV01
+Bacteria	JANWJV01	1	1	1	1			single eligible family	JANWJV01
+Bacteria	JANWVE01	1	1	1	1			single eligible family	JANWVE01
+Bacteria	JANWWW01	1	1	1	1			single eligible family	JANWWW01
+Bacteria	JANXDC01	1	1	1	1			single eligible family	JANXDC01
+Bacteria	JAOADG01	1	1	1	1			single eligible family	JAOADG01
+Bacteria	JAOAEQ01	1	1	1	1			single eligible family	JAOAEQ01
+Bacteria	JAOAGR01	2	1	1	1	0.75103	1.3143025	region medoids, farthest-first to per-order target	JAOAGR01
+Bacteria	JAOXRX01	1	1	1	1			single eligible family	JAOXRX01
+Bacteria	JAPDKE01	1	1	1	1			single eligible family	JAPDKE01
+Bacteria	JAPKNN01	1	1	1	1			single eligible family	JAPKNN01
+Bacteria	JAPKYR01	2	1	1	1	0.45284	0.79247	region medoids, farthest-first to per-order target	CAZSPL01
+Bacteria	JAPLJL01	1	1	1	1			single eligible family	JAPLJL01
+Bacteria	JAPLKR01	1	1	1	1			single eligible family	JAPLKR01
+Bacteria	JAPLLA01	1	1	1	1			single eligible family	JAPLLA01
+Bacteria	JAPLSS01	1	1	1	1			single eligible family	JAPLSS01
+Bacteria	JAPLVJ01	1	1	1	1			single eligible family	JAPLVJ01
+Bacteria	JAPLVM01	1	1	1	1			single eligible family	JAPLVM01
+Bacteria	JAPLWK01	1	1	1	1			single eligible family	JAPLWK01
+Bacteria	JAPOUT01	3	2	2	1	0.27719	0.4850825	all region medoids + farthest-first family additions to per-order target	JBAJNM01;G958296285
+Bacteria	JAPPPA01	1	1	1	1			single eligible family	JAPPPA01
+Bacteria	JAPUIV01	1	1	1	1			single eligible family	JAPUIV01
+Bacteria	JAPUKU01	1	1	1	1			single eligible family	JAPUKU01
+Bacteria	JAPULJ01	1	1	1	1			single eligible family	JAPULJ01
+Bacteria	JAPYRI01	1	1	1	1			single eligible family	JAPYRI01
+Bacteria	JAQAZP01	1	1	1	1			single eligible family	JAQAZP01
+Bacteria	JAQICX01	1	1	1	1			single eligible family	JAQICX01
+Bacteria	JAQSXL01	1	1	1	1			single eligible family	JAQSXL01
+Bacteria	JAQTZZ01	1	1	1	1			single eligible family	JAQTZZ01
+Bacteria	JAQUKH01	1	1	1	1			single eligible family	JAQUKH01
+Bacteria	JAQUNI01	1	1	1	1			single eligible family	JAQUNI01
+Bacteria	JAQUNY01	1	1	1	1			single eligible family	JAQUNY01
+Bacteria	JAQUQO01	1	1	1	1			single eligible family	JAQUQO01
+Bacteria	JAQVDB01	1	1	1	1			single eligible family	JAQVDB01
+Bacteria	JAQVHJ01	1	1	1	1			single eligible family	JAQVHJ01
+Bacteria	JAQWUY01	1	1	1	1			single eligible family	JAQWUY01
+Bacteria	JARBTR01	1	1	1	1			single eligible family	JARBTR01
+Bacteria	JARBTT01	1	1	1	1			single eligible family	JARBTT01
+Bacteria	JARCMD01	1	1	1	1			single eligible family	JARCMD01
+Bacteria	JAREAF01	1	1	1	1			single eligible family	JAREAF01
+Bacteria	JARFUL01	1	1	1	1			single eligible family	JARFUL01
+Bacteria	JASBUN01	1	1	1	1			single eligible family	JASBUN01
+Bacteria	JASBVW01	1	1	1	1			single eligible family	JASBVW01
+Bacteria	JASEGR01	1	1	1	1			single eligible family	JASEGR01
+Bacteria	JASEGY01	1	1	1	1			single eligible family	JASEGY01
+Bacteria	JASEIO01	1	1	1	1			single eligible family	JASEIO01
+Bacteria	JASGCL01	1	1	1	1			single eligible family	JASGCL01
+Bacteria	JASGCS01	1	1	1	1			single eligible family	JASGCS01
+Bacteria	JASUSC01	1	1	1	1			single eligible family	JASUSC01
+Bacteria	JAUHZC01	1	1	1	1			single eligible family	JAUHZC01
+Bacteria	JAUHZG01	1	1	1	1			single eligible family	JAUHZG01
+Bacteria	JAUHZY01	1	1	1	1			single eligible family	JAUHZY01
+Bacteria	JAUIAT01	1	1	1	1			single eligible family	JAUIAT01
+Bacteria	JAUQQI01	1	1	1	1			single eligible family	JAUQQI01
+Bacteria	JAURND01	1	1	1	1			single eligible family	JAURND01
+Bacteria	JAUSIH01	1	1	1	1			single eligible family	JAUSIH01
+Bacteria	JAUVJM01	1	1	1	1			single eligible family	JAUVJM01
+Bacteria	JAUVQV01	2	1	1	1	0.23082	0.403935	region medoids, farthest-first to per-order target	DATDCY01
+Bacteria	JAUVRN01	1	1	1	1			single eligible family	JAUVRN01
+Bacteria	JAUVVT01	1	1	1	1			single eligible family	JAUVVT01
+Bacteria	JAUVWM01	1	1	1	1			single eligible family	JAUVWM01
+Bacteria	JAUVYG01	1	1	1	1			single eligible family	JAUVYG01
+Bacteria	JAUWXU01	1	1	1	1			single eligible family	JAUWXU01
+Bacteria	JAUXAN01	1	1	1	1			single eligible family	JAUXAN01
+Bacteria	JAUXAW01	3	1	1	1	0.52445	0.9177875	region medoids, farthest-first to per-order target	JAUXAW01
+Bacteria	JAUXFM01	1	1	1	1			single eligible family	JAUXFM01
+Bacteria	JAUXIB01	1	1	1	1			single eligible family	JAUXIB01
+Bacteria	JAUXIQ01	1	1	1	1			single eligible family	JAUXIQ01
+Bacteria	JAUXUR01	1	1	1	1			single eligible family	JAUXUR01
+Bacteria	JAUYCX01	1	1	1	1			single eligible family	JBMONJ01
+Bacteria	JAUYDP01	1	1	1	1			single eligible family	JAUYDP01
+Bacteria	JAUYEF01	1	1	1	1			single eligible family	JAUYEF01
+Bacteria	JAUYEG01	1	1	1	1			single eligible family	JAUYEG01
+Bacteria	JAUYGZ01	2	1	1	1	0.36155	0.6327125	region medoids, farthest-first to per-order target	DAOVYC01
+Bacteria	JAUYIX01	2	1	1	1	0.48622	0.850885	region medoids, farthest-first to per-order target	JAUYIX01
+Bacteria	JAUYLV01	1	1	1	1			single eligible family	JAUYLV01
+Bacteria	JAUYMQ01	1	1	1	1			single eligible family	JAUYMQ01
+Bacteria	JAUYPR01	1	1	1	1			single eligible family	JAUYPR01
+Bacteria	JAUZRS01	1	1	1	1			single eligible family	JAUZRS01
+Bacteria	JAVCCG01	1	1	1	1			single eligible family	Alcyoniellaceae
+Bacteria	JAVEEB01	1	1	1	1			single eligible family	JAVEEB01
+Bacteria	JAVEVO01	2	1	1	1	0.38968	0.68194	region medoids, farthest-first to per-order target	CAYZFJ01
+Bacteria	JAVJRE01	1	1	1	1			single eligible family	JAVJRE01
+Bacteria	JAVJVX01	1	1	1	1			single eligible family	JAVJVX01
+Bacteria	JAWKYA01	1	1	1	1			single eligible family	JAWKYA01
+Bacteria	JAWLBW01	1	1	1	1			single eligible family	JAWLBW01
+Bacteria	JAWWOL01	1	1	1	1			single eligible family	JAWWOL01
+Bacteria	JAWWOW01	1	1	1	1			single eligible family	JAWWOW01
+Bacteria	JAWXBN01	2	1	1	1	0.23008	0.40264	region medoids, farthest-first to per-order target	JAWXBN01
+Bacteria	JAXHNJ01	1	1	1	1			single eligible family	JAXHNJ01
+Bacteria	JAXMDU01	1	1	1	1			single eligible family	JAXMDU01
+Bacteria	JAYEMH01	1	1	1	1			single eligible family	JAYEMH01
+Bacteria	JAYEMR01	1	1	1	1			single eligible family	JAYEMR01
+Bacteria	JAZDEU01	1	1	1	1			single eligible family	JAZDEU01
+Bacteria	JAZDFF01	1	1	1	1			single eligible family	JAZDFF01
+Bacteria	JAZDGP01	1	1	1	1			single eligible family	JAZDGP01
+Bacteria	JAZDJP01	1	1	1	1			single eligible family	JAZDJP01
+Bacteria	JAZDKG01	1	1	1	1			single eligible family	JAZDKG01
+Bacteria	JAZDLJ01	1	1	1	1			single eligible family	JAZDLJ01
+Bacteria	JAZDOA01	1	1	1	1			single eligible family	JAZDOA01
+Bacteria	JAZDOK01	1	1	1	1			single eligible family	JAZDOK01
+Bacteria	JAZFTZ01	1	1	1	1			single eligible family	JAZFTZ01
+Bacteria	JAZPYJ01	1	1	1	1			single eligible family	JAZPYJ01
+Bacteria	JBAMLU01	1	1	1	1			single eligible family	JBAMLU01
+Bacteria	JBAXGH01	1	1	1	1			single eligible family	JBAXGH01
+Bacteria	JBAXOJ01	1	1	1	1			single eligible family	JBAXOJ01
+Bacteria	JBAXTZ01	1	1	1	1			single eligible family	JBAXTZ01
+Bacteria	JBAXVQ01	1	1	1	1			single eligible family	JBAXVQ01
+Bacteria	JBAYJO01	1	1	1	1			single eligible family	JBAYJO01
+Bacteria	JBAYJV01	1	1	1	1			single eligible family	JBAYJV01
+Bacteria	JBAYZB01	1	1	1	1			single eligible family	JBAYZB01
+Bacteria	JBAZBY01	1	1	1	1			single eligible family	JBAZBY01
+Bacteria	JBBAAG01	1	1	1	1			single eligible family	JBBAAG01
+Bacteria	JBBAAN01	1	1	1	1			single eligible family	JBBAAN01
+Bacteria	JBBDQX01	1	1	1	1			single eligible family	JBBDQX01
+Bacteria	JBBIMK01	1	1	1	1			single eligible family	JBBIMK01
+Bacteria	JBBINA01	1	1	1	1			single eligible family	JBBINA01
+Bacteria	JBBINU01	1	1	1	1			single eligible family	JBBINU01
+Bacteria	JBBIRW01	1	1	1	1			single eligible family	JBBIRW01
+Bacteria	JBBIUM01	1	1	1	1			single eligible family	JBBIUM01
+Bacteria	JBBIVP01	1	1	1	1			single eligible family	JBBIVP01
+Bacteria	JBBQDK01	1	1	1	1			single eligible family	JBBQDK01
+Bacteria	JBBQFP01	1	1	1	1			single eligible family	JBBQFP01
+Bacteria	JBBRAU01	1	1	1	1			single eligible family	JBBRAU01
+Bacteria	JBBSVG01	1	1	1	1			single eligible family	JBBSVG01
+Bacteria	JBBTDB01	1	1	1	1			single eligible family	JBBTDB01
+Bacteria	JBBTED01	1	1	1	1			single eligible family	JBBTED01
+Bacteria	JBBTFH01	1	1	1	1			single eligible family	JBBTFH01
+Bacteria	JBBTXB01	1	1	1	1			single eligible family	JBBTXB01
+Bacteria	JBBTZN01	1	1	1	1			single eligible family	JBBTZN01
+Bacteria	JBCCFW01	1	1	1	1			single eligible family	JBCCFW01
+Bacteria	JBCCGL01	1	1	1	1			single eligible family	JBCCGL01
+Bacteria	JBCCHK01	1	1	1	1			single eligible family	JBCCHK01
+Bacteria	JBCCNR01	1	1	1	1			single eligible family	JBCCNR01
+Bacteria	JBDHUY01	1	1	1	1			single eligible family	JBDHUY01
+Bacteria	JBDIAW01	1	1	1	1			single eligible family	JBDIAW01
+Bacteria	JBDRAO01	1	1	1	1			single eligible family	JBDRAO01
+Bacteria	JBDREB01	1	1	1	1			single eligible family	JBDREB01
+Bacteria	JBDRED01	1	1	1	1			single eligible family	JBDRED01
+Bacteria	JBDRGX01	1	1	1	1			single eligible family	JBDRGX01
+Bacteria	JBDRGY01	1	1	1	1			single eligible family	JBDRGY01
+Bacteria	JBDRHN01	1	1	1	1			single eligible family	JBDRHN01
+Bacteria	JBDRLY01	1	1	1	1			single eligible family	JBDRLY01
+Bacteria	JBDRLZ01	1	1	1	1			single eligible family	JBDRLZ01
+Bacteria	JBDRMW01	2	1	1	1	0.31423	0.5499025	region medoids, farthest-first to per-order target	JBDRMW01
+Bacteria	JBDRON01	1	1	1	1			single eligible family	JBDRON01
+Bacteria	JBDRYB01	1	1	1	1			single eligible family	JBDRYB01
+Bacteria	JBDZUN01	1	1	1	1			single eligible family	JBDZUN01
+Bacteria	JBFIID01	1	1	1	1			single eligible family	JBFIID01
+Bacteria	JBFLWA01	2	1	1	1	0.24277	0.4248475	region medoids, farthest-first to per-order target	JBFLWA01
+Bacteria	JBFLXN01	1	1	1	1			single eligible family	JBFLXN01
+Bacteria	JBFLYD01	2	1	1	1	0.24289	0.4250575	region medoids, farthest-first to per-order target	JBBIMS01
+Bacteria	JBFMBV01	1	1	1	1			single eligible family	JBFMBV01
+Bacteria	JBFMGF01	1	1	1	1			single eligible family	JBFMGF01
+Bacteria	JBFMGH01	1	1	1	1			single eligible family	JBFMGH01
+Bacteria	JBFMHD01	1	1	1	1			single eligible family	JBFMHD01
+Bacteria	JBFWNO01	1	1	1	1			single eligible family	JBFWNO01
+Bacteria	JBFWNS01	1	1	1	1			single eligible family	JBFWNS01
+Bacteria	JBFXJJ01	1	1	1	1			single eligible family	JBFXJJ01
+Bacteria	JBGSIU01	1	1	1	1			single eligible family	JBGSIU01
+Bacteria	JBGSLN01	1	1	1	1			single eligible family	JBGSLN01
+Bacteria	JBHHUU01	1	1	1	1			single eligible family	JBHHUU01
+Bacteria	JBHHXV01	1	1	1	1			single eligible family	JBHHXV01
+Bacteria	JBHIAT01	1	1	1	1			single eligible family	JBHIAT01
+Bacteria	JBHICW01	1	1	1	1			single eligible family	JBHICW01
+Bacteria	JBHICX01	1	1	1	1			single eligible family	JBHICX01
+Bacteria	JBHIDP01	1	1	1	1			single eligible family	JBHIDP01
+Bacteria	JBHOQS01	1	1	1	1			single eligible family	JBHOQS01
+Bacteria	JBHPGJ01	1	1	1	1			single eligible family	JBHPGJ01
+Bacteria	JBILKX01	1	1	1	1			single eligible family	JBILKX01
+Bacteria	JBIOEC01	1	1	1	1			single eligible family	JBIOEC01
+Bacteria	JBJDXG01	1	1	1	1			single eligible family	JBJDXG01
+Bacteria	JBJXGV01	1	1	1	1			single eligible family	JBJXGV01
+Bacteria	JBKEAR01	1	1	1	1			single eligible family	JBKEAR01
+Bacteria	JBKEDG01	1	1	1	1			single eligible family	JBKEDG01
+Bacteria	JBKHBT01	1	1	1	1			single eligible family	JBKHBT01
+Bacteria	JBLNCG01	1	1	1	1			single eligible family	JBLNCG01
+Bacteria	JBMOFM01	1	1	1	1			single eligible family	JBMOFM01
+Bacteria	JBMOMH01	1	1	1	1			single eligible family	JBMOMH01
+Bacteria	JBOFGC01	1	1	1	1			single eligible family	JBOFGC01
+Bacteria	JBOGEN01	1	1	1	1			single eligible family	JBOGEN01
+Bacteria	JBOHHR01	1	1	1	1			single eligible family	JBOHHR01
+Bacteria	JBPCXB01	1	1	1	1			single eligible family	JBPCXB01
+Bacteria	JBPCXK01	1	1	1	1			single eligible family	JBPCXK01
+Bacteria	JC444	1	1	1	1			single eligible family	Marispirochaetaceae
+Bacteria	JGIOTU-2	3	2	2	1	0.23099	0.4042325	all region medoids + farthest-first family additions to per-order target	JBNGDW01;B8-G9
+Bacteria	JdFR-54	1	1	1	1			single eligible family	JdFR-54
+Bacteria	JdFR-76	3	2	2	1	0.14037	0.2456475	all region medoids + farthest-first family additions to per-order target	JdFR-76;BMS3Abin05
+Bacteria	JdFR-78	1	1	1	1			single eligible family	JdFR-78
+Bacteria	Jiangellales	1	1	1	1			single eligible family	Jiangellaceae
+Bacteria	Johnevansiales	1	1	1	1			single eligible family	Johnevansiaceae
+Bacteria	Joyebacterales	1	1	1	1			single eligible family	Joyebacteraceae
+Bacteria	Kaelpiales	1	1	1	1			single eligible family	Kaelpiaceae
+Bacteria	Kapaibacteriales	11	6	6	1	0.25304	0.44282	all region medoids + farthest-first family additions to per-order target	UB7675;HRBIN21;JAEUSM01;Kapaibacteriaceae;UBA2268;WFXC01
+Bacteria	Kazan-3B-28	2	1	1	1	0.38397	0.6719475	region medoids, farthest-first to per-order target	Kazan-3B-28
+Bacteria	Kiloniellales	10	6	6	1	0.14161	0.2478175	all region medoids + farthest-first family additions to per-order target	J153;JACOMY01;DSM-21159;Rhodovibrionaceae;CECT-8803;CBDCUY01
+Bacteria	Kiritimatiellales	3	1	1	1	0.24933	0.4363275	region medoids, farthest-first to per-order target	Tichowtungiaceae
+Bacteria	Koleobacterales	3	2	2	1	0.1134	0.19845	all region medoids + farthest-first family additions to per-order target	JARRCM01;UBA3567
+Bacteria	Kolteriales	1	1	1	1			single eligible family	Kolteriaceae
+Bacteria	Krumholzibacteriales	3	2	2	1	0.19108	0.33439	all region medoids + farthest-first family additions to per-order target	Krumholzibacteriaceae;WJIX01
+Bacteria	Kryptoniales	2	1	1	1	0.265	0.46375	region medoids, farthest-first to per-order target	JAKASW01
+Bacteria	Ktedonobacterales	4	3	3	1	0.264405	0.46270875	all region medoids + farthest-first family additions to per-order target	DATBGS01;JACDGC01;Ktedonobacteraceae
+Bacteria	Kuafuiibacteriales	1	1	1	1			single eligible family	Kuafuiibacteriaceae
+Bacteria	Kyrpidiales	1	1	1	1			single eligible family	Kyrpidiaceae
+Bacteria	LBFQ01	2	1	1	1	0.53109	0.9294075	region medoids, farthest-first to per-order target	DSFT01
+Bacteria	LMEP-6097	2	1	1	1	0.25719	0.4500825	region medoids, farthest-first to per-order target	CAYGPN01
+Bacteria	LZORAL124-64-63	1	1	1	1			single eligible family	LZORAL124-64-63
+Bacteria	Lachnospirales	33	11	11	10	0.20043	0.3507525	all region medoids + farthest-first family additions to per-order target	JAKSVV01;Bianqueaceae;JAOARL01;CAMVHY01;CAMZNU01;CAYYRV01;WRAA01;DSM-24629;Defluviitaleaceae;JAVBJQ01;UBA12420
+Bacteria	Lactobacillales	9	1	1	3	0.15504	0.27132	region medoids, farthest-first to per-order target	Listeriaceae
+Bacteria	Latescibacterales	1	1	1	1			single eligible family	Latescibacteraceae
+Bacteria	Legionellales	1	1	1	1			single eligible family	Legionellaceae
+Bacteria	Lentisphaerales	1	1	1	1			single eligible family	Lentisphaeraceae
+Bacteria	Leptolyngbyales	1	1	1	1			single eligible family	Leptolyngbyaceae
+Bacteria	Leptospirales	2	1	1	1	0.45594	0.797895	region medoids, farthest-first to per-order target	Leptonemataceae
+Bacteria	Leptospirillales	1	1	1	1			single eligible family	Leptospirillaceae
+Bacteria	Lernaellales	1	1	1	1			single eligible family	Lernaellaceae
+Bacteria	Levybacterales	3	1	1	1	0.35319	0.6180825	region medoids, farthest-first to per-order target	UBA12049
+Bacteria	Limisphaerales	76	16	16	20	0.1468	0.2569	region medoids, farthest-first to per-order target	UBA1412;CAIMTB01;UBA1096;JAOAIM01;CAZZJO01;JAJOIW01;DUCD01;UBA1100;CAZKNW01;CAZBKV01;CAZFVY01;JAYPXF01;AAA164-E04;JAIPKD01;CANJSG01;JBFMBT01
+Bacteria	Limnochordales	4	2	2	1	0.315785	0.55262375	all region medoids + farthest-first family additions to per-order target	Limnochordaceae;DUMU01
+Bacteria	Limnocylindrales	2	1	1	1	0.3611	0.631925	region medoids, farthest-first to per-order target	CSP1-4
+Bacteria	Longimicrobiales	3	2	2	1	0.25897	0.4531975	all region medoids + farthest-first family additions to per-order target	RSA9;Gaopeijiaceae
+Bacteria	Lucifugimonadales	54	13	13	12	0.256735	0.44928625	all region medoids + farthest-first family additions to per-order target	UBA826;DAOUAM01;GCA-2719675;GCA-2722455;Lucifugimonadaceae;GCA-002694895;CBDFII01;CAZDRU01;QGNO01;HRBIN23;JACPQL01;CAYTFF01;SAR202-VII-2
+Bacteria	Lutisporales	1	1	1	1			single eligible family	Lutisporaceae
+Bacteria	M2410	1	1	1	1			single eligible family	M2410
+Bacteria	M30B25	1	1	1	1			single eligible family	M30B25
+Bacteria	M30B66	1	1	1	1			single eligible family	M30B66
+Bacteria	M55B111	1	1	1	1			single eligible family	M55B111
+Bacteria	M55B152	2	1	1	1	0.33884	0.59297	region medoids, farthest-first to per-order target	CAYOMG01
+Bacteria	MAG-NZ	1	1	1	1			single eligible family	MAG-NZ
+Bacteria	MC1	1	1	1	1			single eligible family	MC1
+Bacteria	MED-G09	1	1	1	1			single eligible family	MED-G09
+Bacteria	MEIF01	1	1	1	1			single eligible family	AqS3
+Bacteria	MFGW01	1	1	1	1			single eligible family	MFGW01
+Bacteria	MHYJ01	1	1	1	1			single eligible family	JACPRB01
+Bacteria	ML615J-28	2	1	1	1	0.31978	0.559615	region medoids, farthest-first to per-order target	CAG-313
+Bacteria	MOL361	1	1	1	1			single eligible family	Turicibacteraceae
+Bacteria	MPNO01	5	3	3	1	0.1648	0.2884	all region medoids + farthest-first family additions to per-order target	MPNO01;DASWLB01;VGEU01
+Bacteria	MSB-5A5	3	1	1	1	0.20829	0.3645075	region medoids, farthest-first to per-order target	RBG-16-43-9
+Bacteria	MVCY01	2	1	1	1	0.17746	0.310555	region medoids, farthest-first to per-order target	DTYK01
+Bacteria	MVZB01	2	1	1	1	0.31246	0.546805	region medoids, farthest-first to per-order target	JAJFLK01
+Bacteria	MWAK01	1	1	1	1			single eligible family	MWAK01
+Bacteria	MWCT01	3	2	2	1	0.30145	0.5275375	all region medoids + farthest-first family additions to per-order target	JAUWMI01;MWCT01
+Bacteria	MWCZ01	2	1	1	1	0.33007	0.5776225	region medoids, farthest-first to per-order target	CAZVGZ01
+Bacteria	MWEM01	1	1	1	1			single eligible family	MWEM01
+Bacteria	Macinerneyibacteriales	3	1	1	1	0.2692	0.4711	region medoids, farthest-first to per-order target	DSCS01
+Bacteria	Magasanikbacterales	10	6	6	1	0.41678	0.729365	all region medoids + farthest-first family additions to per-order target	UBA10003;GCA-002688135;UBA922;2-02-FULL-50-9b;JBBTQS01;UBA10197
+Bacteria	Magnetococcales	11	6	6	1	0.19304	0.33782	all region medoids + farthest-first family additions to per-order target	CAYFNE01;JADGAP01;JADGAQ01;Magnetococcaceae;DC0425bin3;JADGBX01
+Bacteria	Magnimaribacterales	4	3	3	1	0.385195	0.67409125	all region medoids + farthest-first family additions to per-order target	Magnimaribacteraceae;TMED112;D2472
+Bacteria	Mahellales	1	1	1	1			single eligible family	Mahellaceae
+Bacteria	Marinacidobacterales	3	2	2	2	0.17528	0.30674	region medoids, farthest-first to per-order target	Marinacidobacteraceae;DATDRI01
+Bacteria	Marinisomatales	16	7	7	3	0.1979	0.346325	all region medoids + farthest-first family additions to per-order target	SCKK01;JAADGP01;Marinisomataceae;AB-629-J13;UBA1611;CAZVFT01;TCS55
+Bacteria	Mariprofundales	3	2	2	1	0.20939	0.3664325	all region medoids + farthest-first family additions to per-order target	Mariprofundaceae;S012-25
+Bacteria	Mesoaciditogales	1	1	1	1			single eligible family	Mesoaciditogaceae
+Bacteria	Methylacidiphilales	11	6	6	2	0.26299	0.4602325	all region medoids + farthest-first family additions to per-order target	JAAUTS01;GAS474;CAYYVW01;Methylacidiphilaceae;JANWVL01;CAMAQI01
+Bacteria	Methylaequorales	1	1	1	1			single eligible family	Methylaequoraceae
+Bacteria	Methylococcales	10	6	6	1	0.151765	0.26558875	all region medoids + farthest-first family additions to per-order target	UBA2778;Cycloclasticaceae;DRLZ01;Methylothermaceae;UBA2780;Methylococcaceae
+Bacteria	Methylohalomonadales	1	1	1	1			single eligible family	Methylohalomonadaceae
+Bacteria	Methylomirabilales	7	5	5	1	0.21516	0.37653	all region medoids + farthest-first family additions to per-order target	JACRGL01;DASPOZ01;Methylomirabilaceae;CSP1-5;JACPAU01
+Bacteria	Micavibrionales	8	5	5	1	0.269565	0.47173875	all region medoids + farthest-first family additions to per-order target	UBA1664;GCA-2720935;JBBKXB01;UBA2020;SZUA-601
+Bacteria	Micropepsales	1	1	1	1			single eligible family	Micropepsaceae
+Bacteria	Miltoncostaeales	1	1	1	1			single eligible family	Miltoncostaeaceae
+Bacteria	Minisyncoccales	78	16	16	16	0.34805	0.6090875	region medoids, farthest-first to per-order target	CAYUUM01;JAGOPM01;CAYPLZ01;HRBIN34;UBA1441;JAZDGI01;UBA10102;Minisyncoccaceae;DAOWIS01;CG1-02-41-26;CSSED10-335;JAGLUP01;CAZLLZ01;CAZJJV01;MHMH01;CAZWEN01
+Bacteria	Minwuiales	1	1	1	1			single eligible family	Minwuiaceae
+Bacteria	Moduliflexales	2	1	1	1	0.2607	0.456225	region medoids, farthest-first to per-order target	JAUQPW01
+Bacteria	Monoglobales	6	2	2	2	0.298945	0.52315375	region medoids, farthest-first to per-order target	JAIRYP01;Firm-18
+Bacteria	Moranbacterales	12	6	6	2	0.298905	0.52308375	all region medoids + farthest-first family additions to per-order target	JAPLXC01;DUUL01;GCA-2747515;UBA1568;UBA11712;UBA2206
+Bacteria	Motilibacterales	1	1	1	1			single eligible family	Motilibacteraceae
+Bacteria	Muellerivitales	2	1	1	1	0.24383	0.4267025	region medoids, farthest-first to per-order target	DAHXKG01
+Bacteria	Muiribacteriales	1	1	1	1			single eligible family	Muiribacteriaceae
+Bacteria	Multivoradales	12	7	7	2	0.219545	0.38420375	all region medoids + farthest-first family additions to per-order target	JBJKRB01;DATKCC01;CAZRFU01;Multivoraceae;J023;JAHZIX01;JAIOJS01
+Bacteria	Mycobacteriales	19	8	8	5	0.16747	0.2930725	all region medoids + farthest-first family additions to per-order target	SCTD01;DASULA01;Antricoccaceae;Pseudonocardiaceae;Cryptosporangiaceae;CAVVZQ01;Nakamurellaceae;CAJCIY01
+Bacteria	Mycoplasmatales	15	7	7	2	0.72082	1.261435	all region medoids + farthest-first family additions to per-order target	CGIF01;Nriv7;MT37;SG1;G963692675;G965222545;JABAAY01
+Bacteria	Myxococcales	9	5	5	1	0.26273	0.4597775	all region medoids + farthest-first family additions to per-order target	Myxococcaceae;JAJYLH01;Anaeromyxobacteraceae;40CM-4-68-19;JAKAPL01
+Bacteria	NMUJ01	2	1	1	1	0.47688	0.83454	region medoids, farthest-first to per-order target	CBEVQO01
+Bacteria	NORP154	1	1	1	1			single eligible family	NORP154
+Bacteria	NPL-UPA2	3	1	1	1	0.18018	0.315315	region medoids, farthest-first to per-order target	JAGMAN01
+Bacteria	NS11-12g	2	1	1	1	0.30314	0.530495	region medoids, farthest-first to per-order target	UBA9320
+Bacteria	Nannocystales	1	1	1	1			single eligible family	Nannocystaceae
+Bacteria	Nanopelagicales	1	1	1	1			single eligible family	Nanopelagicaceae
+Bacteria	Natranaerobiales	2	1	1	1	0.21679	0.3793825	region medoids, farthest-first to per-order target	Natranaerobiaceae
+Bacteria	Natronospirales	9	5	5	1	0.14635	0.2561125	all region medoids + farthest-first family additions to per-order target	CAVUBB01;JANNEA01;Natronospiraceae;JAIVGZ01;JAZFYH01
+Bacteria	Nemesobacterales	8	5	5	2	0.195075	0.34138125	all region medoids + farthest-first family additions to per-order target	UBA2774;Mycalebacteriaceae;JAJCZQ01;JADFKM01;N074bin48
+Bacteria	Neomoorellales	3	1	1	1	0.22314	0.390495	region medoids, farthest-first to per-order target	Neomoorellaceae
+Bacteria	Neosynechococcales	1	1	1	1			single eligible family	Neosynechococcaceae
+Bacteria	Nevskiales	8	5	5	1	0.193845	0.33922875	all region medoids + farthest-first family additions to per-order target	DATLYR01;Oceanococcaceae;Salinisphaeraceae;Nevskiaceae;OUC007
+Bacteria	Nitriliruptorales	2	1	1	1	0.20766	0.363405	region medoids, farthest-first to per-order target	JAHWKO01
+Bacteria	Nitrococcales	5	3	3	1	0.13194	0.230895	all region medoids + farthest-first family additions to per-order target	AK92;Halorhodospiraceae;Nitrococcaceae
+Bacteria	Nitrosococcales	2	1	1	1	0.1872	0.3276	region medoids, farthest-first to per-order target	Methylophagaceae
+Bacteria	Nitrospinales	4	1	1	1	0.184905	0.32358375	region medoids, farthest-first to per-order target	VA-1
+Bacteria	Nitrospirales	4	2	2	2	0.206365	0.36113875	region medoids, farthest-first to per-order target	UBA2166;Nitrospiraceae
+Bacteria	O2-12-FULL-43-9	1	1	1	1			single eligible family	O2-12-FULL-43-9
+Bacteria	O2-12-FULL-45-9	2	1	1	1	0.27776	0.48608	region medoids, farthest-first to per-order target	O2-12-FULL-45-9
+Bacteria	O2-12-FULL-59-9	1	1	1	1			single eligible family	O2-12-FULL-59-9
+Bacteria	OFTM77	1	1	1	1			single eligible family	OFTM77
+Bacteria	OLB16	1	1	1	1			single eligible family	OLB16
+Bacteria	OLB7	1	1	1	1			single eligible family	OLB7
+Bacteria	OXYB2-FULL-49-7	2	1	1	1	0.24965	0.4368875	region medoids, farthest-first to per-order target	JAEUSG01
+Bacteria	Obscuribacterales	2	1	1	1	0.28309	0.4954075	region medoids, farthest-first to per-order target	JAKAZS01
+Bacteria	Oceanibaculales	1	1	1	1			single eligible family	Oceanibaculaceae
+Bacteria	Oceanimicrobiales	3	2	2	1	0.12896	0.22568	all region medoids + farthest-first family additions to per-order target	CAZMEG01;CAZGRP01
+Bacteria	Oederibacteriales	1	1	1	1			single eligible family	Oederibacteriaceae
+Bacteria	Oleimicrobiales	1	1	1	1			single eligible family	Geothermoviventaceae
+Bacteria	Oligoflexales	14	6	6	2	0.309785	0.54212375	all region medoids + farthest-first family additions to per-order target	CAZZCU01;Bin106;JAPPIL01;JBIKVD01;Bog-1112;JALZUQ01
+Bacteria	Oligosphaerales	12	6	6	3	0.22251	0.3893925	all region medoids + farthest-first family additions to per-order target	JBFJXC01;JABHEG01;Oligosphaeraceae;MVZH01;CAITYL01;PUNB01
+Bacteria	Omnitrophales	10	6	6	1	0.31597	0.5529475	all region medoids + farthest-first family additions to per-order target	Danuiimicrobiaceae;CAZLUT01;JACQQS01;JACROU01;JAQTRP01;CAZPNG01
+Bacteria	Opitutales	39	11	11	5	0.27033	0.4730775	all region medoids + farthest-first family additions to per-order target	LL51;JAIRLM01;UBA12508;UBA953;CAZQIE01;JANYDI01;JAIRKQ01;Seribacteraceae;UBA9783;JAFGAQ01;CAZYUX01
+Bacteria	Orphanbacterales	1	1	1	1			single eligible family	Orphanbacteraceae
+Bacteria	Oscillospirales	29	10	10	4	0.31196	0.54593	all region medoids + farthest-first family additions to per-order target	SIG627;JAGBHD01;JAVBQB01;SIG519;WRJC01;RGIG5554;CAG-382;QAMX01;CAG-272;UBA644
+Bacteria	Ozemobacterales	1	1	1	1			single eligible family	Ozemobacteraceae
+Bacteria	P2-11E	2	1	1	1	0.29796	0.52143	region medoids, farthest-first to per-order target	CF-107
+Bacteria	PCC-6307	1	1	1	1			single eligible family	Cyanobiaceae
+Bacteria	PCC-7407	1	1	1	1			single eligible family	PCC-7407
+Bacteria	PCC-9006	1	1	1	1			single eligible family	JAAUQQ01
+Bacteria	PEXW01	2	1	1	1	0.40525	0.7091875	region medoids, farthest-first to per-order target	CAZGDO01
+Bacteria	PEYW01	1	1	1	1			single eligible family	PEYW01
+Bacteria	PFEM01	10	6	6	2	0.340125	0.59521875	all region medoids + farthest-first family additions to per-order target	JAHIFH01;PFEM01;JAFGMK01;CAYPPS01;CAZTHI01;JBDRBL01
+Bacteria	PGYV01	10	4	4	1	0.23641	0.4137175	all region medoids + farthest-first family additions to per-order target	CAYNMZ01;CAILUR01;DYJU01;CAYTNY01
+Bacteria	PH28-bin88	1	1	1	1			single eligible family	PH28-bin88
+Bacteria	PHAN01	1	1	1	1			single eligible family	PHAN01
+Bacteria	PHBI01	6	2	2	1	0.18843	0.3297525	all region medoids + farthest-first family additions to per-order target	JAWLBL01;CALCNF01
+Bacteria	PIVX01	1	1	1	1			single eligible family	PIVX01
+Bacteria	PIWD01	1	1	1	1			single eligible family	PIWD01
+Bacteria	PLA2	2	1	1	1	0.57711	1.0099425	region medoids, farthest-first to per-order target	JAEUHO01
+Bacteria	PS1	1	1	1	1			single eligible family	Pseudothioglobaceae
+Bacteria	PUPC01	1	1	1	1			single eligible family	PUPC01
+Bacteria	PWKH01	1	1	1	1			single eligible family	PWKH01
+Bacteria	PWKZ01	2	1	1	1	0.33266	0.582155	region medoids, farthest-first to per-order target	CAYRCM01
+Bacteria	PWPR01	1	1	1	1			single eligible family	PWPR01
+Bacteria	PWTM01	1	1	1	1			single eligible family	PWTM01
+Bacteria	PWVN01	1	1	1	1			single eligible family	PWVN01
+Bacteria	Paenibacillales	20	8	8	3	0.10952	0.19166	all region medoids + farthest-first family additions to per-order target	KCTC-33676;CANHCR01;JAWLCZ01;CANHGK01;Paenibacillaceae;NBRC-103111;DA-C8;JBEGSW01
+Bacteria	Palauibacterales	2	1	1	1	0.31158	0.545265	region medoids, farthest-first to per-order target	KS3-K002
+Bacteria	Palsa-1104	3	1	1	1	0.21436	0.37513	region medoids, farthest-first to per-order target	Palsa-1104
+Bacteria	Palsa-1295	1	1	1	1			single eligible family	Palsa-1295
+Bacteria	Palsa-1439	3	2	2	1	0.28385	0.4967375	all region medoids + farthest-first family additions to per-order target	CAZOTB01;Palsa-1439
+Bacteria	Palsa-948	1	1	1	1			single eligible family	Palsa-948
+Bacteria	Palsa-965	1	1	1	1			single eligible family	Palsa-965
+Bacteria	Paracaedibacterales	8	5	5	2	0.195735	0.34253625	all region medoids + farthest-first family additions to per-order target	Paracaedibacteraceae;CANFPP01;JAKBAR01;CAITNM01;UBA11393
+Bacteria	Parvibaculales	1	1	1	1			single eligible family	Parvibaculaceae
+Bacteria	Patescibacteriales	26	9	9	3	0.278685	0.48769875	all region medoids + farthest-first family additions to per-order target	JALTFF01;VMTK01;JAHJJO01;XYC2-FULL-47-12;Patescibacteriaceae;JAGXOH01;UBA12465;UM-FILTER-48-10;BS150m-G62
+Bacteria	Pelagibacterales	2	1	1	1	0.39948	0.69909	region medoids, farthest-first to per-order target	AG-422-B15
+Bacteria	Peptococcales	4	2	2	1	0.21358	0.373765	all region medoids + farthest-first family additions to per-order target	BICA1-8;Peptococcaceae
+Bacteria	Peptostreptococcales	12	7	7	4	0.20571	0.3599925	all region medoids + farthest-first family additions to per-order target	Filifactoraceae;Natronincolaceae;Anaerovoracaceae;Caminicellaceae;Peptostreptococcaceae;Tindalliaceae;T1SED10-28
+Bacteria	Peribacterales	1	1	1	1			single eligible family	Peribacteraceae
+Bacteria	Petrotogales	2	1	1	1	0.39342	0.688485	region medoids, farthest-first to per-order target	Kosmotogaceae
+Bacteria	Phoenicimicrobiales	2	1	1	1	0.27057	0.4734975	region medoids, farthest-first to per-order target	Phoenicimicrobiaceae
+Bacteria	Phormidesmidales	1	1	1	1			single eligible family	Phormidesmidaceae
+Bacteria	Phycisphaerales	6	4	4	1	0.31903	0.5583025	all region medoids + farthest-first family additions to per-order target	UBA5793;Phycisphaeraceae;UBA1924;JAGLTS01
+Bacteria	Phycocordibacterales	114	19	19	8	0.360395	0.63069125	all region medoids + farthest-first family additions to per-order target	JARIHA01;DATGWK01;NVSU01;JANLHH01;UBA3531;JADFSL01;GCA-2747955;JABAAK01;JACRKE01;JAACPR01;SW-6-46-9;JBBUBG01;Phycocordibacteraceae;UBA2100;EsbW-18;UBA12079;CSBR16-193;UBA5272;JACOZG01
+Bacteria	Pirellulales	28	10	10	5	0.18805	0.3290875	all region medoids + farthest-first family additions to per-order target	JBBDJB01;DATAWG01;JAIMBC01;Pb10988;UBA1268;S012-138;Pirellulaceae;JANQPP01;Thermoguttaceae;CAYNRE01
+Bacteria	Piscirickettsiales	1	1	1	1			single eligible family	Piscirickettsiaceae
+Bacteria	Planctomycetales	1	1	1	1			single eligible family	Planctomycetaceae
+Bacteria	Pluralincolimonadales	2	1	1	1	0.15788	0.27629	region medoids, farthest-first to per-order target	CAZUZR01
+Bacteria	Plut-88900	1	1	1	1			single eligible family	Plut-88900
+Bacteria	Polarisedimenticolales	6	3	3	1	0.1807	0.316225	all region medoids + farthest-first family additions to per-order target	CAVOVZ01;DASRJG01;JBBIHH01
+Bacteria	Polyangiales	18	8	8	2	0.26377	0.4615975	all region medoids + farthest-first family additions to per-order target	JADJMO01;JBDIVX01;Ga0077539;JAFGIB01;JADZFZ01;SLQV01;DASUME01;GCA-016699535
+Bacteria	Porifericomitales	1	1	1	1			single eligible family	Porifericomitaceae
+Bacteria	Poriferisulfidales	4	2	2	1	0.304195	0.53234125	all region medoids + farthest-first family additions to per-order target	JAYYZZ01;Oxydemutatoraceae
+Bacteria	Portnoybacterales	6	3	3	1	0.38359	0.6712825	all region medoids + farthest-first family additions to per-order target	GCA-002795985;CG1-02-40-25;UBA2143
+Bacteria	Prado026	1	1	1	1			single eligible family	Prado026
+Bacteria	Prochlorotrichales	1	1	1	1			single eligible family	Prochlorotrichaceae
+Bacteria	Promineifilales	2	1	1	1	0.36385	0.6367375	region medoids, farthest-first to per-order target	Promineifilaceae
+Bacteria	Propionibacteriales	5	1	1	1	0.21483	0.3759525	region medoids, farthest-first to per-order target	Nocardioidaceae
+Bacteria	Propionisporales	1	1	1	1			single eligible family	Propionisporaceae
+Bacteria	Proteinivoracales	1	1	1	1			single eligible family	Proteinivoracaceae
+Bacteria	Pseudanabaenales	1	1	1	1			single eligible family	Pseudanabaenaceae
+Bacteria	Pseudomonadales	57	14	14	7	0.16808	0.29414	all region medoids + farthest-first family additions to per-order target	Spongiibacteraceae;JAILXX01;Azotimanducaceae;Zooshikellaceae;DC-out160;JADFDG01;JAYPBG01;Litorivicinaceae;JAXHSS01;UBA5862;Pseudohongiellaceae;JBECKS01;JBFGWM01;JANQJO01
+Bacteria	Puniceispirillales	4	3	3	1	0.221245	0.38717875	all region medoids + farthest-first family additions to per-order target	Puniceispirillaceae;Marisalimonadaceae;GCA-002684695
+Bacteria	Pyrinomonadales	1	1	1	1			single eligible family	Pyrinomonadaceae
+Bacteria	QHBO01	1	1	1	1			single eligible family	QHBO01
+Bacteria	QHBQ01	3	2	2	1	0.29832	0.52206	all region medoids + farthest-first family additions to per-order target	JAICKM01;QHBQ01
+Bacteria	QNBC01	1	1	1	1			single eligible family	QNBC01
+Bacteria	QNDG01	7	4	4	1	0.20801	0.3640175	all region medoids + farthest-first family additions to per-order target	DSAB01;CAYUAG01;JAGLOF01;DTFT01
+Bacteria	QNFE01	2	1	1	1	0.26458	0.463015	region medoids, farthest-first to per-order target	CAZPSE01
+Bacteria	QNFN01	1	1	1	1			single eligible family	QNFN01
+Bacteria	QOAV01	1	1	1	1			single eligible family	QOAV01
+Bacteria	QQUJ01	1	1	1	1			single eligible family	QQUJ01
+Bacteria	QS-5-54-17	1	1	1	1			single eligible family	QS-5-54-17
+Bacteria	QYQD01	2	1	1	1	0.12903	0.2258025	region medoids, farthest-first to per-order target	JAZDGK01
+Bacteria	QZLD01	1	1	1	1			single eligible family	QZLD01
+Bacteria	RBC074	1	1	1	1			single eligible family	RBC074
+Bacteria	RBG-13-40-8-A	2	1	1	1	0.34676	0.60683	region medoids, farthest-first to per-order target	JAUWHN01
+Bacteria	RBG-13-43-22	1	1	1	1			single eligible family	RBG-13-43-22
+Bacteria	RBG-13-44-9	3	2	2	1	0.15773	0.2760275	all region medoids + farthest-first family additions to per-order target	J042;RBG-13-44-9
+Bacteria	RBG-13-61-14	4	2	2	1	0.24452	0.42791	all region medoids + farthest-first family additions to per-order target	RBG-13-61-14;DRUE01
+Bacteria	RBG-13-66-14	1	1	1	1			single eligible family	RBG-13-66-14
+Bacteria	RBG-16-42-10	1	1	1	1			single eligible family	RBG-16-42-10
+Bacteria	RBG-16-55-9	5	3	3	1	0.37938	0.663915	all region medoids + farthest-first family additions to per-order target	DRJF01;JAJCYT01;JANLFV01
+Bacteria	RBG-16-57-12	1	1	1	1			single eligible family	RBG-16-57-12
+Bacteria	RBG-16-64-13	1	1	1	1			single eligible family	RBG-16-64-13
+Bacteria	RBG-16-64-22	1	1	1	1			single eligible family	RBG-16-64-22
+Bacteria	RBG-16-71-46	3	1	1	1	0.3011	0.526925	region medoids, farthest-first to per-order target	DASYSL01
+Bacteria	RBS10-35	5	3	3	2	0.25474	0.445795	all region medoids + farthest-first family additions to per-order target	Bu92;JAJYVM01;JAJYVN01
+Bacteria	RECH01	1	1	1	1			single eligible family	RECH01
+Bacteria	REDH01	1	1	1	1			single eligible family	REDH01
+Bacteria	RF32	1	1	1	1			single eligible family	CAG-239
+Bacteria	RF39	2	1	1	1	0.45247	0.7918225	region medoids, farthest-first to per-order target	JBKDZI01
+Bacteria	RFN20	8	5	5	2	0.34961	0.6118175	all region medoids + farthest-first family additions to per-order target	CAG-449;DUOZ01;CAG-631;DUOF01;CAG-288
+Bacteria	RFP12	10	5	5	2	0.23288	0.40754	all region medoids + farthest-first family additions to per-order target	JAZUKQ01;CAYQJG01;UBA3636;JBMNHG01;DVOR01
+Bacteria	RGIG6154	1	1	1	1			single eligible family	RGIG6154
+Bacteria	RGIG7378	1	1	1	1			single eligible family	RGIG7378
+Bacteria	RGIG8785	1	1	1	1			single eligible family	RGIG8785
+Bacteria	RGIG982	1	1	1	1			single eligible family	RGIG982
+Bacteria	RGZZ01	1	1	1	1			single eligible family	RGZZ01
+Bacteria	RPQK01	16	7	7	3	0.173075	0.30288125	all region medoids + farthest-first family additions to per-order target	JBOGJG01;JBHHYX01;DATIPO01;CBDAPI01;G965218465;JAPXNP01;JAJDTT01
+Bacteria	RPQS01	2	1	1	1	0.29535	0.5168625	region medoids, farthest-first to per-order target	DYHQ01
+Bacteria	RS24	2	1	1	1	0.22759	0.3982825	region medoids, farthest-first to per-order target	CBDDDD01
+Bacteria	RUG11792	1	1	1	1			single eligible family	RUG11792
+Bacteria	RUG12999	1	1	1	1			single eligible family	RUG12999
+Bacteria	RUG730	2	1	1	1	0.26041	0.4557175	region medoids, farthest-first to per-order target	JAAEPJ01
+Bacteria	RYN-182	1	1	1	1			single eligible family	RYN-182
+Bacteria	RZYC01	2	1	1	1	0.25748	0.45059	region medoids, farthest-first to per-order target	CAZAYP01
+Bacteria	Radicibacterales	1	1	1	1			single eligible family	Radicibacteraceae
+Bacteria	Residuimicrobiales	4	2	2	1	0.18532	0.32431	all region medoids + farthest-first family additions to per-order target	Krinioviventaceae;Residuimicrobiaceae
+Bacteria	Reyranellales	2	1	1	1	0.16412	0.28721	region medoids, farthest-first to per-order target	JAQSWP01
+Bacteria	Rhizobiales	59	14	14	6	0.16812	0.29421	all region medoids + farthest-first family additions to per-order target	Methylopilaceae;WTKA01;Rhodobiaceae;JAJFHC01;CBDCYM01;OSC116;JANPGK01;Devosiaceae;CBDCVD01;UBA4765;CAWCWK01;Tepidamorphaceae;JAJRRF01;CAZGNQ01
+Bacteria	Rhodobacterales	2	1	1	1	0.36757	0.6432475	region medoids, farthest-first to per-order target	CAZPXZ01
+Bacteria	Rhodospirillales	31	10	10	3	0.15468	0.27069	all region medoids + farthest-first family additions to per-order target	JACKKN01;Magnetospirillaceae;JAPHTL01;Thalassospiraceae;SHVU01;CAJXLG01;UBA2165;HT1-32;JASLLV01;Defluviicoccaceae
+Bacteria	Rhodothermales	25	9	9	3	0.15338	0.268415	all region medoids + farthest-first family additions to per-order target	MEBIC09517;JANQRZ01;UBA2364;CAYLXM01;DATKEJ01;CAZLRO01;UBA10348;Salinibacteraceae;Bin80
+Bacteria	Rickettsiales	39	11	11	11	0.24126	0.422205	region medoids, farthest-first to per-order target	CAIPFW01;Deianiraeaceae;CAWVOK01;G965195355;UBA1997;Anaplasmataceae;Rickettsiaceae;BLZN01;JABIRX01;JAFLCR01;Arcanibacteraceae
+Bacteria	Rokubacteriales	4	2	2	1	0.16764	0.29337	all region medoids + farthest-first family additions to per-order target	JACPHL01;CSP1-6
+Bacteria	Rs-D84	6	4	4	2	0.42098	0.736715	all region medoids + farthest-first family additions to per-order target	SZUA-605;JAERRO01;Rs-D84;CASDRH01
+Bacteria	Rubeoparvulales	1	1	1	1			single eligible family	Rubeoparvulaceae
+Bacteria	Rubrobacterales	1	1	1	1			single eligible family	Rubrobacteraceae
+Bacteria	Ryanbacterales	4	3	3	1	0.46088	0.80654	all region medoids + farthest-first family additions to per-order target	HO2-45-13;2-02-FULL-48-12;CAYHZD01
+Bacteria	S012-40	1	1	1	1			single eligible family	S012-40
+Bacteria	S016-19	1	1	1	1			single eligible family	S016-19
+Bacteria	S016-38	1	1	1	1			single eligible family	S016-38
+Bacteria	S139-126	2	1	1	1	0.35535	0.6218625	region medoids, farthest-first to per-order target	S139-126
+Bacteria	S140-20	1	1	1	1			single eligible family	S140-20
+Bacteria	S141-80	1	1	1	1			single eligible family	S141-80
+Bacteria	S143-82	1	1	1	1			single eligible family	S143-82
+Bacteria	S144-34	1	1	1	1			single eligible family	S144-34
+Bacteria	S145-22	1	1	1	1			single eligible family	S145-22
+Bacteria	S146-70	2	1	1	1	0.16581	0.2901675	region medoids, farthest-first to per-order target	JAUXIU01
+Bacteria	S146-80	2	1	1	1	0.15828	0.27699	region medoids, farthest-first to per-order target	JALXFI01
+Bacteria	S15B-MN24	4	2	2	1	0.25772	0.45101	all region medoids + farthest-first family additions to per-order target	UBA4093;JAQBPE01
+Bacteria	S36-B12	10	5	5	2	0.16099	0.2817325	all region medoids + farthest-first family additions to per-order target	JAWKJK01;UBA5976;GCA-2699445;UBA10799;CAIYMF01
+Bacteria	SAR324	2	1	1	1	0.41103	0.7193025	region medoids, farthest-first to per-order target	JACQKK01
+Bacteria	SB21	2	1	1	1	0.16873	0.2952775	region medoids, farthest-first to per-order target	JBBIRG01
+Bacteria	SBBB01	1	1	1	1			single eligible family	SBBB01
+Bacteria	SBBC01	3	2	2	1	0.38527	0.6742225	all region medoids + farthest-first family additions to per-order target	SBBC01;JACPUP01
+Bacteria	SBBH01	2	1	1	1	0.50344	0.88102	region medoids, farthest-first to per-order target	JACQRN01
+Bacteria	SBBL01	7	4	4	2	0.20018	0.350315	all region medoids + farthest-first family additions to per-order target	Manganitrophaceae;CAZSHZ01;SBBL01;SBBA01
+Bacteria	SC72	4	1	1	1	0.52869	0.9252075	region medoids, farthest-first to per-order target	WJKH01
+Bacteria	SCGC-AAA003-L08	5	3	3	1	0.23536	0.41188	all region medoids + farthest-first family additions to per-order target	JACNLC01;TS1B11;GCA-2689995
+Bacteria	SCPX01	1	1	1	1			single eligible family	SCPX01
+Bacteria	SDB-A	1	1	1	1			single eligible family	SDB-A
+Bacteria	SG130	1	1	1	1			single eligible family	SG130
+Bacteria	SG8-11	1	1	1	1			single eligible family	SG8-11
+Bacteria	SG8-24	2	1	1	1	0.41547	0.7270725	region medoids, farthest-first to per-order target	DYFX01
+Bacteria	SHNJ01	1	1	1	1			single eligible family	SHNJ01
+Bacteria	SHVP01	1	1	1	1			single eligible family	SHVP01
+Bacteria	SHVV01	1	1	1	1			single eligible family	SHVV01
+Bacteria	SHVW01	1	1	1	1			single eligible family	SHVW01
+Bacteria	SHVZ01	1	1	1	1			single eligible family	SHVZ01
+Bacteria	SHXV01	1	1	1	1			single eligible family	SHXV01
+Bacteria	SHYB01	1	1	1	1			single eligible family	SHYB01
+Bacteria	SHYD01	1	1	1	1			single eligible family	SHYD01
+Bacteria	SICC01	2	1	1	1	0.24752	0.43316	region medoids, farthest-first to per-order target	CAYSOT01
+Bacteria	SK-Y3	1	1	1	1			single eligible family	SK-Y3
+Bacteria	SKNC01	1	1	1	1			single eligible family	SKNC01
+Bacteria	SKW154	2	1	1	1	0.44803	0.7840525	region medoids, farthest-first to per-order target	DAOVDS01
+Bacteria	SKW223	2	1	1	1	0.3819	0.668325	region medoids, farthest-first to per-order target	CALKMS01
+Bacteria	SKW292	1	1	1	1			single eligible family	SKW292
+Bacteria	SKWO01	1	1	1	1			single eligible family	SKWO01
+Bacteria	SKYG9	1	1	1	1			single eligible family	SKYG9
+Bacteria	SKZP01	1	1	1	1			single eligible family	CAYZQB01
+Bacteria	SLAD01	1	1	1	1			single eligible family	SLAD01
+Bacteria	SLGR01	6	4	4	1	0.2832	0.4956	all region medoids + farthest-first family additions to per-order target	JAFGSA01;PWQF01;JAGXOG01;SLGR01
+Bacteria	SLMS01	4	1	1	1	0.31693	0.5546275	region medoids, farthest-first to per-order target	SLMS01
+Bacteria	SLMV01	1	1	1	1			single eligible family	SLMV01
+Bacteria	SLNR01	2	1	1	1	0.19403	0.3395525	region medoids, farthest-first to per-order target	JBMNPB01
+Bacteria	SLOV01	1	1	1	1			single eligible family	SLOV01
+Bacteria	SLPQ01	1	1	1	1			single eligible family	SLPQ01
+Bacteria	SLRQ01	1	1	1	1			single eligible family	SLRQ01
+Bacteria	SM1-40	1	1	1	1			single eligible family	SM1-40
+Bacteria	SM23-28-2	6	4	4	1	0.20857	0.3649975	all region medoids + farthest-first family additions to per-order target	JACOUE01;WHTN01;SM23-28-2;RBG-16-64-32
+Bacteria	SM23-31	1	1	1	1			single eligible family	SM23-31
+Bacteria	SM23-32	2	1	1	1	0.52008	0.91014	region medoids, farthest-first to per-order target	JAKLEA01
+Bacteria	SM23-33	2	1	1	1	0.27953	0.4891775	region medoids, farthest-first to per-order target	FEN-1343
+Bacteria	SM23-42	3	1	1	2	0.20911	0.3659425	region medoids, farthest-first to per-order target	JAOAFX01
+Bacteria	SM23-61	1	1	1	1			single eligible family	SM23-61
+Bacteria	SM23-81	1	1	1	1			single eligible family	SM23-81
+Bacteria	SMXP01	1	1	1	1			single eligible family	SMXP01
+Bacteria	SMXQ01	1	1	1	1			single eligible family	SMXQ01
+Bacteria	SMXS01	1	1	1	1			single eligible family	SMXS01
+Bacteria	SMYD01	1	1	1	1			single eligible family	SMYD01
+Bacteria	SOKK01	1	1	1	1			single eligible family	SOKK01
+Bacteria	SORT01	1	1	1	1			single eligible family	SORT01
+Bacteria	SP-2023	2	1	1	1	0.50695	0.8871625	region medoids, farthest-first to per-order target	CAYRNA01
+Bacteria	SP197	1	1	1	1			single eligible family	SP197
+Bacteria	SPBP01	1	1	1	1			single eligible family	SPBP01
+Bacteria	SPDA01	5	3	3	1	0.19701	0.3447675	all region medoids + farthest-first family additions to per-order target	CAZSGZ01;JBFMGN01;CAYXSD01
+Bacteria	SPJN01	1	1	1	1			single eligible family	SPJN01
+Bacteria	SPLOWO2-01-44-7	1	1	1	1			single eligible family	SPLOWO2-01-44-7
+Bacteria	SS1-B-03-39	2	1	1	1	0.3467	0.606725	region medoids, farthest-first to per-order target	PXDE01
+Bacteria	SSC4	1	1	1	1			single eligible family	Amarolineaceae
+Bacteria	SURF-13	1	1	1	1			single eligible family	SURF-13
+Bacteria	SURF-38	1	1	1	1			single eligible family	SURF-38
+Bacteria	SURF-47	1	1	1	1			single eligible family	SURF-47
+Bacteria	SURF-5	1	1	1	1			single eligible family	SURF-5
+Bacteria	SURF-8	4	3	3	1	0.32688	0.57204	all region medoids + farthest-first family additions to per-order target	G963663525;CAYNVS01;SURF-8
+Bacteria	SW-4-49-11	1	1	1	1			single eligible family	SW-4-49-11
+Bacteria	SXHM01	1	1	1	1			single eligible family	SXHM01
+Bacteria	SXXA01	3	2	2	1	0.30901	0.5407675	all region medoids + farthest-first family additions to per-order target	JAHFDB01;SICP01
+Bacteria	SYMT01	2	1	1	1	0.26072	0.45626	region medoids, farthest-first to per-order target	JACQGL01
+Bacteria	SZUA-140	1	1	1	1			single eligible family	SZUA-140
+Bacteria	SZUA-149	12	6	6	2	0.256195	0.44834125	all region medoids + farthest-first family additions to per-order target	JADZAE01;CAYMWO01;CAYOZL01;DAOLCO01;JAITKM01;JAEUWB01
+Bacteria	SZUA-152	1	1	1	1			single eligible family	SZUA-152
+Bacteria	SZUA-161	4	3	3	1	0.268	0.469	all region medoids + farthest-first family additions to per-order target	JAUWZY01;CAYRBX01;SpSt-899
+Bacteria	SZUA-182	1	1	1	1			single eligible family	SZUA-182
+Bacteria	SZUA-191	2	1	1	1	0.24641	0.4312175	region medoids, farthest-first to per-order target	JAJRXT01
+Bacteria	SZUA-21	1	1	1	1			single eligible family	SZUA-21
+Bacteria	SZUA-224	1	1	1	1			single eligible family	SZUA-224
+Bacteria	SZUA-229	1	1	1	1			single eligible family	SZUA-229
+Bacteria	SZUA-242	2	1	1	1	0.24937	0.4363975	region medoids, farthest-first to per-order target	CAYYSS01
+Bacteria	SZUA-252	1	1	1	1			single eligible family	SZUA-252
+Bacteria	SZUA-336	1	1	1	1			single eligible family	SZUA-336
+Bacteria	SZUA-365	4	3	3	1	0.18427	0.3224725	all region medoids + farthest-first family additions to per-order target	GCA-2699105;JAADGX01;CAYQST01
+Bacteria	SZUA-567	2	1	1	1	0.40137	0.7023975	region medoids, farthest-first to per-order target	JAFGNG01
+Bacteria	SZUA-6	8	5	5	2	0.28455	0.4979625	all region medoids + farthest-first family additions to per-order target	SZUA-6;Bin103;CAVTHK01;JAFGRV01;Fen-1364
+Bacteria	Saccharimonadales	69	15	15	13	0.22854	0.399945	all region medoids + farthest-first family additions to per-order target	CAIOMD01;VXPC01;CAZDBS01;CAZWFS01;CAYGIR01;JAQGHD01;DATKHC01;EFPC-124;HK-STAS-PATE-42;DTSZ01;CALFBO01;QWHN01;DASWIF01;UBA7683;SZUA-47
+Bacteria	Saccharofermentanales	4	1	1	1	0.291705	0.51048375	region medoids, farthest-first to per-order target	UBA5734
+Bacteria	Sedimentisphaerales	8	5	5	1	0.2527	0.442225	all region medoids + farthest-first family additions to per-order target	CAMDDF01;SM23-30;Sedimentisphaeraceae;Anaerobacaceae;UBA12454
+Bacteria	Selenomonadales	1	1	1	1			single eligible family	Selenomonadaceae
+Bacteria	Silvanigrellales	1	1	1	1			single eligible family	Silvanigrellaceae
+Bacteria	Sneathiellales	1	1	1	1			single eligible family	Sneathiellaceae
+Bacteria	SolTP2	1	1	1	1			single eligible family	SolTP2
+Bacteria	Solirubrobacterales	6	1	1	1	0.25053	0.4384275	region medoids, farthest-first to per-order target	JBBDJG01
+Bacteria	SpSt-1050	2	1	1	1	0.3193	0.558775	region medoids, farthest-first to per-order target	JACRCP01
+Bacteria	SpSt-1174	1	1	1	1			single eligible family	SpSt-1174
+Bacteria	SpSt-205	1	1	1	1			single eligible family	SpSt-205
+Bacteria	SpSt-223	1	1	1	1			single eligible family	SpSt-223
+Bacteria	SpSt-313	1	1	1	1			single eligible family	SpSt-313
+Bacteria	SpSt-600	1	1	1	1			single eligible family	SpSt-600
+Bacteria	SpSt-956	1	1	1	1			single eligible family	JAKJGF01
+Bacteria	Spechtbacterales	3	2	2	1	0.4391	0.768425	all region medoids + farthest-first family additions to per-order target	JACPHP01;HO2-43-30
+Bacteria	Sphaerochaetales	1	1	1	1			single eligible family	Sphaerochaetaceae
+Bacteria	Sphingobacteriales	1	1	1	1			single eligible family	Sphingobacteriaceae
+Bacteria	Sphingomonadales	10	6	6	1	0.18637	0.3261475	all region medoids + farthest-first family additions to per-order target	Govanellaceae;Sphingomonadaceae;Kordiimonadaceae;JBCDDR01;CAKZYD01;SMXR01
+Bacteria	Spongiisociales	12	7	7	1	0.244265	0.42746375	all region medoids + farthest-first family additions to per-order target	UBA4744;JAOTWH01;SHLN01;UBA5794;JAENVV01;Spongiisociaceae;JALYHC01
+Bacteria	Sporichthyales	1	1	1	1			single eligible family	Sporichthyaceae
+Bacteria	Sporomusales	7	4	4	1	0.0863	0.151025	all region medoids + farthest-first family additions to per-order target	Thermosinaceae;Acetonemataceae;CTSoil-080;Sporomusaceae
+Bacteria	Staphylococcales	4	1	1	2	0.1541	0.269675	region medoids, farthest-first to per-order target	Staphylococcaceae
+Bacteria	Steroidobacterales	22	9	9	4	0.16491	0.2885925	all region medoids + farthest-first family additions to per-order target	JBFFHS01;JABDLF01;Foliamicaceae;UBA11654;Steroidobacteraceae;JABDMI01;CAZJFQ01;JBCAXP01;GCA-2729495
+Bacteria	Streptomycetales	3	1	1	1	0.15309	0.2679075	region medoids, farthest-first to per-order target	Carbonactinosporaceae
+Bacteria	Streptosporangiales	4	2	2	1	0.17197	0.3009475	all region medoids + farthest-first family additions to per-order target	WHSR01;WHST01
+Bacteria	Subteraquimicrobiales	4	3	3	1	0.18496	0.32368	all region medoids + farthest-first family additions to per-order target	Subteraquimicrobiaceae;DATBWY01;CAYFXD01
+Bacteria	Sulfobacillales	3	1	1	1	0.20975	0.3670625	region medoids, farthest-first to per-order target	R501
+Bacteria	Sumerlaeales	1	1	1	1			single eligible family	Sumerlaeaceae
+Bacteria	Sungbacterales	5	2	2	1	0.41315	0.7230125	all region medoids + farthest-first family additions to per-order target	SURF-37;JBBTQR01
+Bacteria	Symbiobacteriales	2	1	1	1	0.22792	0.39886	region medoids, farthest-first to per-order target	Symbiobacteriaceae
+Bacteria	Synechococcales	1	1	1	1			single eligible family	Synechococcaceae
+Bacteria	Synergistales	10	6	6	1	0.27403	0.4795525	all region medoids + farthest-first family additions to per-order target	Thermosynergistaceae;Dethiosulfovibrionaceae;Synergistaceae;Thermovirgaceae;Aminiphilaceae;Aminobacteriaceae
+Bacteria	Syntrophales	24	9	9	3	0.142795	0.24989125	all region medoids + farthest-first family additions to per-order target	UBA6807;JAQULV01;JAIPED01;UBA2192;CAMTWB01;JADFWA01;Smithellaceae;UBA4778;UBA8958
+Bacteria	Syntrophobacterales	3	2	2	1	0.17003	0.2975525	all region medoids + farthest-first family additions to per-order target	DSM-9756;Thermodesulforhabdaceae
+Bacteria	Syntrophomonadales	4	3	3	1	0.205815	0.36017625	all region medoids + farthest-first family additions to per-order target	Syntrophothermaceae;Syntrophomonadaceae;JBLNAA01
+Bacteria	Syntrophorhabdales	4	2	2	1	0.174215	0.30487625	all region medoids + farthest-first family additions to per-order target	Syntrophorhabdaceae;JANXAF01
+Bacteria	Sysuimicrobiales	6	3	3	1	0.26947	0.4715725	all region medoids + farthest-first family additions to per-order target	Thermofontiviventaceae;VGFF01;Kaftiobacteriaceae
+Bacteria	T1SED10-198M	1	1	1	1			single eligible family	T1SED10-198M
+Bacteria	T1Sed10-126	3	1	1	1	0.32456	0.56798	region medoids, farthest-first to per-order target	CAZEBV01
+Bacteria	T3Sed10-11	1	1	1	1			single eligible family	T3Sed10-11
+Bacteria	TANB77	5	1	1	1	0.34779	0.6086325	region medoids, farthest-first to per-order target	UBA1234
+Bacteria	TC1	3	1	1	1	0.34105	0.5968375	region medoids, farthest-first to per-order target	UBA5767
+Bacteria	TMED109	1	1	1	1			single eligible family	TMED109
+Bacteria	TMED2	1	1	1	1			single eligible family	TMED2
+Bacteria	Taenaricolales	2	1	1	1	0.23684	0.41447	region medoids, farthest-first to per-order target	CAZCCH01
+Bacteria	Tantalellales	1	1	1	1			single eligible family	Tantalellaceae
+Bacteria	Tariuqbacterales	1	1	1	1			single eligible family	Tariuqbacteraceae
+Bacteria	Tb-RUG-66	1	1	1	1			single eligible family	Tb-RUG-66
+Bacteria	Tenderiales	1	1	1	1			single eligible family	Tenderiaceae
+Bacteria	Tepidaquicellales	2	1	1	1	0.29899	0.5232325	region medoids, farthest-first to per-order target	OLB5
+Bacteria	Tepidibacillales	1	1	1	1			single eligible family	Tepidibacillaceae
+Bacteria	Tepidiformales	1	1	1	1			single eligible family	Tepidiformaceae
+Bacteria	Tepidihabitantales	5	3	3	1	0.31708	0.55489	all region medoids + farthest-first family additions to per-order target	JAOUPE01;DTDR01;Tepidihabitantaceae
+Bacteria	Tepidisphaerales	1	1	1	1			single eligible family	Tepidisphaeraceae
+Bacteria	Termititenacales	2	1	1	1	0.29747	0.5205725	region medoids, farthest-first to per-order target	CAYUXF01
+Bacteria	Terriglobales	2	1	1	1	0.25145	0.4400375	region medoids, farthest-first to per-order target	Acidobacteriaceae
+Bacteria	Terrybacterales	2	1	1	1	0.44209	0.7736575	region medoids, farthest-first to per-order target	2-01-FULL-58-14
+Bacteria	Tethybacterales	4	2	2	1	0.399155	0.69852125	all region medoids + farthest-first family additions to per-order target	G965206325;Tethybacteraceae
+Bacteria	Thalassobaculales	1	1	1	1			single eligible family	Thalassobaculaceae
+Bacteria	Thermacetogeniales	1	1	1	1			single eligible family	Thermacetogeniaceae
+Bacteria	Thermaerobacterales	2	1	1	1	0.24982	0.437185	region medoids, farthest-first to per-order target	RSA17
+Bacteria	Thermicanales	2	1	1	1	0.21431	0.3750425	region medoids, farthest-first to per-order target	DSM-22653
+Bacteria	Thermincolales	3	1	1	1	0.09831	0.1720425	region medoids, farthest-first to per-order target	Thermincolaceae
+Bacteria	Thermoactinomycetales	7	5	5	2	0.09263	0.1621025	all region medoids + farthest-first family additions to per-order target	JIR-001;Novibacillaceae;JANTPT01;Thermoactinomycetaceae;DSM-45169
+Bacteria	Thermoanaerobacterales	3	2	2	1	0.2017	0.352975	all region medoids + farthest-first family additions to per-order target	Thermoanaerobacteraceae;UBA4877
+Bacteria	Thermoanaerobaculales	2	1	1	1	0.30649	0.5363575	region medoids, farthest-first to per-order target	Sulfomarinibacteraceae
+Bacteria	Thermobaculales	1	1	1	1			single eligible family	Thermobaculaceae
+Bacteria	Thermodesulfobacteriales	3	1	1	1	0.20305	0.3553375	region medoids, farthest-first to per-order target	Thermodesulfatatoraceae
+Bacteria	Thermodesulfobiales	1	1	1	1			single eligible family	Thermodesulfobiaceae
+Bacteria	Thermodesulfovibrionales	13	7	7	3	0.18792	0.32886	all region medoids + farthest-first family additions to per-order target	DYHX01;Magnetobacteriaceae;Thermodesulfovibrionaceae;CALJEL01;Dissulfurispiraceae;BMS3Bbin05;JdFR-88
+Bacteria	Thermoflexales	1	1	1	1			single eligible family	Thermoflexaceae
+Bacteria	Thermofontimicrobiales	2	1	1	1	0.21612	0.37821	region medoids, farthest-first to per-order target	Thermofontimicrobiaceae
+Bacteria	Thermomicrobiales	5	1	1	1	0.30293	0.5301275	region medoids, farthest-first to per-order target	Thermomicrobiaceae
+Bacteria	Thermosediminibacterales	2	1	1	1	0.11761	0.2058175	region medoids, farthest-first to per-order target	Tepidanaerobacteraceae
+Bacteria	Thermostichales	2	1	1	1	0.17847	0.3123225	region medoids, farthest-first to per-order target	PCC-7336
+Bacteria	Thermosulfidibacterales	3	2	2	1	0.24519	0.4290825	all region medoids + farthest-first family additions to per-order target	B14-G1;Thermosulfidibacteraceae
+Bacteria	Thermosynechococcales	1	1	1	1			single eligible family	Thermosynechococcaceae
+Bacteria	Thermotogales	3	2	2	1	0.29323	0.5131525	all region medoids + farthest-first family additions to per-order target	Thermotogaceae;Fervidobacteriaceae
+Bacteria	Thermotomaculales	1	1	1	1			single eligible family	Thermotomaculaceae
+Bacteria	Theseobacterales	1	1	1	1			single eligible family	Theseobacteraceae
+Bacteria	Thiohalobacterales	1	1	1	1			single eligible family	Thiohalobacteraceae
+Bacteria	Thiohalomonadales	1	1	1	1			single eligible family	Thiohalomonadaceae
+Bacteria	Thiohalorhabdales	2	1	1	1	0.16703	0.2923025	region medoids, farthest-first to per-order target	CAYUWI01
+Bacteria	Thiohalospirales	1	1	1	1			single eligible family	Thiohalospiraceae
+Bacteria	Thiomicrospirales	1	1	1	1			single eligible family	Thiomicrospiraceae
+Bacteria	Thiotrichales	1	1	1	1			single eligible family	Thiotrichaceae
+Bacteria	Tissierellales	20	8	8	8	0.12108	0.21189	region medoids, farthest-first to per-order target	Dethiosulfatibacteraceae;Peptoniphilaceae;GPF-1;Sporanaerobacteraceae;JAOAQY01;MCWD3;Caldisalinibacteraceae;Tepidimicrobiaceae
+Bacteria	Tistrellales	1	1	1	1			single eligible family	Tistrellaceae
+Bacteria	Treponematales	6	3	3	1	0.267765	0.46858875	all region medoids + farthest-first family additions to per-order target	UBA12059;Treponemataceae;Breznakiellaceae
+Bacteria	Tritonobacterales	1	1	1	1			single eligible family	Tritonobacteraceae
+Bacteria	Tumebacillales	5	3	3	1	0.1308	0.2289	all region medoids + farthest-first family additions to per-order target	BOQE01;JAQBPP01;MYW30-H2
+Bacteria	Turneriellales	7	5	5	1	0.29911	0.5234425	all region medoids + farthest-first family additions to per-order target	J094;CBDBES01;DYLW01;Turneriellaceae;JAOUFE01
+Bacteria	UBA10025	3	2	2	1	0.35707	0.6248725	all region medoids + farthest-first family additions to per-order target	UBA10025;JBIOWE01
+Bacteria	UBA10030	9	4	4	1	0.20584	0.36022	all region medoids + farthest-first family additions to per-order target	SZUA-254;F1-140-MAGs086;JAZGDE01;UBA8401
+Bacteria	UBA10092	1	1	1	1			single eligible family	UBA10092
+Bacteria	UBA10105	2	1	1	1	0.39642	0.693735	region medoids, farthest-first to per-order target	UBA10105
+Bacteria	UBA101185	2	1	1	1	0.58138	1.017415	region medoids, farthest-first to per-order target	2-01-FULL-41-18
+Bacteria	UBA1018	12	6	6	2	0.233035	0.40781125	all region medoids + farthest-first family additions to per-order target	CAYHWW01;UBA1018;CAZQUK01;CAZJVD01;CAIMNF01;UBA923
+Bacteria	UBA10190	2	1	1	1	0.52918	0.926065	region medoids, farthest-first to per-order target	CAIZMI01
+Bacteria	UBA10199	5	2	2	2	0.19536	0.34188	region medoids, farthest-first to per-order target	UBA10199;JADGCS01
+Bacteria	UBA10329	1	1	1	1			single eligible family	UBA10329
+Bacteria	UBA10575	2	1	1	1	0.18357	0.3212475	region medoids, farthest-first to per-order target	UBA10575
+Bacteria	UBA1062	1	1	1	1			single eligible family	UBA1062
+Bacteria	UBA1063	2	1	1	1	0.32618	0.570815	region medoids, farthest-first to per-order target	CAJXJZ01
+Bacteria	UBA10806	2	1	1	1	0.26433	0.4625775	region medoids, farthest-first to per-order target	4484-95
+Bacteria	UBA10988	1	1	1	1			single eligible family	UBA10988
+Bacteria	UBA11029	1	1	1	1			single eligible family	UBA11029
+Bacteria	UBA11073	1	1	1	1			single eligible family	UBA11073
+Bacteria	UBA1113	1	1	1	1			single eligible family	UBA1113
+Bacteria	UBA11136	1	1	1	1			single eligible family	UBA11136
+Bacteria	UBA11222	1	1	1	1			single eligible family	UBA11222
+Bacteria	UBA11236	2	1	1	1	0.31427	0.5499725	region medoids, farthest-first to per-order target	JADFYW01
+Bacteria	UBA11346	1	1	1	1			single eligible family	UBA11346
+Bacteria	UBA1135	10	5	5	1	0.436885	0.76454875	all region medoids + farthest-first family additions to per-order target	CAZMYG01;UBA1135;UBA2386;CAZZHK01;GCA-002686595
+Bacteria	UBA1144	1	1	1	1			single eligible family	UBA1144
+Bacteria	UBA1146	2	1	1	1	0.36636	0.64113	region medoids, farthest-first to per-order target	JAJFFE01
+Bacteria	UBA1149	5	2	2	1	0.219	0.38325	all region medoids + farthest-first family additions to per-order target	SPBQ01;JAJCZL01
+Bacteria	UBA11705	4	2	2	1	0.370965	0.64918875	all region medoids + farthest-first family additions to per-order target	UBA11705;JACRDX01
+Bacteria	UBA11713	1	1	1	1			single eligible family	2-01-FULL-45-33
+Bacteria	UBA1177	6	4	4	1	0.26484	0.46347	all region medoids + farthest-first family additions to per-order target	CALOFP01;JAWOGE01;JAKLFG01;JAGLDR01
+Bacteria	UBA11872	2	1	1	1	0.47527	0.8317225	region medoids, farthest-first to per-order target	UBA11872
+Bacteria	UBA12015	1	1	1	1			single eligible family	UBA12015
+Bacteria	UBA1212	5	3	3	2	0.19891	0.3480925	all region medoids + farthest-first family additions to per-order target	UBA1255;CASDQQ01;UBA1212
+Bacteria	UBA12135	1	1	1	1			single eligible family	UBA12135
+Bacteria	UBA12157	2	1	1	1	0.37161	0.6503175	region medoids, farthest-first to per-order target	JAENIV01
+Bacteria	UBA12157_A	1	1	1	1			single eligible family	GCA-002773005
+Bacteria	UBA12178	1	1	1	1			single eligible family	UBA12178
+Bacteria	UBA12225	2	1	1	1	0.38092	0.66661	region medoids, farthest-first to per-order target	JAJDUF01
+Bacteria	UBA12327	1	1	1	1			single eligible family	UBA12327
+Bacteria	UBA12402	1	1	1	1			single eligible family	UBA12402
+Bacteria	UBA12405	7	5	5	1	0.4938	0.86415	all region medoids + farthest-first family additions to per-order target	CAZMUE01;UBA12405;CAZGPK01;UBA6130;JAHJSD01
+Bacteria	UBA1247	1	1	1	1			single eligible family	UBA1247
+Bacteria	UBA1280	4	2	2	1	0.24787	0.4337725	all region medoids + farthest-first family additions to per-order target	RI-95;UBA12223
+Bacteria	UBA1369	19	8	8	1	0.3926	0.68705	all region medoids + farthest-first family additions to per-order target	CAYGJQ01;GCA-2718715;UBA12463;UM-FILTER-53-11;GWF2-33-10;LOWO2-01-FULL-3;GWC2-33-13;UBA12470
+Bacteria	UBA1381	4	1	1	1	0.205655	0.35989625	region medoids, farthest-first to per-order target	CAJOGA01
+Bacteria	UBA1384	3	2	2	1	0.42567	0.7449225	all region medoids + farthest-first family additions to per-order target	DTJR01;UBA1384
+Bacteria	UBA1398	3	1	1	1	0.29891	0.5230925	region medoids, farthest-first to per-order target	CAZMGT01
+Bacteria	UBA1400	19	6	6	4	0.43894	0.768145	all region medoids + farthest-first family additions to per-order target	Chisholmbacteraceae;CAYNFZ01;CAYXSR01;Chazhemtobacteraceae;UBA12108;UBA1449
+Bacteria	UBA1406	3	1	1	1	0.50748	0.88809	region medoids, farthest-first to per-order target	GWC2-37-13
+Bacteria	UBA1429	1	1	1	1			single eligible family	UBA1429
+Bacteria	UBA1439	1	1	1	1			single eligible family	UBA1439
+Bacteria	UBA1444	1	1	1	1			single eligible family	UBA1444
+Bacteria	UBA1544	1	1	1	1			single eligible family	UBA1544
+Bacteria	UBA1551	2	1	1	1	0.22734	0.397845	region medoids, farthest-first to per-order target	UBA1551
+Bacteria	UBA1558	7	5	5	1	0.43533	0.7618275	all region medoids + farthest-first family additions to per-order target	UBA10009;2-01-FULL-52-15;S5-K13;CAZAXS01;JAPLWL01
+Bacteria	UBA1565	3	1	1	1	0.24246	0.424305	region medoids, farthest-first to per-order target	JACRDR01
+Bacteria	UBA1845	10	6	6	1	0.32607	0.5706225	all region medoids + farthest-first family additions to per-order target	DATKUK01;JANYLN01;Fen-1342;UTPLA1;CAIVHJ01;G020352895
+Bacteria	UBA1874	1	1	1	1			single eligible family	UBA1874
+Bacteria	UBA1875	6	3	3	2	0.28455	0.4979625	all region medoids + farthest-first family additions to per-order target	CAIMLA01;CAZAFQ01;GCA-2785325
+Bacteria	UBA2136	5	4	4	1	0.31352	0.54866	all region medoids + farthest-first family additions to per-order target	JAPPOO01;UBA6156;UBA2136;JASBTF01
+Bacteria	UBA2169	1	1	1	1			single eligible family	UBA2169
+Bacteria	UBA2196	3	2	2	1	0.36036	0.63063	all region medoids + farthest-first family additions to per-order target	CAYSSY01;GWA2-42-15
+Bacteria	UBA2199	1	1	1	1			single eligible family	UBA2199
+Bacteria	UBA2200	2	1	1	1	0.21949	0.3841075	region medoids, farthest-first to per-order target	JACIWT01
+Bacteria	UBA2201	2	1	1	1	0.35142	0.614985	region medoids, farthest-first to per-order target	DAOSWS01
+Bacteria	UBA2233	1	1	1	1			single eligible family	UBA2233
+Bacteria	UBA2241	1	1	1	1			single eligible family	UBA2241
+Bacteria	UBA2242	4	2	2	1	0.20842	0.364735	all region medoids + farthest-first family additions to per-order target	UBA2242;B5-G15
+Bacteria	UBA2247	6	3	3	1	0.284525	0.49791875	all region medoids + farthest-first family additions to per-order target	RBG-13-53-26;UBA3088;UBA2247
+Bacteria	UBA2361	21	9	9	3	0.29396	0.51443	all region medoids + farthest-first family additions to per-order target	CALMIO01;JAGFJO01;CAKMMH01;JBIIDM01;CALJRW01;JAAYZI01;RFPC01;CAYTAW01;J135
+Bacteria	UBA2392	2	1	1	1	0.43739	0.7654325	region medoids, farthest-first to per-order target	JABWBM01
+Bacteria	UBA2394	1	1	1	1			single eligible family	UBA2394
+Bacteria	UBA2400	1	1	1	1			single eligible family	UBA2400
+Bacteria	UBA2428	1	1	1	1			single eligible family	UBA2428
+Bacteria	UBA2466	2	1	1	1	0.24081	0.4214175	region medoids, farthest-first to per-order target	JACKAF01
+Bacteria	UBA2562	1	1	1	1			single eligible family	UBA2562
+Bacteria	UBA2565	2	1	1	1	0.31592	0.55286	region medoids, farthest-first to per-order target	JAYEIY01
+Bacteria	UBA2591	18	8	8	3	0.36695	0.6421625	all region medoids + farthest-first family additions to per-order target	CAYTBZ01;CG2-30-36-38;CAZMTM01;CAZVCF01;DAOWAM01;MWDC01;JAZDFN01;PGYQ01
+Bacteria	UBA2766	1	1	1	1			single eligible family	UBA2766
+Bacteria	UBA2770	1	1	1	1			single eligible family	UBA2770
+Bacteria	UBA2966	2	1	1	1	0.22718	0.397565	region medoids, farthest-first to per-order target	CAIVPW01
+Bacteria	UBA2968	2	1	1	1	0.23905	0.4183375	region medoids, farthest-first to per-order target	GCA-2709665
+Bacteria	UBA2979	1	1	1	1			single eligible family	UBA2979
+Bacteria	UBA3054	3	2	2	1	0.2565	0.448875	all region medoids + farthest-first family additions to per-order target	B51-G9;UBA3054
+Bacteria	UBA3071	1	1	1	1			single eligible family	UBA3071
+Bacteria	UBA3072	2	1	1	1	0.41638	0.728665	region medoids, farthest-first to per-order target	B12-G15
+Bacteria	UBA3073	1	1	1	1			single eligible family	UBA3073
+Bacteria	UBA3085	1	1	1	1			single eligible family	Oleimmundimicrobiaceae
+Bacteria	UBA3375	1	1	1	1			single eligible family	UBA3375
+Bacteria	UBA3505	1	1	1	1			single eligible family	UBA3505
+Bacteria	UBA3561	1	1	1	1			single eligible family	UBA3561
+Bacteria	UBA3569	1	1	1	1			single eligible family	UBA3569
+Bacteria	UBA3575	2	1	1	1	0.18733	0.3278275	region medoids, farthest-first to per-order target	DUQP01
+Bacteria	UBA3830	5	2	2	1	0.37589	0.6578075	all region medoids + farthest-first family additions to per-order target	JAIRMZ01;CASESI01
+Bacteria	UBA4055	1	1	1	1			single eligible family	UBA4055
+Bacteria	UBA4068	5	4	4	1	0.21257	0.3719975	all region medoids + farthest-first family additions to per-order target	JAAVYR01;UBA4068;UBA4997;UBA5755
+Bacteria	UBA4092	1	1	1	1			single eligible family	UBA4092
+Bacteria	UBA4142	2	1	1	1	0.26732	0.46781	region medoids, farthest-first to per-order target	SHND01
+Bacteria	UBA4151	1	1	1	1			single eligible family	UBA4151
+Bacteria	UBA4248	3	2	2	1	0.21853	0.3824275	all region medoids + farthest-first family additions to per-order target	UM-FILTER-63-12;JAVFAO01
+Bacteria	UBA4408	1	1	1	1			single eligible family	UBA4408
+Bacteria	UBA4473	1	1	1	1			single eligible family	UBA4473
+Bacteria	UBA4575	1	1	1	1			single eligible family	UBA4575
+Bacteria	UBA4664	11	6	6	2	0.25308	0.44289	all region medoids + farthest-first family additions to per-order target	CAYXHD01;DATIHE01;CAZJNH01;CAZOQX01;DATIHN01;UBA4664
+Bacteria	UBA4738	8	5	5	1	0.18646	0.326305	all region medoids + farthest-first family additions to per-order target	G016210805;CALAEC01;JBBDTT01;UBA4738;JBJMLN01
+Bacteria	UBA4802	7	5	5	1	0.18925	0.3311875	all region medoids + farthest-first family additions to per-order target	JAGODF01;JAFGJZ01;UBA5550;JAFGDQ01;UBA5368
+Bacteria	UBA4820	2	1	1	1	0.27851	0.4873925	region medoids, farthest-first to per-order target	DSQY01
+Bacteria	UBA4882	1	1	1	1			single eligible family	UBA4882
+Bacteria	UBA4971	1	1	1	1			single eligible family	UBA4971
+Bacteria	UBA4975	3	2	2	1	0.16323	0.2856525	all region medoids + farthest-first family additions to per-order target	UBA4975;PWLI01
+Bacteria	UBA5066	3	1	1	1	0.2135	0.373625	region medoids, farthest-first to per-order target	DATFVB01
+Bacteria	UBA5070	1	1	1	1			single eligible family	UBA5070
+Bacteria	UBA5177	2	1	1	1	0.28953	0.5066775	region medoids, farthest-first to per-order target	JAJPKF01
+Bacteria	UBA5214	1	1	1	1			single eligible family	UBA5214
+Bacteria	UBA5301	1	1	1	1			single eligible family	UBA5301
+Bacteria	UBA5335	2	1	1	1	0.16563	0.2898525	region medoids, farthest-first to per-order target	SLRW01
+Bacteria	UBA5359	1	1	1	1			single eligible family	UBA5359
+Bacteria	UBA5435	1	1	1	1			single eligible family	UBA5435
+Bacteria	UBA5500	1	1	1	1			single eligible family	UBA5500
+Bacteria	UBA5829	3	2	2	1	0.24796	0.43393	all region medoids + farthest-first family additions to per-order target	DTLH01;UBA5829
+Bacteria	UBA5859	1	1	1	1			single eligible family	UBA5859
+Bacteria	UBA5861	1	1	1	1			single eligible family	UBA5861
+Bacteria	UBA6002	1	1	1	1			single eligible family	UBA6002
+Bacteria	UBA6077	5	3	3	1	0.33609	0.5881575	all region medoids + farthest-first family additions to per-order target	JAJPHF01;CF-72;SHYK01
+Bacteria	UBA6098	1	1	1	1			single eligible family	UBA6098
+Bacteria	UBA6099	3	1	1	1	0.28815	0.5042625	region medoids, farthest-first to per-order target	UBA6099
+Bacteria	UBA6126	2	1	1	1	0.34962	0.611835	region medoids, farthest-first to per-order target	JAGPKI01
+Bacteria	UBA6184	1	1	1	1			single eligible family	UBA6184
+Bacteria	UBA6186	1	1	1	1			single eligible family	Azoamicaceae
+Bacteria	UBA6191	1	1	1	1			single eligible family	UBA6191
+Bacteria	UBA6257	32	10	10	4	0.45138	0.789915	all region medoids + farthest-first family additions to per-order target	CAYTHZ01;WO2-44-18;JAPLYJ01;HR35;Brennerbacteraceae;JAKLIH01;CAYRSR01;JACRHW01;JAGGUH01;JAGOQP01
+Bacteria	UBA6262	1	1	1	1			single eligible family	UBA6262
+Bacteria	UBA6266	1	1	1	1			single eligible family	UBA6266
+Bacteria	UBA6429	1	1	1	1			single eligible family	Thiohalophilaceae
+Bacteria	UBA6595	1	1	1	1			single eligible family	UBA6595
+Bacteria	UBA6615	1	1	1	1			single eligible family	UBA6615
+Bacteria	UBA6624	1	1	1	1			single eligible family	UBA6624
+Bacteria	UBA6777	1	1	1	1			single eligible family	UBA6777
+Bacteria	UBA6902	5	1	1	1	0.16904	0.29582	region medoids, farthest-first to per-order target	JACROP01
+Bacteria	UBA6911	1	1	1	1			single eligible family	UBA6911
+Bacteria	UBA6919	2	1	1	1	0.20831	0.3645425	region medoids, farthest-first to per-order target	CBDBPB01
+Bacteria	UBA6926	2	1	1	1	0.38514	0.673995	region medoids, farthest-first to per-order target	UBA6926
+Bacteria	UBA727	6	3	3	1	0.275895	0.48281625	all region medoids + farthest-first family additions to per-order target	CAYLZW01;JAHDBA01;JABDBI01
+Bacteria	UBA7366	1	1	1	1			single eligible family	UBA7366
+Bacteria	UBA7526	1	1	1	1			single eligible family	UBA7526
+Bacteria	UBA7540	2	1	1	1	0.25042	0.438235	region medoids, farthest-first to per-order target	JAPUME01
+Bacteria	UBA7656	2	1	1	1	0.21907	0.3833725	region medoids, farthest-first to per-order target	JADIYM01
+Bacteria	UBA7662	6	4	4	1	0.19717	0.3450475	all region medoids + farthest-first family additions to per-order target	DAIRTB01;JAYUJN01;CANHCV01;JAIXUI01
+Bacteria	UBA7694	2	1	1	1	0.40485	0.7084875	region medoids, farthest-first to per-order target	JACMQJ01
+Bacteria	UBA7702	1	1	1	1			single eligible family	UBA7702
+Bacteria	UBA7879	3	2	2	1	0.27787	0.4862725	all region medoids + farthest-first family additions to per-order target	VGCX01;UBA7879
+Bacteria	UBA7883	7	4	4	2	0.18262	0.319585	all region medoids + farthest-first family additions to per-order target	JAJRTC01;JBLYYQ01;JADGGD01;UBA7883
+Bacteria	UBA7887	1	1	1	1			single eligible family	UBA7887
+Bacteria	UBA7937	3	1	1	1	0.23018	0.402815	region medoids, farthest-first to per-order target	UBA7937
+Bacteria	UBA7950	2	1	1	1	0.3029	0.530075	region medoids, farthest-first to per-order target	UBA7950
+Bacteria	UBA796	7	5	5	1	0.35432	0.62006	all region medoids + farthest-first family additions to per-order target	CAZKWG01;JAFGLY01;GCA-2862545;SXON01;CAJQPC01
+Bacteria	UBA7976	2	1	1	1	0.33718	0.590065	region medoids, farthest-first to per-order target	UBA1532
+Bacteria	UBA7985	3	2	2	1	0.24582	0.430185	all region medoids + farthest-first family additions to per-order target	CAJQQZ01;UBA7985
+Bacteria	UBA8108	3	1	1	1	0.29622	0.518385	region medoids, farthest-first to per-order target	UBA8108
+Bacteria	UBA8153	1	1	1	1			single eligible family	UBA8153
+Bacteria	UBA817	3	2	2	1	0.25536	0.44688	all region medoids + farthest-first family additions to per-order target	JABISL01;UBA817
+Bacteria	UBA8231	1	1	1	1			single eligible family	UBA8231
+Bacteria	UBA8248	2	1	1	1	0.2941	0.514675	region medoids, farthest-first to per-order target	JBHIBR01
+Bacteria	UBA828	2	1	1	1	0.22123	0.3871525	region medoids, farthest-first to per-order target	JAPUJA01
+Bacteria	UBA8317	1	1	1	1			single eligible family	UBA8317
+Bacteria	UBA8346	1	1	1	1			single eligible family	UBA8346
+Bacteria	UBA8349	1	1	1	1			single eligible family	UBA8349
+Bacteria	UBA8366	6	4	4	1	0.19019	0.3328325	all region medoids + farthest-first family additions to per-order target	G965603855;CAVOAK01;UBA8366;JADFVY01
+Bacteria	UBA8416	20	8	8	1	0.26085	0.4564875	all region medoids + farthest-first family additions to per-order target	YA12-FULL-48-11;VGWI01;JBFIFS01;UBA8416;JAIOPI01;SLMC01;JAUUYL01;CAMCYG01
+Bacteria	UBA8468	1	1	1	1			single eligible family	UBA8468
+Bacteria	UBA8473	1	1	1	1			single eligible family	UBA8473
+Bacteria	UBA8477	2	1	1	1	0.22167	0.3879225	region medoids, farthest-first to per-order target	JABMPR01
+Bacteria	UBA8481	2	1	1	1	0.27129	0.4747575	region medoids, farthest-first to per-order target	J006
+Bacteria	UBA8517	3	2	2	1	0.47402	0.829535	all region medoids + farthest-first family additions to per-order target	JACQJR01;UBA8517
+Bacteria	UBA8524	1	1	1	1			single eligible family	UBA8524
+Bacteria	UBA8558	1	1	1	1			single eligible family	UBA8558
+Bacteria	UBA8890	1	1	1	1			single eligible family	UBA8898
+Bacteria	UBA890	2	1	1	1	0.2693	0.471275	region medoids, farthest-first to per-order target	UBA890
+Bacteria	UBA8919	2	1	1	1	0.23121	0.4046175	region medoids, farthest-first to per-order target	MWCF01
+Bacteria	UBA9042	1	1	1	1			single eligible family	UBA9042
+Bacteria	UBA9088	2	1	1	1	0.34272	0.59976	region medoids, farthest-first to per-order target	JAGUXG01
+Bacteria	UBA9089	1	1	1	1			single eligible family	UBA9089
+Bacteria	UBA9160	10	6	6	1	0.22596	0.39543	all region medoids + farthest-first family additions to per-order target	UBA9160;SMWR01;JADFDR01;JALSIO01;UBA6930;JAFDDA01
+Bacteria	UBA920	6	1	1	1	0.39816	0.69678	region medoids, farthest-first to per-order target	VMFF01
+Bacteria	UBA9214	1	1	1	1			single eligible family	UBA9214
+Bacteria	UBA9216	1	1	1	1			single eligible family	UBA9216
+Bacteria	UBA9217	1	1	1	1			single eligible family	UBA9217
+Bacteria	UBA9219	3	1	1	1	0.18316	0.32053	region medoids, farthest-first to per-order target	RFNS01
+Bacteria	UBA9339	1	1	1	1			single eligible family	UBA9339
+Bacteria	UBA9570	5	4	4	1	0.40563	0.7098525	all region medoids + farthest-first family additions to per-order target	JAHJKD01;XYC2-FULL-38-9;JBBTWU01;UBA9570
+Bacteria	UBA9615	3	2	2	1	0.32931	0.5762925	all region medoids + farthest-first family additions to per-order target	JAKLKC01;UBA9615
+Bacteria	UBA9629	3	2	2	1	0.45282	0.792435	all region medoids + farthest-first family additions to per-order target	CAZHCQ01;GWA2-43-13
+Bacteria	UBA9637	2	1	1	1	0.1734	0.30345	region medoids, farthest-first to per-order target	GWC2-42-11
+Bacteria	UBA9655	1	1	1	1			single eligible family	UBA9655
+Bacteria	UBA9934	7	5	5	1	0.38175	0.6680625	all region medoids + farthest-first family additions to per-order target	GWF2-40-263;UBA11717;UBA9934;UBA10169;UBA9568
+Bacteria	UBA9936	1	1	1	1			single eligible family	UBA9936
+Bacteria	UBA994	1	1	1	1			single eligible family	UBA994
+Bacteria	UBA9942	2	1	1	1	0.27554	0.482195	region medoids, farthest-first to per-order target	JAHJSF01
+Bacteria	UBA995	2	1	1	1	0.30681	0.5369175	region medoids, farthest-first to per-order target	UBA9673
+Bacteria	UBA9968	3	2	2	1	0.16915	0.2960125	all region medoids + farthest-first family additions to per-order target	CAXXLF01;JAJDTQ01
+Bacteria	UBA9980	1	1	1	1			single eligible family	UBA9980
+Bacteria	UBA9983	1	1	1	1			single eligible family	UBA9983
+Bacteria	UKL13-3	1	1	1	1			single eligible family	UKL13-3
+Bacteria	UM-FILTER-39-15	1	1	1	1			single eligible family	UM-FILTER-39-15
+Bacteria	UM-FILTER-40-11	1	1	1	1			single eligible family	UM-FILTER-40-11
+Bacteria	UM-FILTER-42-10	1	1	1	1			single eligible family	UM-FILTER-42-10
+Bacteria	UM-FILTER-43-11	2	1	1	1	0.2525	0.441875	region medoids, farthest-first to per-order target	JACRIE01
+Bacteria	UM-FILTER-46-8	1	1	1	1			single eligible family	UM-FILTER-46-8
+Bacteria	UMGS1260	1	1	1	1			single eligible family	UMGS1260
+Bacteria	UMGS1810	1	1	1	1			single eligible family	UMGS1810
+Bacteria	UMGS1840	2	1	1	1	0.26953	0.4716775	region medoids, farthest-first to per-order target	HGM11507
+Bacteria	UMGS1883	3	1	1	1	0.23507	0.4113725	region medoids, farthest-first to per-order target	JAAYMJ01
+Bacteria	UTPRO1	2	1	1	1	0.22125	0.3871875	region medoids, farthest-first to per-order target	JBBIJE01
+Bacteria	UWMA-0217	1	1	1	1			single eligible family	UWMA-0217
+Bacteria	Uabimicrobiales	2	1	1	1	0.40706	0.712355	region medoids, farthest-first to per-order target	JABWCH01
+Bacteria	VBWC01	1	1	1	1			single eligible family	VBWC01
+Bacteria	VFKW01	1	1	1	1			single eligible family	VFKW01
+Bacteria	VGDZ01	1	1	1	1			single eligible family	VGDZ01
+Bacteria	VGEJ01	1	1	1	1			single eligible family	VGEJ01
+Bacteria	VGKH01	2	1	1	1	0.24851	0.4348925	region medoids, farthest-first to per-order target	JBHPFN01
+Bacteria	VGKN01	1	1	1	1			single eligible family	VGKN01
+Bacteria	VGLL01	1	1	1	1			single eligible family	VGLL01
+Bacteria	VGOG01	1	1	1	1			single eligible family	VGOG01
+Bacteria	VMEV01	3	1	1	1	0.47083	0.8239525	region medoids, farthest-first to per-order target	CAZAJQ01
+Bacteria	VXOZ01	1	1	1	1			single eligible family	VXOZ01
+Bacteria	Vampirovibrionales	3	2	2	1	0.26623	0.4659025	all region medoids + farthest-first family additions to per-order target	Vampirovibrionaceae;JAJTHC01
+Bacteria	Veblenbacterales	1	1	1	1			single eligible family	UBA10138
+Bacteria	Veillonellales	4	3	3	1	0.22066	0.386155	all region medoids + farthest-first family additions to per-order target	Megasphaeraceae;Dialisteraceae;Negativicoccaceae
+Bacteria	Velamenicoccales	2	1	1	1	0.31457	0.5504975	region medoids, farthest-first to per-order target	JABMQK01
+Bacteria	Velesiimonadales	1	1	1	1			single eligible family	Velesiimonadaceae
+Bacteria	Verrucomicrobiales	8	4	4	1	0.271865	0.47576375	all region medoids + farthest-first family additions to per-order target	SKLO01;CAZUPP01;Akkermansiaceae;SLCJ01
+Bacteria	Versatilivoradales	1	1	1	1			single eligible family	Versatilivoraceae
+Bacteria	Vicinamibacterales	19	8	8	2	0.14851	0.2598925	all region medoids + farthest-first family additions to per-order target	JAHECP01;JACPPN01;Vicinamibacteraceae;UBA8438;SCN-69-37;JAKQTR01;G965249535;UBA2999
+Bacteria	Victivallales	12	6	6	1	0.25841	0.4522175	all region medoids + farthest-first family additions to per-order target	G963678815;CAZIVM01;CAZGYO01;JAADHT01;GWF2-38-69;UBA1829
+Bacteria	Vulcanimicrobiales	2	1	1	1	0.21415	0.3747625	region medoids, farthest-first to per-order target	SCRA01
+Bacteria	WFTA01	1	1	1	1			single eligible family	S139-112
+Bacteria	WGA-4E	4	2	2	1	0.234955	0.41117125	all region medoids + farthest-first family additions to per-order target	JAJDTR01;UBA9662
+Bacteria	WGAB01	1	1	1	1			single eligible family	WGAB01
+Bacteria	WHTO01	1	1	1	1			single eligible family	WHTO01
+Bacteria	WJJR01	2	1	1	1	0.27913	0.4884775	region medoids, farthest-first to per-order target	JAJRUJ01
+Bacteria	WLWN01	1	1	1	1			single eligible family	WLWN01
+Bacteria	WLWR01	1	1	1	1			single eligible family	WLWR01
+Bacteria	WOZS01	1	1	1	1			single eligible family	WOZS01
+Bacteria	WQYP01	1	1	1	1			single eligible family	WQYP01
+Bacteria	WRAU01	3	2	2	1	0.41566	0.727405	all region medoids + farthest-first family additions to per-order target	JBIIMR01;CAYYLE01
+Bacteria	WRBN01	1	1	1	1			single eligible family	WRBN01
+Bacteria	WRKU01	3	2	2	1	0.2428	0.4249	all region medoids + farthest-first family additions to per-order target	JAENWW01;WRKU01
+Bacteria	WRLR01	1	1	1	1			single eligible family	WRLR01
+Bacteria	WSZJ01	4	2	2	1	0.355645	0.62237875	all region medoids + farthest-first family additions to per-order target	JACPWG01;WSZJ01
+Bacteria	WTBG01	1	1	1	1			single eligible family	WTBG01
+Bacteria	WTKD01	2	1	1	1	0.63762	1.115835	region medoids, farthest-first to per-order target	G963693115
+Bacteria	WVWN01	2	1	1	1	0.3076	0.5383	region medoids, farthest-first to per-order target	G020348885
+Bacteria	WVXP01	2	1	1	1	0.22068	0.38619	region medoids, farthest-first to per-order target	G020346125
+Bacteria	WVXT01	2	1	1	1	0.30256	0.52948	region medoids, farthest-first to per-order target	JAUXBS01
+Bacteria	WVZY01	2	1	1	1	0.21608	0.37814	region medoids, farthest-first to per-order target	JAKEHA01
+Bacteria	Winmispirales	1	1	1	1			single eligible family	Winmispiraceae
+Bacteria	Woykebacterales	3	1	1	1	0.42016	0.73528	region medoids, farthest-first to per-order target	2-01-FULL-43-14
+Bacteria	XJ16	1	1	1	1			single eligible family	Halofilaceae
+Bacteria	XYA12-FULL-58-9	8	4	4	1	0.212965	0.37268875	all region medoids + farthest-first family additions to per-order target	CAYXVF01;CAYHNK01;SYDY01;JASMKV01
+Bacteria	XYA2-FULL-43-10	4	3	3	1	0.413485	0.72359875	all region medoids + farthest-first family additions to per-order target	XYA2-FULL-43-10;JAKAMI01;CAINNR01
+Bacteria	XYB2-FULL-38-15	1	1	1	1			single eligible family	XYB2-FULL-38-15
+Bacteria	XYC2-FULL-46-14	4	2	2	1	0.271655	0.47539625	all region medoids + farthest-first family additions to per-order target	WPAF01;XYC2-FULL-46-14
+Bacteria	XYD2-FULL-50-16	5	2	2	1	0.35455	0.6204625	all region medoids + farthest-first family additions to per-order target	JBNMNM01;G965216635
+Bacteria	Xanthomonadales	12	7	7	2	0.20064	0.35112	all region medoids + farthest-first family additions to per-order target	Rhodanobacteraceae;SZUA-36;Marinicellaceae;SZUA-5;S139-57;SZUA-38;BQJN01
+Bacteria	Xenobiales	3	2	2	1	0.26556	0.46473	all region medoids + farthest-first family additions to per-order target	QWHO01;Xenobiaceae
+Bacteria	YA12-FULL-61-11	1	1	1	1			single eligible family	YA12-FULL-61-11
+Bacteria	ZCTH02-B2	1	1	1	1			single eligible family	ZCTH02-B2
+Bacteria	Zapsychrales	14	6	6	2	0.19734	0.345345	all region medoids + farthest-first family additions to per-order target	JBAZNR01;JAHFGK01;Fredricksoniimonadaceae;Aceulaceae;JAHFFX01;Zapsychraceae
+Bacteria	Zavarziniales	1	1	1	1			single eligible family	Zavarziniaceae
+Bacteria	Zhuqueibacterales	2	1	1	1	0.23028	0.40299	region medoids, farthest-first to per-order target	Geothermadaptataceae
+Bacteria	Zipacnadales	7	4	4	1	0.33	0.5775	all region medoids + farthest-first family additions to per-order target	Zipacnadaceae;VGFC01;FEN-943;UBA5352
+Bacteria	Zymogenales	1	1	1	1			single eligible family	Zymogenaceae
